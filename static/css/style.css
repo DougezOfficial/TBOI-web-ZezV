@@ -300,61 +300,62 @@ footer {
 
 .fade-in-section.visible {
     opacity: 1;
+    transform: translateY(0);
+}
 
-    .featured-container {
-        display: flex;
-        justify-content: center;
-        gap: 2rem;
-        flex-wrap: wrap;
-        margin-bottom: 2rem;
-    }
+.featured-container {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+}
 
-    .hidden-grid {
-        display: none;
-    }
+.hidden-grid {
+    display: none;
+}
 
-    .grid-container {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-        gap: 1.5rem;
-        padding: 1rem;
-    }
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1.5rem;
+    padding: 1rem;
+}
 
-    /* Featured Boss/Enemy Card Specifics */
-    .boss-card,
-    .enemy-card,
-    .mini-boss-card {
-        background: #2a1a1a;
-        border: 2px solid var(--color-brick-red);
-        padding: 1rem;
-        border-radius: 8px;
-        text-align: center;
-        color: var(--color-beige);
-        transition: transform 0.3s, box-shadow 0.3s;
-    }
+/* Featured Boss/Enemy Card Specifics */
+.boss-card,
+.enemy-card,
+.mini-boss-card {
+    background: #2a1a1a;
+    border: 2px solid var(--color-brick-red);
+    padding: 1rem;
+    border-radius: 8px;
+    text-align: center;
+    color: var(--color-beige);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
 
-    .boss-card:hover,
-    .enemy-card:hover,
-    .mini-boss-card:hover {
-        transform: scale(1.05);
-        box-shadow: 0 0 15px var(--color-blood-red);
-    }
+.boss-card:hover,
+.enemy-card:hover,
+.mini-boss-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px var(--color-blood-red);
+}
 
-    .boss-card h3,
-    .enemy-card h3,
-    .mini-boss-card h3 {
-        font-family: var(--font-heading);
-        color: var(--color-blood-red);
-        margin-bottom: 0.5rem;
-    }
+.boss-card h3,
+.enemy-card h3,
+.mini-boss-card h3 {
+    font-family: var(--font-heading);
+    color: var(--color-blood-red);
+    margin-bottom: 0.5rem;
+}
 
-    .difficulty-badge {
-        display: inline-block;
-        padding: 0.25rem 0.5rem;
-        background: #000;
-        border: 1px solid var(--color-beige);
-        border-radius: 4px;
-        font-size: 0.8rem;
-        margin-top: 0.5rem;
-    }
+.difficulty-badge {
+    display: inline-block;
+    padding: 0.25rem 0.5rem;
+    background: #000;
+    border: 1px solid var(--color-beige);
+    border-radius: 4px;
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
 }
