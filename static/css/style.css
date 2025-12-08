@@ -5,6 +5,8 @@
     --color-beige: #d7ccc8;
     --color-dark-bg: #1a0f0f;
     --color-text-main: #eaddcf;
+    --color-accent-purple: #4a148c;
+    --color-accent-blue: #0d47a1;
     --font-heading: 'Creepster', display;
     --font-body: 'Roboto Mono', monospace;
 }
@@ -92,10 +94,11 @@ body {
 
 /* Sections */
 .content-section {
-    justify-content: center;
     padding: 4rem 2rem;
     max-width: 1200px;
     margin: 0 auto;
+    width: 100%;
+    /* Ensure full width capability if constrained by parent, but max-width keeps it centered */
 }
 
 .content-section h2 {
@@ -108,17 +111,7 @@ body {
     padding-right: 2rem;
 }
 
-.alt-bg {
-    background-color: #251616;
-    width: 100vw;
-    position: relative;
-    left: 50%;
-    right: 50%;
-    margin-left: -50vw;
-    margin-right: -50vw;
-    padding-left: max(2rem, calc(50vw - 600px));
-    padding-right: max(2rem, calc(50vw - 600px));
-}
+/* Removed weird negative margin alt-bg to unify layout */
 
 /* Cards */
 .card-grid {
@@ -133,6 +126,8 @@ body {
     padding: 1.5rem;
     border-radius: 4px;
     transition: transform 0.3s;
+    cursor: pointer;
+    /* Clickable */
 }
 
 .card:hover {
@@ -188,9 +183,9 @@ body {
 /* Items */
 .items-showcase {
     display: flex;
-    flex-wrap: wrap;
-    gap: 2rem;
     justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
 }
 
 .item-card {
@@ -201,6 +196,7 @@ body {
     text-align: center;
     position: relative;
     animation: fadeIn 0.5s ease-in;
+    cursor: pointer;
 }
 
 @keyframes fadeIn {
@@ -221,35 +217,83 @@ body {
 
 .item-card.angel {
     border-color: lightblue;
+    box-shadow: 0 0 5px lightblue;
 }
 
 .item-card.special {
     border-color: var(--color-blood-red);
 }
 
-/* Secret Rooms */
-.secret-diagram {
-    display: flex;
-    gap: 10px;
-    justify-content: center;
-    margin-top: 2rem;
-}
-
-.room-box {
-    width: 60px;
-    height: 60px;
-    border: 2px solid var(--color-beige);
-    background: #111;
-}
-
-.room-box.secret {
-    border-color: var(--color-blood-red);
-    color: var(--color-blood-red);
+/* MODALS */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
     display: flex;
     justify-content: center;
     align-items: center;
+    z-index: 1000;
+    opacity: 1;
+    transition: opacity 0.3s;
+}
+
+.modal-overlay.hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.modal-content {
+    background: linear-gradient(135deg, #1a0f0f, #2a1a1a);
+    padding: 2rem;
+    border: 2px solid var(--color-beige);
+    width: 90%;
+    max-width: 600px;
+    position: relative;
+    border-radius: 8px;
+    box-shadow: 0 0 30px var(--color-blood-red);
+    text-align: center;
+}
+
+.modal-close {
+    position: absolute;
+    top: 10px;
+    right: 20px;
     font-size: 2rem;
+    color: var(--color-beige);
+    cursor: pointer;
+}
+
+.modal-img {
+    height: 150px;
+    background: #000;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #555;
+    border: 1px solid #333;
+}
+
+.modal-info h2 {
     font-family: var(--font-heading);
+    color: var(--color-blood-red);
+    margin-bottom: 0.5rem;
+}
+
+.modal-guide {
+    background: rgba(0, 0, 0, 0.3);
+    padding: 1rem;
+    margin-top: 1rem;
+    border-left: 3px solid var(--color-accent-purple);
+    text-align: left;
+}
+
+.modal-guide h4 {
+    color: var(--color-accent-purple);
+    margin-bottom: 0.5rem;
 }
 
 /* Footer */
@@ -334,6 +378,7 @@ footer {
     text-align: center;
     color: var(--color-beige);
     transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
 }
 
 .boss-card:hover,
@@ -343,12 +388,25 @@ footer {
     box-shadow: 0 0 15px var(--color-blood-red);
 }
 
+/* Variant styles for variety */
+.mini-boss-card {
+    border-color: var(--color-accent-purple);
+}
+
+.mini-boss-card:hover {
+    box-shadow: 0 0 15px var(--color-accent-purple);
+}
+
 .boss-card h3,
 .enemy-card h3,
 .mini-boss-card h3 {
     font-family: var(--font-heading);
     color: var(--color-blood-red);
     margin-bottom: 0.5rem;
+}
+
+.mini-boss-card h3 {
+    color: var(--color-accent-purple);
 }
 
 .difficulty-badge {
