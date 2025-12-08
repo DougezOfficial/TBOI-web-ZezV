@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Brimstone",
+        "description": "Blood laser barrage.",
+        "type": "Passive",
+        "rarity": "Special",
+        "image_class": "item-brimstone"
+    },
+    {
+        "id": 2,
+        "name": "The D6",
+        "description": "Rerolls current room items.",
+        "type": "Active",
+        "rarity": "Common",
+        "image_class": "item-d6"
+    },
+    {
+        "id": 3,
+        "name": "Godhead",
+        "description": "Homing tears with a damaging aura.",
+        "type": "Passive",
+        "rarity": "Angel",
+        "image_class": "item-godhead"
+    },
+    {
+        "id": 4,
+        "name": "Sacred Heart",
+        "description": "Homing tears + massive damage up.",
+        "type": "Passive",
+        "rarity": "Angel",
+        "image_class": "item-sacred-heart"
+    },
+    {
+        "id": 5,
+        "name": "Mom's Knife",
+        "description": "Stab enemies close range.",
+        "type": "Passive",
+        "rarity": "Special",
+        "image_class": "item-knife"
+    },
+    {
+        "id": 6,
+        "name": "Soy Milk",
+        "description": "DMG down, Tears way up.",
+        "type": "Passive",
+        "rarity": "Common",
+        "image_class": "item-soymilk"
+    },
+    {
+        "id": 7,
+        "name": "Polyphemus",
+        "description": "Mega tears.",
+        "type": "Passive",
+        "rarity": "Rare",
+        "image_class": "item-poly"
+    },
+    {
+        "id": 8,
+        "name": "Cricket's Head",
+        "description": "DMG up + 50% multiplier.",
+        "type": "Passive",
+        "rarity": "Rare",
+        "image_class": "item-cricket-head"
+    }
+]

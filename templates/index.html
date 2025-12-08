@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Binding of Isaac: Repentance+</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Creepster&family=Roboto+Mono:wght@400;700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header class="main-header">
+        <nav class="navbar">
+            <div class="logo">TBOI: Repentance+</div>
+            <ul class="nav-links">
+                <li><a href="#bosses">Bosses</a></li>
+                <li><a href="#bestiary">Bestiary</a></li>
+                <li><a href="#items">Items</a></li>
+                <li><a href="#secret-rooms">Secret Rooms</a></li>
+                <li><a href="#modding">Modding</a></li>
+            </ul>
+        </nav>
+        <div class="hero">
+            <h1>The Binding of Isaac <br> <span class="subtitle">Repentance+</span></h1>
+            <p>Descend into the basement...</p>
+        </div>
+    </header>
+
+    <main>
+        <section id="bosses" class="content-section">
+            <h2>Guides on Bosses</h2>
+            <div class="card-grid" id="boss-grid">
+                <div class="card">
+                    <div class="card-image-placeholder boss-img">Monstro</div>
+                    <h3>Monstro</h3>
+                    <p>A simple glob of flesh. Jump patterns and blood vomit.</p>
+                </div>
+                <div class="card">
+                    <div class="card-image-placeholder boss-img">Duke</div>
+                    <h3>The Duke of Flies</h3>
+                    <p>Spawns flies. Easy to corner.</p>
+                </div>
+                <div class="card">
+                    <div class="card-image-placeholder boss-img">Mom</div>
+                    <h3>Mom</h3>
+                    <p>The foot that stomps. Watch out for shadows.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="bestiary" class="content-section alt-bg">
+            <h2>Bestiary</h2>
+            <div class="bestiary-container">
+                <div class="monster-entry">
+                    <div class="card-image-placeholder monster-icon">Fly</div>
+                    <div class="monster-info">
+                        <h3>Fly</h3>
+                        <p>Basic enemy. Orbits or chases.</p>
+                    </div>
+                </div>
+                <!-- More entries could be added here -->
+            </div>
+        </section>
+
+        <section id="items" class="content-section">
+            <h2>Items Database</h2>
+            <div class="search-container">
+                <input type="text" id="item-search" placeholder="Search for items..." class="isaac-input">
+            </div>
+            <div class="items-showcase" id="items-grid">
+                <!-- Items injected via JS -->
+                <p class="loading-text">Loading items...</p>
+            </div>
+        </section>
+
+        <section id="secret-rooms" class="content-section alt-bg">
+            <h2>Secret Rooms</h2>
+            <div class="secret-content">
+                <p>Secret rooms are usually located adjacent to 3 or 4 rooms (in valid map spots).</p>
+                <div class="secret-diagram">
+                    <div class="room-box"></div>
+                    <div class="room-box secret">?</div>
+                    <div class="room-box"></div>
+                </div>
+            </div>
+        </section>
+
+        <section id="modding" class="content-section">
+            <h2>Modding</h2>
+            <p>Learn to create your own monstrosities.</p>
+            <button class="cta-button">View Modding API</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 The Basement Dwellers. Not affiliated with Edmund McMillen or Nicalis.</p>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+
+</html>
