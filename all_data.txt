@@ -1,0 +1,3973 @@
+=== ITEMS ===
+Total: 1103
+
+Name: Unknown Item
+Description: Tracker doesn't know this item yet
+
+Name: Glitched item
+Description: Randomized effects
+
+Name: G FUEL!
+Description: Randomized effects
+
+Name: The Sad Onion
+Description: 
+
+Name: The Inner Eye
+Description: Triple shot
+
+Name: Spoon Bender
+Description: Homing tears
+
+Name: Cricket's Head
+Description: 
+
+Name: My Reflection
+Description: Boomerang tears
+
+Name: Number One
+Description: 
+
+Name: Blood of the Martyr
+Description: 
+
+Name: Brother Bobby
+Description: Familiar (3.5 dmg / tear)
+
+Name: Skatole
+Description: Flies won't attack you
+
+Name: Halo of Flies
+Description: Two non-damaging fly orbitals
+
+Name: 1UP
+Description: +1 life
+
+Name: Magic Mushroom
+Description: Size up, full heal
+
+Name: The Virus
+Description: Poison touch, enemies take 12 dmg on contact
+
+Name: Roid Rage
+Description: 
+
+Name: <3
+Description: Full heal
+
+Name: Raw Liver
+Description: Full heal
+
+Name: Skeleton Key
+Description: +99 keys
+
+Name: A Dollar
+Description: +99 cents
+
+Name: Boom!
+Description: +10 bombs
+
+Name: Transcendence
+Description: Flight
+
+Name: The Compass
+Description: Reveals special rooms
+
+Name: Lunch
+Description: 
+
+Name: Dinner
+Description: 
+
+Name: Dessert
+Description: 
+
+Name: Breakfast
+Description: 
+
+Name: Rotten Meat
+Description: 
+
+Name: Wooden Spoon
+Description: 
+
+Name: The Belt
+Description: 
+
+Name: Mom's Underwear
+Description: Spawn 3-6 blue flies on pickup
+
+Name: Mom's Heels
+Description: Deals 12 damage to enemies coming into contact with the player
+
+Name: Mom's Lipstick
+Description: Spawns a red heart on pickup
+
+Name: Wire Coat Hanger
+Description: 
+
+Name: The Bible
+Description: Temporary flight, instantly kills Mom / It Lives!
+
+Name: The Book of Belial
+Description: Temporary +2 dmg, +12.5% deal chance, x1.5 dmg with Blood of the Martyr
+
+Name: The Necronomicon
+Description: Deals 40 dmg to the room
+
+Name: The Poop
+Description: Makes a poop
+
+Name: Mr. Boom
+Description: Spawns a big bomb (185 dmg)
+
+Name: Tammy's Head
+Description: Shoots 10 tears (dmg + 25)
+
+Name: Mom's Bra
+Description: Temporarily petrifies enemies
+
+Name: Kamikaze
+Description: .5 heart dmg to yourself, 185 dmg explosion
+
+Name: Mom's Pad
+Description: Temporarily fears enemies and spawns a blue fly on use
+
+Name: Bob's Rotten Head
+Description: Shoots a poison bomb that leaves a poisoning gas cloud (185 dmg + 5 dmg / tick)
+
+Name: Teleport!
+Description: Can influence teleport direction based on player's direction
+
+Name: Yum Heart
+Description: Heals 1 heart
+
+Name: Lucky Foot
+Description: Better gambling chances, guarantee positive pills effects
+
+Name: Doctor's Remote
+Description: Shoots a missile (20x dmg)
+
+Name: Cupid's Arrow
+Description: Piercing tears
+
+Name: Shoop Da Whoop
+Description: Shoots a blood laser (2x dmg / tick, 12 ticks)
+
+Name: Steven
+Description: 
+
+Name: Pentagram
+Description: +10% deal chance
+
+Name: Dr. Fetus
+Description: Bomb tears
+
+Name: Magneto
+Description: Attracts pickups, open chests at close range
+
+Name: Treasure Map
+Description: Reveals the floor layout
+
+Name: Mom's Eye
+Description: Chance to shoot a 2nd tear backwards
+
+Name: Lemon Mishap
+Description: Makes a pool of pee that persists in the room
+
+Name: Distant Admiration
+Description: Orbital (5 dmg / tick)
+
+Name: Book of Shadows
+Description: Temporary invincibility
+
+Name: Book of Belial
+Description: The Book of Belial from Judas Birthright
+
+Name: The Ladder
+Description: Allows you to cross gaps
+
+Name: Charm of the Vampire
+Description: Heals half heart every 13 enemy deaths
+
+Name: The Battery
+Description: Can double charge active items
+
+Name: Steam Sale
+Description: Reduce shop items price where price = 1/(2^number of Steam sales)
+
+Name: Anarchist Cookbook
+Description: Spawns 6 troll bombs
+
+Name: The Hourglass
+Description: Temporarily slows enemies
+
+Name: Sister Maggy
+Description: Familiar (6 dmg / tear)
+
+Name: Technology
+Description: Laser tears (piercing)
+
+Name: Chocolate Milk
+Description: Charge tears (max is 4x dmg and 2.5x delay)
+
+Name: Growth Hormones
+Description: 
+
+Name: Mini Mush
+Description: Size down
+
+Name: Rosary
+Description: Puts the bible into most item pools
+
+Name: Cube of Meat
+Description: Orbital (7 dmg / tick)
+
+Name: A Quarter
+Description: +25 cents
+
+Name: PhD
+Description: Bad pills become good or neutral pill
+
+Name: X-Ray Vision
+Description: Automatically opens secret and super secret rooms
+
+Name: My Little Unicorn
+Description: Temporary invincibility, 20 contact dmg twice per second
+
+Name: Book of Revelations
+Description: +1 soul heart on use, changes floor boss to a horseman (once per chapter)
+
+Name: The Mark
+Description: 
+
+Name: The Pact
+Description: 
+
+Name: Dead Cat
+Description: +9 lives, sets red heart containers to 1
+
+Name: Lord of the Pit
+Description: Grants fly
+
+Name: The Nail
+Description: On use: +1 half black heart, temporarily crush rocks, temporary -0.18 speed and 0.7 dmg up
+
+Name: We Need To Go Deeper!
+Description: Spawns a trapdoor (10% chance for crawlspace)
+
+Name: Deck of Cards
+Description: Spawns a random card
+
+Name: Monstro's Tooth
+Description: Summons monstro (120 dmg)
+
+Name: Loki's Horns
+Description: Chance to shoot 4 tears instead of 1
+
+Name: Little Chubby
+Description: Familiar (3.5 dmg / tick)
+
+Name: Spider Bite
+Description: Chance to shoot slowing tears
+
+Name: The Small Rock
+Description: 
+
+Name: Spelunker Hat
+Description: Reveal all rooms that are in a 2 tiles radius and special rooms nearby on the map
+
+Name: Super Bandage
+Description: 
+
+Name: The Gamekid
+Description: Temporary invincibility and enemies become scared, 20 contact dmg twice per second
+
+Name: Sack of Pennies
+Description: Spawns a coin every 2 rooms cleared
+
+Name: Robo-Baby
+Description: Familiar (3.5 dmg / laser)
+
+Name: Little C.H.A.D.
+Description: Spawns a half red heart every 2 rooms cleared
+
+Name: The Book of Sin
+Description: Spawns a random pickup
+
+Name: The Relic
+Description: Spawns a soul heart every few rooms cleared
+
+Name: Little Gish
+Description: Familiar (3.5 dmg / tear, chance to slow)
+
+Name: Little Steven
+Description: Familiar (3.5 dmg / tear, homing tears)
+
+Name: The Halo
+Description: 
+
+Name: Mom's Bottle of Pills
+Description: Spawns a random pill
+
+Name: The Common Cold
+Description: Chance to shoot poison tears
+
+Name: The Parasite
+Description: Tears split into 2 pieces, each does 1/4 dmg
+
+Name: The D6
+Description: Rerolls pedestal items
+
+Name: Mr. Mega
+Description: +5 bombs, bomb blast radius increased, bomb dmg increased from 100 to 185
+
+Name: Pinking Shears
+Description: Spawns a melee familiar, speed of the body depends of player's speed
+
+Name: The Wafer
+Description: All dmg is reduced to half a heart
+
+Name: Money = Power
+Description: +0.04 dmg per coin held
+
+Name: Mom's Contacts
+Description: Chance to shoot petrifying tears
+
+Name: The Bean
+Description: Poison fart (26 dmg if the enemy is poisoned, 5 otherwise)
+
+Name: Guardian Angel
+Description: Orbital (7 dmg / tick)
+
+Name: Demon Baby
+Description: Familiar (3 dmg / tear)
+
+Name: Mom's Knife
+Description: Replaces tears with a knife
+
+Name: Ouija Board
+Description: Spectral tears
+
+Name: 9 Volt
+Description: Quicker charge, fully charges current item on pickup
+
+Name: Dead Bird
+Description: Spawns a bird familiar when at half heart (1 for Eve) (2 dmg / tick)
+
+Name: Brimstone
+Description: Tears become blood laser, hits 9 times
+
+Name: Blood Bag
+Description: Heals 5 red hearts
+
+Name: Odd Mushroom (Thin)
+Description: 
+
+Name: Odd Mushroom (Thick)
+Description: 
+
+Name: Whore of Babylon
+Description: Only active if at a half red heart or less
+
+Name: Monster Manual
+Description: Summons a random familiar that stays for the entire floor
+
+Name: Dead Sea Scrolls
+Description: Performs one effect between 32 active items
+
+Name: Bobby-Bomb
+Description: +5 bombs, homing bombs
+
+Name: Razor Blade
+Description: Deals 1 heart dmg (on first hit/room) and then 0.5 dmg to yourself, gives a temporary dmg up per use
+
+Name: Forget Me Now
+Description: Generates a new floor, single use
+
+Name: Forever Alone
+Description: Orbital (2 dmg / tick)
+
+Name: Bucket of Lard
+Description: 
+
+Name: A Pony
+Description: Grants fly, minimum speed 1.5, deals player's damage * 4 + 28 while charging enemies
+
+Name: Bomb Bag
+Description: Spawns a bomb every few rooms cleared
+
+Name: A Lump of Coal
+Description: dmg up up to +25% based on tear distance
+
+Name: Guppy's Paw
+Description: -1 red heart container and +3 soul hearts on use
+
+Name: Guppy's Tail
+Description: Increased chance to find chests
+
+Name: IV Bag
+Description: Spawns coins and deals dmg to yourself
+
+Name: Best Friend
+Description: Spawns a decoy (185 dmg)
+
+Name: Remote Detonator
+Description: +5 bombs, manually detonate bombs
+
+Name: Stigmata
+Description: 
+
+Name: Mom's Purse
+Description: Spawns a trinket
+
+Name: Bob's Curse
+Description: +5 bombs, bombs deal poison dmg and leave poisoning gas cloud behind them
+
+Name: Pageant Boy
+Description: Spawns 7 coins and a penny trinket
+
+Name: Scapular
+Description: +1 soul heart if hit to half a red heart (once per room)
+
+Name: Speed Ball
+Description: 
+
+Name: Bum Friend
+Description: Turns coins into other pickups or items from the beggar pool
+
+Name: Guppy's Head
+Description: Spawn 2-4 blue flies
+
+Name: Prayer Card
+Description: Gives an eternal heart
+
+Name: Notched Axe
+Description: Melee weapon that damage enemies, break rocks and open doors
+
+Name: Infestation
+Description: Spawns 2-6 blue flies when hit
+
+Name: Ipecac
+Description: Explosive tears
+
+Name: Tough Love
+Description: Chance to shoot teeth tears (3.2x dmg)
+
+Name: The Mulligan
+Description: 1/6 chance for blue fly on tear hit
+
+Name: Technology 2
+Description: Right eye shoots a permanent laser (piercing)
+
+Name: Mutant Spider
+Description: Quad shot
+
+Name: Chemical Peel
+Description: +2 flat dmg every 2nd shot
+
+Name: The Peeper
+Description: Familiar (8 dmg / tick)
+
+Name: Habit
+Description: Recharge one tick of your active item when hit
+
+Name: Bloody Lust
+Description: dmg up when hit (only for the current floor, max +6 dmg at 6 hits)
+
+Name: Crystal Ball
+Description: Reveals the floor, spawns a card / rune / soul heart
+
+Name: Spirit of the Night
+Description: Flight, spectral tears
+
+Name: Crack The Sky
+Description: Creates 5 beams (base dmg + 20 dmg / tick)
+
+Name: Ankh
+Description: +1 life (will respawn as Blue Baby)
+
+Name: Celtic Cross
+Description: Chance for shield when hit (based on luck)
+
+Name: Ghost Baby
+Description: Familiar (3.5 dmg / tear)
+
+Name: The Candle
+Description: Shoots a blue flame
+
+Name: Cat-o-nine-tails
+Description: 
+
+Name: D20
+Description: Rerolls pickups
+
+Name: Harlequin Baby
+Description: Familiar (4 dmg / tear)
+
+Name: Epic Fetus
+Description: Replaces tears with missiles (20x dmg)
+
+Name: Polyphemus
+Description: Excess damage pierces
+
+Name: Daddy Longlegs
+Description: Familiar (40 dmg / stomp)
+
+Name: Spider Butt
+Description: Temporarily slows enemies and deals 10 dmg, killed enemies by the item spawn blue spiders
+
+Name: Sacrificial Dagger
+Description: Orbital (15 dmg / tick)
+
+Name: Mitre
+Description: 33% to change red heart drop into soul heart
+
+Name: Rainbow Baby
+Description: Familiar (shoots random tears)
+
+Name: Dad's Key
+Description: Opens almost all doors
+
+Name: Stem Cells
+Description: 
+
+Name: Portable Slot
+Description: Acts like a Slot Machine
+
+Name: Holy Water
+Description: Can be thrown, creates a pool when broken (8 dmg / tick) that also petrify enemies
+
+Name: Fate
+Description: Flight, eternal heart
+
+Name: The Black Bean
+Description: Release multiple farts and poisonous gas when hit
+
+Name: White Pony
+Description: Grants fly, minimum speed 1.5, leaves trail of light beams that deals player's damage * 4 + 10 on use
+
+Name: Sacred Heart
+Description: full heal
+
+Name: Toothpicks
+Description: 
+
+Name: Holy Grail
+Description: flight
+
+Name: Dead Dove
+Description: Flight, spectral tears
+
+Name: Blood Rights
+Description: Deals 1 heart dmg (on first hit/room) and then 0.5 dmg to yourself, deals 40 dmg to all enemies, tears up on use
+
+Name: Guppy's Hairball
+Description: Familiar (5 dmg / tick)
+
+Name: Abel
+Description: Familiar (3.5 dmg / tear, 7.5 dmg if picked by Cain or T. Cain)
+
+Name: SMB Super Fan
+Description: full heal
+
+Name: Pyro
+Description: +99 bombs
+
+Name: 3 Dollar Bill
+Description: Random tear effects that change every 3 seconds
+
+Name: Telepathy for Dummies
+Description: Temporary homing tears and range up
+
+Name: Meat!
+Description: 
+
+Name: Magic 8 Ball
+Description: Spawns a random card on pickup
+
+Name: Mom's Coin Purse
+Description: Spawns 4 random pills on pickup
+
+Name: Squeezy
+Description: 
+
+Name: Jesus Juice
+Description: 
+
+Name: Box
+Description: Spawns 1 coin, 1 key, 1 bomb, 1 heart, 1 card, 1 pill, and 1 trinket on pickup
+
+Name: Mom's Key
+Description: More pickups from chests, spawns 2 keys on pickup
+
+Name: Mom's Eyeshadow
+Description: Chance to shoot charm tears
+
+Name: Iron Bar
+Description: Chance to shoot confusion tears
+
+Name: Midas Touch
+Description: Contact dmg equal to number of cents held
+
+Name: Humbling Bundle
+Description: Chance to double coin, key, bomb, and heart pickups
+
+Name: Fanny Pack
+Description: Chance to spawn a coin, bomb, or key when hit
+
+Name: Sharp Plug
+Description: Deals half heart dmg to self per charge missing, fully recharges item
+
+Name: Guillotine
+Description: Orbital (7 dmg / tick)
+
+Name: Ball of Bandages
+Description: Orbital (7 dmg / tick)
+
+Name: Champion Belt
+Description: Greater chance of champion enemies
+
+Name: Butt Bombs
+Description: +5 bombs, bombs confuse all enemies, bombs deal 10 dmg to all enemies
+
+Name: Gnawed Leaf
+Description: Turn invincible by standing still
+
+Name: Spiderbaby
+Description: Spawns 2-5 blue spiders when hit
+
+Name: Guppy's Collar
+Description: 50% chance to respawn with 1/2 soul heart
+
+Name: Lost Contact
+Description: Tears can hit enemy tears
+
+Name: Anemic
+Description: Makes a trail of creep when hit
+
+Name: Goat Head
+Description: Devil/Angel Rooms are always open
+
+Name: Ceremonial Robes
+Description: 
+
+Name: Mom's Wig
+Description: Chance to spawn blue spiders when shooting
+
+Name: Placenta
+Description: Chance to heal half a heart every minute
+
+Name: Old Bandage
+Description: Chance to drop a red heart on hit
+
+Name: Sad Bombs
+Description: +5 bombs, bombs shoot out 8 tears
+
+Name: Rubber Cement
+Description: Bouncy tears (tears bounce off rocks/walls)
+
+Name: Anti-Gravity
+Description: Hovering tears
+
+Name: Pyromaniac
+Description: +5 bombs, explosions heal 1 half red heart, fire and bomb immunity
+
+Name: Cricket's Body
+Description: Shots split into 4 pieces, each deals 1/2 dmg
+
+Name: Gimpy
+Description: Chance to spawn soul hearts on hit, chance for enemies to drop half a red heart
+
+Name: Black Lotus
+Description: 
+
+Name: Piggy Bank
+Description: +3 cents, 1-2 pennies spawn on hit
+
+Name: Mom's Perfume
+Description: Chance to shoot fear tears
+
+Name: Monstro's Lung
+Description: Charged tear spray
+
+Name: Abaddon
+Description: Convert all red hearts to black hearts, chance to shoot fear tears
+
+Name: Ball of Tar
+Description: Chance to shoot slowing tears, makes a trail of slowing creep
+
+Name: Stop Watch
+Description: Slows enemies
+
+Name: Tiny Planet
+Description: Orbiting tears
+
+Name: Infestation 2
+Description: Spawns a blue spider on enemy death
+
+Name: E. Coli
+Description: Enemies turn to poop on touch
+
+Name: Death's Touch
+Description: Scythe tears (piercing)
+
+Name: Key Piece #1
+Description: Both key pieces together unlock the door to Mega Satan
+
+Name: Key Piece #2
+Description: Both key pieces together unlock the door to Mega Satan
+
+Name: Experimental Treatment
+Description: Randomly increases or decreases each stats
+
+Name: Contract From Below
+Description: Doubles pickups
+
+Name: Infamy
+Description: Chance to block a projectile (from any direction)
+
+Name: Trinity Shield
+Description: Blocks all projectiles from the front
+
+Name: Tech.5
+Description: Chance to shoot an additional laser (scales with dmg, ignores tear rate)
+
+Name: 20/20
+Description: Double shot
+
+Name: Blue Map
+Description: Reveals Secret and Super Secret Rooms
+
+Name: BFFS!
+Description: Familiars do 2x dmg
+
+Name: Hive Mind
+Description: Blue spiders and flies do 2x dmg
+
+Name: There's Options
+Description: Choice of 2 items after each boss
+
+Name: Bogo Bombs
+Description: Doubles bomb pickups
+
+Name: Starter Deck
+Description: Pills become cards, can carry 2 cards instead of 1
+
+Name: Little Baggy
+Description: Cards become pills, can carry 2 pills instead of 1
+
+Name: Magic Scab
+Description: 
+
+Name: Blood Clot
+Description: +1 flat dmg and +5 range for every 2nd shot
+
+Name: Screw
+Description: 
+
+Name: Hot Bombs
+Description: +5 bombs, leaves fires that do 22 dmg, 16 dmg contact, fire immunity
+
+Name: Fire Mind
+Description: Burns enemies, chance to shoot exploding tears (2x dmg + 22)
+
+Name: Missing No.
+Description: Rerolls your items on pickup and on the start of every floor
+
+Name: Dark Matter
+Description: Chance to shoot fear tears
+
+Name: Black Candle
+Description: Removes all floor curses, +15% deal chance
+
+Name: Proptosis
+Description: dmg goes from 300% to 0 the further the tear goes
+
+Name: Missing Page 2
+Description: Deals 80 dmg to enemies when hit if at 1 heart or lower and increase all kind of black heart dmg from 40 to 80
+
+Name: Clear Rune
+Description: Mimics the effect of the currently held rune
+
+Name: Smart Fly
+Description: Spawns a fly familiar when hit (1.5 dmg / tick)
+
+Name: Dry Baby
+Description: Blocks projectiles, chance to deal 40 dmg to the room on block
+
+Name: Juicy Sack
+Description: Spawns 1-2 blue spiders every room cleared, makes a trail of slowing creep
+
+Name: Robo-Baby 2.0
+Description: Familiar (3.5 dmg / laser)
+
+Name: Rotten Baby
+Description: Familiar (shoots blue flies)
+
+Name: Headless Baby
+Description: Makes a trail of creep
+
+Name: Leech
+Description: Familiar (1.5 dmg / tick)
+
+Name: Mystery Sack
+Description: Spawns hearts, coins, bombs, or keys every few rooms cleared
+
+Name: BBF
+Description: Familiar (110 dmg explosion)
+
+Name: Bob's Brain
+Description: Familiar (100 dmg explosion + poison dmg)
+
+Name: Best Bud
+Description: Spawns a fly orbital when hit (10 dmg / tick)
+
+Name: Lil' Brimstone
+Description: Familiar (24 dmg / blood laser)
+
+Name: Isaac's Heart
+Description: Player's hitbox is on the heart (doesn't prevent self damage), charge it and release it to repel enemies and shoot tears in 8 directions
+
+Name: Lil' Haunt
+Description: Familiar (2 dmg / tick, chance to fear)
+
+Name: Dark Bum
+Description: Converts 1.5 red heart pickups to a black heart, spider, pill, card or rune
+
+Name: Big Fan
+Description: Orbital (2 dmg / tick)
+
+Name: Sissy Long Legs
+Description: Spawns blue spiders, charms enemies upon contact
+
+Name: Punching Bag
+Description: Familiar (decoy)
+
+Name: How To Jump
+Description: Can jump over obstacles
+
+Name: D100
+Description: All dice effects at once (except Spindown Dice)
+
+Name: D4
+Description: Rerolls current items
+
+Name: D10
+Description: Devolves enemies in the room
+
+Name: Blank Card
+Description: Mimics the effect of the currently held card
+
+Name: Book of Secrets
+Description: Randomly get Treasure Map, Compass, or Blue Map for the floor
+
+Name: Box of Spiders
+Description: Spawns 4-8 blue spiders
+
+Name: Red Candle
+Description: Shoots a flame that times out after ten seconds
+
+Name: The Jar
+Description: Stores red hearts for later
+
+Name: Flush!
+Description: Non-boss enemies turn to poop, instantly kills poop bosses
+
+Name: The Satanic Bible
+Description: On use: +1 black heart, transforms boss item into a devil deal
+
+Name: Head of Krampus
+Description: Create 4 blood lasers (190 dmg / laser)
+
+Name: Butter Bean
+Description: Knocks back enemies. If pushed enemies hit a wall, they take 10 dmg
+
+Name: Magic Fingers
+Description: Deals 2x + 10 dmg to the room, takes 1 coin per use, ignore +40 dmg from ipecac
+
+Name: Converter
+Description: +1 red heart container, -1 soul/black hearts
+
+Name: Pandora's Box
+Description: B1: 2soul, B2: 2bomb+2key, C1: boss, C2: boss+2soul, D1: 4soul, D2: 20coin, W1: 2boss, W2: Bible, Sheol: devil+black, Cath: angel+white, Void/Hush/DR: nothing, Chest: coin, Home: Red Key
+
+Name: Unicorn Stump
+Description: Temporary invincibility
+
+Name: Taurus
+Description: Speed increases until you unicorn
+
+Name: Aries
+Description: 18 contact dmg + prevent dmg contact if moving fast enough
+
+Name: Cancer
+Description: All dmg is reduced to half a heart (after getting hit in the room)
+
+Name: Leo
+Description: Crush rocks
+
+Name: Virgo
+Description: Chance of shield when hit, bad pills become good
+
+Name: Libra
+Description: Evens out stats, +6 bombs, +6 keys, +6 cents
+
+Name: Scorpio
+Description: Chance to shoot poison tears
+
+Name: Sagittarius
+Description: Piercing tears
+
+Name: Capricorn
+Description: +1 coin, +1 bomb, +1 key
+
+Name: Aquarius
+Description: Makes a trail of creep that inherit the player's tears effects and damage
+
+Name: Pisces
+Description: Knockback tears
+
+Name: Eve's Mascara
+Description: 
+
+Name: Judas' Shadow
+Description: +1 life (will respawn as Dark Judas with a 2.0 dmg multiplier)
+
+Name: Maggy's Bow
+Description: Red heart pickups count for double
+
+Name: Holy Mantle
+Description: 1-hit shield for every room
+
+Name: Thunder Thighs
+Description: Crush rocks
+
+Name: Strange Attractor
+Description: Tears attract enemies and pickups
+
+Name: Cursed Eye
+Description: Charge shots, random teleport if hit while charging
+
+Name: Mysterious Liquid
+Description: Tears generate creep
+
+Name: Gemini
+Description: Familiar (3 dmg / tick)
+
+Name: Cain's Other Eye
+Description: Familiar that shoots in random directions and deals 75% of your damage
+
+Name: ???'s Only Friend
+Description: Familiar (3.5 dmg / tick)
+
+Name: Samson's Chains
+Description: 5 dmg / tick, crushes rocks
+
+Name: Mongo Baby
+Description: Familiar (copies other familiars or 3.5 dmg / tear)
+
+Name: Isaac's Tears
+Description: Fires 8 tears that have a bonus of +5 dmg
+
+Name: Undefined
+Description: Randomly teleport to Treasure, Secret, Super Secret, I AM ERROR, or Black Market
+
+Name: Scissors
+Description: Spawns a shooting head familiar, body spews a constant stream of blood
+
+Name: Breath of Life
+Description: Invincibility when charge bar hits zero, spawns holy beams in 4 directions on an enemy if you touch it while invincible
+
+Name: The Polaroid
+Description: Temporary shield when hit at 1/2 heart, can enter The Chest
+
+Name: The Negative
+Description: Damage enemies when hit at 1/2 heart, can enter the Dark Room
+
+Name: The Ludovico Technique
+Description: Remote control tears
+
+Name: Soy Milk
+Description: x0.5 tear size
+
+Name: Godhead
+Description: Damaging aura around tears
+
+Name: Lazarus' Rags
+Description: +1 life (will respawn as Lazarus II)
+
+Name: The Mind
+Description: Treasure Map + Compass + Blue Map
+
+Name: The Body
+Description: +3 heart containers
+
+Name: The Soul
+Description: Enemy projectiles are repulsed
+
+Name: Dead Onion
+Description: Piercing and spectral tears
+
+Name: Broken Watch
+Description: Chance to slow down or speed up enemies
+
+Name: Boomerang
+Description: 2x dmg and is piercing, can petrify enemies, can grab pickups
+
+Name: Safety Pin
+Description: Evil up
+
+Name: Caffeine Pill
+Description: Size down, grants a pill
+
+Name: Torn Photo
+Description: 
+
+Name: Blue Cap
+Description: 
+
+Name: Latch Key
+Description: +2 keys
+
+Name: Match Book
+Description: +3 bombs and can spawn Match Stick
+
+Name: Synthoil
+Description: 
+
+Name: A Snack
+Description: 
+
+Name: Diplopia
+Description: One-shot duplicates pedestals and pickups
+
+Name: Placebo
+Description: Mimics the effect of the currently held pill
+
+Name: Wooden Nickel
+Description: 50% chance to drop a coin
+
+Name: Toxic Shock
+Description: Deals 2x dmg to enemies at the start of each room
+
+Name: Mega Bean
+Description: Big damaging fart that sweeps the entire room
+
+Name: Glass Cannon
+Description: Shoots a big shot. On hit: inflict an extra 2 full heart dmg (non lethal), leaves blood trail and gain 1.5 range
+
+Name: Bomber Boy
+Description: +5 bombs, bombs explode in a plus shape
+
+Name: Crack Jacks
+Description: Spawns a random trinket on pickup
+
+Name: Mom's Pearls
+Description: 
+
+Name: Car Battery
+Description: Active items trigger twice when used
+
+Name: Box of Friends
+Description: Temporarily duplicates each familiar, gives Demon Baby if no familiars
+
+Name: The Wiz
+Description: Diagonal double shot tears, spectral tears
+
+Name: 8 Inch Nails
+Description: Nail tears
+
+Name: Incubus
+Description: Familiar that copies your tears effect and deals 75% of your damage
+
+Name: Fate's Reward
+Description: Familiar (copies your tears with a slow shooting frequency)
+
+Name: Lil Chest
+Description: Spawns pickups and trinkets every few rooms cleared
+
+Name: Sworn Protector
+Description: Orbital (7 dmg / tick)
+
+Name: Friend Zone
+Description: Orbital (3 dmg / tick)
+
+Name: Lost Fly
+Description: Familiar that hugs walls (7 dmg / 7 frames) and forces nearby enemies to target it
+
+Name: Scatter Bombs
+Description: +5 bombs, bombs split into 4-5 small bombs after exploding
+
+Name: Sticky Bombs
+Description: +5 bombs, bombs stick to enemies, leaves a white slowing creep, spawns 4 spiders if the bomb kills an enemy
+
+Name: Epiphora
+Description: Faster tear rate when shooting in one direction, up to 2x tear rate after 10 seconds
+
+Name: Continuum
+Description: Tears wrap around the screen, spectral tears
+
+Name: Mr. Dolly
+Description: Spawn 3 red/soul/black hearts at random
+
+Name: Curse of the Tower
+Description: Spawns 6 troll bombs when hit
+
+Name: Charged Baby
+Description: Occasionally spawns a Little Battery, adds a charge, or petrifies all enemies
+
+Name: Dead Eye
+Description: Dmg increases when you hit enemies (up to 2x), every miss has a chance to reset
+
+Name: Holy Light
+Description: Chance to shoot tears that spawn beams of light (3x dmg)
+
+Name: Host Hat
+Description: Explosion immunity and block projectiles from above, chance to deflect enemy projectiles
+
+Name: Restock
+Description: Purchased items in shop are renewed but the more you buy them, the more the price increases
+
+Name: Bursting Sack
+Description: Immunity to contact damage from spiders
+
+Name: Number two
+Description: Spawns a butt bomb after 3 seconds of uninterrupted firing
+
+Name: Pupula Duplex
+Description: Wide tears, spectral tears
+
+Name: Pay To Play
+Description: +5 coins, doors that need a key/locked chests/key blocks need coins instead
+
+Name: Eden's Blessing
+Description: Extra random item at the start of the next run
+
+Name: Friendly Ball
+Description: Captures an enemy
+
+Name: Tear Detonator
+Description: Makes your on-screen tears split
+
+Name: Lil Gurdy
+Description: Familiar (charge to fire)
+
+Name: Bumbo
+Description: Familiar, eats coins to level up, can shoot and attack enemies
+
+Name: D12
+Description: Rerolls obstacles (rocks, etc.)
+
+Name: Censer
+Description: Aura slows enemies
+
+Name: Key Bum
+Description: Turns keys into chests
+
+Name: Rune Bag
+Description: Spawns a rune every few rooms cleared
+
+Name: Seraphim
+Description: Familiar (10 dmg, homing tears)
+
+Name: Betrayal
+Description: Enemies hit by other enemies projectiles will try to target them
+
+Name: Zodiac
+Description: Random zodiac item each floor
+
+Name: Serpent's Kiss
+Description: Change to shoot a poison tears, poison touch, poisoned enemies from contact drop black hearts
+
+Name: Marked
+Description: Directed tears (also synergize with familiars)
+
+Name: Tech X
+Description: Charged laser ring tears
+
+Name: Ventricle Razor
+Description: Creates portals for faster backtracking
+
+Name: Tractor Beam
+Description: Tears stay directly ahead of the player
+
+Name: God's Flesh
+Description: Chance to shoot shrinking tears, making them squishable
+
+Name: Maw of the Void
+Description: 3 second charge for a black blood laser ring attack
+
+Name: Spear of Destiny
+Description: Stationary weapon (2x damage / tick)
+
+Name: Explosivo
+Description: Chance to shoot sticky tears that will eventually explode
+
+Name: Chaos
+Description: All item pools are combined, higher chance to spawn item from a big pool
+
+Name: Spider Mod
+Description: Enemies have health bars, shows damage dealt, inflicts random status effects to enemies, spawns batteries and blue spiders every few rooms cleared
+
+Name: Farting Baby
+Description: Familiar that blocks shots, 10% chance to poison/knockback/charm per block
+
+Name: GB Bug
+Description: Familiar that can be thrown to an enemy or a consumable to reroll it, once per room cleared
+
+Name: D8
+Description: Rerolls your stats
+
+Name: Purity
+Description: Grants a stat up depending on the aura, red = dmg, blue = tears, orange = range, yellow = speed
+
+Name: Athame
+Description: Chance to proc a black blood laser ring on the enemy killed
+
+Name: Empty Vessel
+Description: Activate at one half red heart or less, gives flight, procs a shield when the seconds on the clock hits 00, 20 or 40 at least twice
+
+Name: Evil Eye
+Description: Chance to shoot eye tears (that shoot tears as they travel)
+
+Name: Lusty Blood
+Description: +0.5 dmg for the current room per enemy killed (max is 5 dmg)
+
+Name: Cambion Conception
+Description: Chance to gain evil familiars when hit
+
+Name: Immaculate Conception
+Description: Gain a holy familiar and soul heart after each 15 heart pickups
+
+Name: More Options
+Description: Choice of 2 or 3 items in each Treasure Room
+
+Name: Crown of Light
+Description: 2x dmg and -0.3 shot speed when you have no empty red hearts
+
+Name: Deep Pockets
+Description: Increase your money cap to 999, spawns 1-3 coins when no rewards on room clear
+
+Name: Succubus
+Description: Familiar, aura damages enemies, 1.5x dmg when standing in aura
+
+Name: Fruit Cake
+Description: Random tear effects that change constantly
+
+Name: Teleport 2.0
+Description: Teleports to an unexplored room (including Devil Room or I AM ERROR Room)
+
+Name: Black Powder
+Description: Walking in a circle makes a pentagram that does 10 dmg/tick
+
+Name: Kidney Bean
+Description: Charms enemies
+
+Name: Glowing Hourglass
+Description: Rewinds the game state to the previous room (3 uses per floor, after it become The Hourglass)
+
+Name: Circle of Protection
+Description: White ring damages enemies and has a chance to reflect projectiles
+
+Name: Sack Head
+Description: Pickups have a 33% chance to be replaced by a Sack, spawns a Sack on pickup
+
+Name: Night Light
+Description: Light cone slows enemies and projectiles
+
+Name: Obsessed Fan
+Description: Familiar, copies your movement, does contact damage
+
+Name: Mine Crafter
+Description: Spawns a TNT barrel that can explode if you re-use it even if the active is not charged
+
+Name: PJs
+Description: Full heal
+
+Name: Head of the Keeper
+Description: Coin tears (chance to spawn coins upon hitting an enemy)
+
+Name: Papa Fly
+Description: Familiar, copies your movement, shoots at enemies
+
+Name: Multidimensional Baby
+Description: Familiar, tears that pass through it get 2x dmg
+
+Name: Glitter Bombs
+Description: +5 bombs, bombs have a chance to drop pickups after exploding
+
+Name: My Shadow
+Description: Spawns friendly dark chargers when an enemy is close to the player
+
+Name: Jar of Flies
+Description: Creates flies when you kill enemies (max 20)
+
+Name: Lil Loki
+Description: Familiar, shoots cross tears
+
+Name: Milk!
+Description: Familiar, +1 tear rate for the floor after blocking 10 shots
+
+Name: D7
+Description: Respawns the current room
+
+Name: Binky
+Description: 
+
+Name: Mom's Box
+Description: Spawns a random trinket, doubles trinket effects while held
+
+Name: Kidney Stone
+Description: Grants extra charge attack every 25 seconds
+
+Name: Mega Blast
+Description: Huge blood laser for 15 seconds, lasts across rooms and floors
+
+Name: Dark Prince's Crown
+Description: +1.5 range, +2 tears and 0.2 shot speed when at exactly 1 red heart, tears up can go beyond soft cap
+
+Name: Apple!
+Description: Chance to shoot razor blade tears (4x dmg)
+
+Name: Lead Pencil
+Description: Fires a Monstro's Lung shot every 15 tears
+
+Name: Dog Tooth
+Description: Wolf howls when there is an adjacent Secret Room / Super Secret Room / Crawlspace
+
+Name: Dead Tooth
+Description: Poisonous aura
+
+Name: Linger Bean
+Description: Spawns a poop cloud every 4 seconds (scales with dmg, 5 ticks / second and dmg decrease with time)
+
+Name: Shard of Glass
+Description: On hit: leaves red creep, spews blood and lose half a red heart until you pick a red heart or you run out of red hearts
+
+Name: Metal Plate
+Description: Chance to deflect enemy projectiles
+
+Name: Eye of Greed
+Description: Shoots an extra coin tear every 20 tears (has Midas Touch effect)
+
+Name: Tarot Cloth
+Description: Doubles the effect of tarot cards, spawns a random card/rune on pickup
+
+Name: Varicose Veins
+Description: Shoots 10 tears (dmg + 25) when hit
+
+Name: Compound Fracture
+Description: Tears split into 2 bone shards, each does 1/2 dmg
+
+Name: Polydactyly
+Description: Can carry 2 cards/pills instead of 1, spawns 1 card/pill on pickup
+
+Name: Dad's Lost Coin
+Description: Spawns a lucky penny on pickup
+
+Name: Midnight Snack
+Description: 
+
+Name: Cone Head
+Description: Chance to not take damage when hit
+
+Name: Belly Button
+Description: Can carry 2 trinkets instead of 1, spawns random trinket on pickup
+
+Name: Sinus Infection
+Description: Chance to shoot booger tears (dmg over time for 60 seconds)
+
+Name: Glaucoma
+Description: Chance to shoot concussive tears
+
+Name: Parasitoid
+Description: Chance to fire an egg tear (spawns creep + blue fly/spider)
+
+Name: Eye of Belial
+Description: Piercing, after a tear hits it gets 2x dmg + homing
+
+Name: Sulfuric Acid
+Description: Chance to fire a sulfuric tear (breaks rocks / open doors)
+
+Name: Glyph of Balance
+Description: Modifies drops from champion enemies and room clear
+
+Name: Analog Stick
+Description: Allows shooting tears diagonally
+
+Name: Contagion
+Description: The first enemy killed in a room will explode and poison nearby enemies
+
+Name: Finger!
+Description: Damages enemies in the direction it is pointed in
+
+Name: Shade
+Description: Familiar, copies your movement, does contact damage (5 dmg/tick)
+
+Name: Depression
+Description: Familiar, leaves blue creep, chance to spawn beam of light when touching enemies
+
+Name: Hushy
+Description: Familiar, moves when not shooting, deals contact dmg (2 dmg / tick) and shoot radial burst of tears when not moving
+
+Name: Lil Monstro
+Description: Familiar, shoots base dmg Monstro's Lung
+
+Name: King Baby
+Description: Familiar, all other familiars follow it and aim enemies automatically
+
+Name: Big Chubby
+Description: Familiar (2.7 dmg / tick)
+
+Name: Broken Glass Cannon
+Description: No effect. Become Glass Cannon when fully charged
+
+Name: Plan C
+Description: Kills everything in the room, kills you after 3 seconds (10 or 11.5 seconds in Delirium or Mother's room), single use
+
+Name: D1
+Description: Makes a random pickup in the room but of a different type
+
+Name: Void
+Description: Consumes pedestal items in the room, passive items give random stat ups, active items adds the effect to Void
+
+Name: Pause
+Description: Petrify all enemies in the room until you shoot or after 30 seconds
+
+Name: Smelter
+Description: Consumes held trinkets to make their effects permanent
+
+Name: Compost
+Description: Converts pickups in the room to blue flies/spiders
+
+Name: Dataminer
+Description: Temporary random stat changes + random tear effects, distorts graphics
+
+Name: Clicker
+Description: Rerolls the current character, removes the last item that was picked up
+
+Name: Mama Mega!
+Description: 200 dmg to every room, opens all secret doors, single use
+
+Name: Wait What?
+Description: Spawns a wave of rocks that hurts enemies (acts as an explosion)
+
+Name: Crooked Penny
+Description: 50/50 chance to either double all pickups / pedestal items or destroy them
+
+Name: Dull Razor
+Description: Fake damaging you, triggering all the effects that should trigger on hit
+
+Name: Potato Peeler
+Description: -1 red heart, +0.2 dmg, gain a Cube of Meat
+
+Name: Metronome
+Description: Temporary random item effect
+
+Name: D infinity
+Description: Allow player to choose a dice, number of charges scaling depending of the chosen dice
+
+Name: Eden's Soul
+Description: Spawns two item pedestals, starts with 0 charges, single use
+
+Name: Acid Baby
+Description: Spawns a pill every 6-7 rooms cleared, using pills deal 10 dmg and poison to enemies
+
+Name: YO LISTEN!
+Description: Familiar, travels to Secret Rooms / Super Secret Rooms / tinted rocks / crawlspaces
+
+Name: Adrenaline
+Description: dmg up for every empty red heart container, higher dmg ups the more empty red hearts you have
+
+Name: Jacob's Ladder
+Description: Lightning tears (sparks in a random direction, each does 1/2 dmg), can chain through enemies
+
+Name: Ghost Pepper
+Description: Chance to shoot a blue fire that scale with the player's damage
+
+Name: Euthanasia
+Description: Chance to shoot needle tears (3x dmg, if enemy is killed, explodes into more needles)
+
+Name: Camo Undies
+Description: +0.5 speed while cloaked. When the player moves, all nearby enemies take damage, temporary tears + dmg up
+
+Name: Duality
+Description: Choice between Devil or Angel Rooms every time you earn a deal
+
+Name: Eucharist
+Description: Angel Rooms appear whenever possible
+
+Name: Sack of Sacks
+Description: Spawns a sack every few rooms cleared
+
+Name: Greed's Gullet
+Description: Gives an extra heart container for every 25 coins held
+
+Name: Large Zit
+Description: Chance to shoot creep tears (2x dmg, makes a trail of white creep), shoots creep tear in random direction on hit
+
+Name: Little Horn
+Description: Chance to shoot void tears that invokes a Big Horn hand and squish the enemy
+
+Name: Brown Nugget
+Description: Spawns a fly turret (3.5 dmg / shot)
+
+Name: Poke Go
+Description: Chance to spawn a random familiar each room
+
+Name: BackStabber
+Description: Shooting a non-bleeding enemy in the back does x2 dmg and adds bleed effect (kills after 50 seconds of slow damage)
+
+Name: Sharp Straw
+Description: Deals damage to all enemies in the room (1x dmg + 10% of enemy's max HP), enemies killed have a chance to drop a red heart
+
+Name: Mom's Razor
+Description: Orbital, deals 20% dmg / tick, adds bleed effect (more damage depending on enemy speed)
+
+Name: Bloodshot Eye
+Description: Orbital, 2 dmg / tick, shoots every 2 seconds (3.5 dmg / tear), blocks enemy shots
+
+Name: Delirious
+Description: Spawns a random charmed boss, only one boss at a time can exist
+
+Name: Angry Fly
+Description: Familiar, orbits around enemies, 2 dmg / tick
+
+Name: Black Hole
+Description: Spawns a black hole that sucks all enemies into it and deals damage for 6 seconds
+
+Name: Bozo
+Description: Chance for all enemies to become charmed/feared, chance to spawn rainbow poop on hit
+
+Name: Broken Modem
+Description: Chance for all enemies and enemy projectiles to lag and double your drop (based on luck)
+
+Name: Mystery Gift
+Description: Spawns a pedestal item, single use
+
+Name: Sprinkler
+Description: Spawns a Sprinkler that shoots tears in a circular rotation
+
+Name: Fast Bombs
+Description: +7 bombs, can rapidly place bombs
+
+Name: Buddy in a Box
+Description: Familiar, random co-op baby (changes per floor)
+
+Name: Lil Delirium
+Description: Familiar, transforms into a random familiar every 10 seconds
+
+Name: Jumper Cables
+Description: +1 charge per 15 enemies killed
+
+Name: Coupon
+Description: Makes one random buyable item free
+
+Name: Telekinesis
+Description: Repel enemies and reflects enemy tears
+
+Name: Moving Box
+Description: Stores max 6 pickups / pedestals in the room, then spawns them when used again
+
+Name: Technology Zero
+Description: Electric tears (tears are connected by electricity that deals 0.3x dmg / tick)
+
+Name: Leprosy
+Description: Spawns temporary orbitals on hit (7 dmg / tick)
+
+Name: 7 Seals
+Description: Familiar, transforms into a random horseman every 10 seconds (all deal contact damage and spawn locusts)
+
+Name: Mr. Me!
+Description: Summons a helper to interact with whatever you target
+
+Name: Angelic Prism
+Description: Orbital, tears that pass through it split into 4
+
+Name: Pop!
+Description: Eyeball tears (tears are not affected by range and can bounce off of each other)
+
+Name: Death's List
+Description: Grants random rewards for killing enemies in order
+
+Name: Haemolacria
+Description: Blood tears (arcing tears that explode into many smaller tears that deal 50-80% dmg)
+
+Name: Lachryphagy
+Description: Hungry tears (tears that don't hit enemies combine and eventually split)
+
+Name: Trisagion
+Description: Shoot short light lasers (piercing)
+
+Name: Schoolbag
+Description: Can carry 2 active items instead of 1
+
+Name: Blanket
+Description: 1-hit shield when entering a Boss Room
+
+Name: Sacrificial Altar
+Description: Sacrifice up to 2 familiars, spawns a passive Devil Room item for each one, single use
+
+Name: Lil Spewer
+Description: Familiar, charged attack that spawns creep, changes form on pill use, spawns a random pill on pickup
+
+Name: Marbles
+Description: Chance to smelt a trinket on hit, spawns 3 random trinkets on pickup
+
+Name: Mystery Egg
+Description: Familiar, spawns a charmed enemy on hit
+
+Name: Flat Stone
+Description: Bouncing tears (tears bounce on the ground, 0.25x splash dmg)
+
+Name: Marrow
+Description: spawns 3 red hearts on pickup
+
+Name: Slipped Rib
+Description: Orbital, reflects enemy projectiles, does no contact damage
+
+Name: Hallowed Ground
+Description: Spawns a white poop on hit (makes an aura that halves tear delay + 1.25 dmg multiplier + chance to block damage)
+
+Name: Pointy Rib
+Description: Familiar, bobs back and forth (1x contact dmg)
+
+Name: Book of the Dead
+Description: Converts killed enemies into temporary orbitals or charmed Bonies
+
+Name: Dad's Ring
+Description: Yellow ring that petrifies enemies on contact
+
+Name: Divorce Papers
+Description: spawns Mysterious Paper on pickup
+
+Name: Jaw Bone
+Description: Familiar, can grab pickups like a Boomerang
+
+Name: Brittle Bones
+Description: Removes all red hearts, big bone splash and tears up when a bone heart is lost
+
+Name: Broken Shovel
+Description: Used in the Booster Pack #5 quest
+
+Name: Broken Shovel
+Description: Used in the Booster Pack #5 quest
+
+Name: Mom's Shovel
+Description: Used in the Booster Pack #5 quest, spawns a trapdoor (10% chance for crawlspace)
+
+Name: Mucormycosis
+Description: Chance to shoot spore tears that stick on enemies and can split into small spore tears
+
+Name: 2Spooky
+Description: Aura that fears enemies
+
+Name: Golden Razor
+Description: +5 coins, spend 5 coins on use to gain temporary dmg up in the current room
+
+Name: Sulfur
+Description: Gives temporary Brimstone
+
+Name: Fortune Cookie
+Description: Spawns a soul heart / card / fortune teller
+
+Name: Eye Sore
+Description: Extra tears are fired in random directions
+
+Name: 120 Volt
+Description: Auto fire lightning arcs at enemies in close proximity
+
+Name: It Hurts
+Description: Ring of bloody tears that leave small pool of blood + temporary tears up on hit
+
+Name: Almond Milk
+Description: Tears gain random worm effects
+
+Name: Rock Bottom
+Description: Stats can't go down
+
+Name: Nancy Bombs
+Description: +5 bombs, bombs explode with a random effect
+
+Name: A Bar of Soap
+Description: 
+
+Name: Blood Puppy
+Description: Familiar that attack enemies and grows stronger, can attack the player and need to be killed to be a puppy again
+
+Name: Dream Catcher
+Description: Reveals next boss and treasure room items in level transitions + half soul heart every floor
+
+Name: Paschal Candle
+Description: +0.4 tears up for each room cleared (max 6), resets on hit
+
+Name: Divine Intervention
+Description: A shield that reflects bullets, brimstone lasers and knock back enemies
+
+Name: Blood Oath
+Description: Familiar that trades extra red health for damage and speed at the beginning of a floor
+
+Name: Playdough Cookie
+Description: Random status effect tears (normal/petrify/homing/poison/fear/freeze) + random colors to tears
+
+Name: Orphan Socks
+Description: Immunity from spike and creep damage
+
+Name: Eye of the Occult
+Description: tears can be controlled mid-flight
+
+Name: Immaculate Heart
+Description: Additional set of orbiting spectral tears
+
+Name: Monstrance
+Description: Grants aura that damages enemies
+
+Name: The Intruder
+Description: Add 4 slowing tears, chance to spawn blue spiders and release Intruder familiar on hit
+
+Name: Dirty Mind
+Description: Dips become friendly, spawns friendly Dips when destroying poop
+
+Name: Damocles
+Description: Double item pedestals, chance of permanent death after the first hit when activated
+
+Name: Free Lemonade
+Description: Lemon Party effect
+
+Name: Spirit Sword
+Description: Sword replaces tears
+
+Name: Red Key
+Description: Creates additional red rooms
+
+Name: Psy Fly
+Description: Orbital, reflects enemy projectiles as homing tears
+
+Name: Wavy Cap
+Description: Every time you use it : +0.75 tears, -0.03 speed, distorts graphics/sound for the current floor
+
+Name: Rocket in a Jar
+Description: +5 bombs, allow to shoot a rocket in the direction where you shoot
+
+Name: Book of Virtues
+Description: Spawn a wisp orbital that have the effect of the active item that is inside the book
+
+Name: Alabaster Box
+Description: Converts soul/black hearts to Angel Room items + random number of soul hearts
+
+Name: The Stairway
+Description: Start of each floor has ladder to a special Angel Shop
+
+Name: Sol
+Description: Reveals location of the boss, Sun card effect + active item recharge + 2x dmg + +1 luck + removes curses upon killing the boss
+
+Name: Luna
+Description: Extra secret and super secret rooms on each floor that contains a blue light beam that gives half a soul heart + tears up for current floor
+
+Name: Mercurius
+Description: Non-special room doors stay open
+
+Name: Venus
+Description: Close enemies get charmed
+
+Name: Terra
+Description: Rock tears (knockback, can destroy obstacles), random slight dmg up/down on some tears
+
+Name: Mars
+Description: Double tap to dash, invincible when dashing on enemies + shield for 1 second after charging
+
+Name: Jupiter
+Description: Build up gas by standing still, release lingering fart clouds and speed goes down when moving
+
+Name: Saturnus
+Description: Grants orbiting tears aura refreshing per room, can transform enemy tears into friendly tears
+
+Name: Uranus
+Description: Ice tears (enemies killed will become frozen and can be kicked)
+
+Name: Neptunus
+Description: Charge an attack that makes you shoot several tears with decreasing fire rate
+
+Name: Pluto
+Description: Size down, can pass between blocks
+
+Name: Voodoo Head
+Description: Generates 2 Curse Rooms per floor, improved curse room layouts/rewards
+
+Name: Eye Drops
+Description: Tears up only on left eye
+
+Name: Act of Contrition
+Description: +1 eternal heart, allows Angel Rooms even if a devil deal has been taken
+
+Name: Member Card
+Description: Every shop has a trapdoor to a special shop
+
+Name: Battery Pack
+Description: Recharges active item, spawns 3 random batteries on pickup
+
+Name: Mom's Bracelet
+Description: Can throw obstacles
+
+Name: The Scooper
+Description: Spawns a temporary familiar similar to The Peeper
+
+Name: Ocular Rift
+Description: Chance to shoot rift tears (summons rifts that attract + deal contact dmg)
+
+Name: Boiled Baby
+Description: Familiar, acts like a Boil
+
+Name: Freezer Baby
+Description: Familiar that fires freezing tears
+
+Name: Eternal D6
+Description: Like a D6, but has a chance to make the item disappear
+
+Name: Bird Cage
+Description: Spawns bird familiar when hit (similar to Dead Bird) that stomps enemies
+
+Name: Larynx
+Description: Release a sonic waves (power depends on the number of charges) that damage enemies and destroys rocks
+
+Name: Lost Soul
+Description: Familiar, 1 hit per floor, if it survives it grants a random reward
+
+Name: Blood Bombs
+Description: Bombs leave behind red creep, can plant bombs for 1/2 heart, heals 5 hearts
+
+Name: Lil Dumpy
+Description: Familiar, makes stun/poison farts when an enemy or projectile is about to hit the player
+
+Name: Bird's Eye
+Description: Chance to shoot a big red fire
+
+Name: Lodestone
+Description: Chance to shoot magnetizing tears (attract enemies + tears + projectiles)
+
+Name: Rotten Tomato
+Description: Chance to shoot marked tears (other enemies will attack a marked enemy)
+
+Name: Birthright
+Description: Custom reward based on character
+
+Name: Red Stew
+Description: Full heal, dmg up that wears off over time
+
+Name: Genesis
+Description: Resets player to its initial state and teleport the player to a room where he can pick as many items as they had before
+
+Name: Sharp Key
+Description: Consumes a key and throws it to deal damage / open doors, +5 keys on pickup. Killed enemies have a chance to spawn rewards from a chest
+
+Name: Booster Pack
+Description: Spawns 5 random cards on pickup
+
+Name: Mega Mush
+Description: Gigantify for a short duration (+damage, +2 range, -tears, invulnerable, crush rocks/blocks/doors)
+
+Name: Knife Piece 1
+Description: Collect the pieces to get a knife familiar
+
+Name: Knife Piece 2
+Description: Collect the pieces to get a knife familiar
+
+Name: Death Certificate
+Description: Allows you to choose one item among all items in the game
+
+Name: Bot Fly
+Description: Familiar, orbits and fires shielded tears
+
+Name: Meat Cleaver
+Description: Splits all enemies in the room into 2 smaller versions
+
+Name: Evil Charm
+Description: Fear, burn, confusion, toxic gas cloud, spider webs, poison mushroom, fireplaces and Dogma's Godhead tears immunity
+
+Name: Dogma
+Description: Grants fly + a holy mantle. Heal the player to 6 hearts if he has less than 6 hearts
+
+Name: Purgatory
+Description: A red crack spawns at a random position, standing on it will cause a soul to fly to the nearest enemy and hit it
+
+Name: Stitches
+Description: Spawns a temporary familiar, can swap positions with the familiar to deal damage
+
+Name: R Key
+Description: Restarts the game to the first floor but keeps all items
+
+Name: Knockout Drops
+Description: Chance to shoot fist tears (knockback + stun), knocking enemies into walls or other enemies damage them
+
+Name: Eraser
+Description: Throw on an enemy to permanently remove that enemy from the current run, recharge every floor
+
+Name: Yuck Heart
+Description: +1 rotten heart on use
+
+Name: Urn of Souls
+Description: A flamethrower weapon that collects one soul per enemy killed
+
+Name: Akeldama
+Description: Spawns bloody tears behind the player
+
+Name: Magic Skin
+Description: Converts 1 red heart / 2 soul hearts to a broken heart, spawns a pedestal item
+
+Name: Revelation
+Description: Grants flight and an additional angelic beam attack
+
+Name: Consolation Prize
+Description: Stat up on the lowest one, +3 coins or +1 bomb or +1 key (depending on lowest)
+
+Name: Tinytoma
+Description: Orbital, splits into blue spiders on hit
+
+Name: Brimstone bombs
+Description: +5 bombs, bombs now do a Krampus cross effect on explosion
+
+Name: 4.5 Volt
+Description: Active items now only charge based on damage dealt
+
+Name: Fruity Plum
+Description: Baby Plum familiar that propel itself diagonally by shooting tears
+
+Name: Plum Flute
+Description: Spawns Baby Plum
+
+Name: Star of Bethlehem
+Description: A star that moves from starting room to boss room with a Hallowed Ground aura (tears/dmg up + chance to block damage)
+
+Name: Cube Baby
+Description: A frozen baby familiar that can be kicked
+
+Name: Vade Retro
+Description: Spawns a little red ghost for each enemy killed and explode when you use the active item again
+
+Name: False PHD
+Description: Good pills become bad or neutral pill. Stat down pill grants a dmg up, other bad pills gives a black heart
+
+Name: Spin to Win
+Description: A spinning familiar, holding use key gives +0.5 speed + orbitals spin faster and deal more dmg
+
+Name: Damocles
+Description: Double item pedestals, chance of permanent death after the first hit when activated
+
+Name: Vasculitis
+Description: Killed enemies shot blood tears in random directions
+
+Name: Giant Cell
+Description: Spawn mini Isaacs that follow you and attack enemies when hit
+
+Name: Tropicamide
+Description: Tear size up
+
+Name: Card Reading
+Description: Spawn 2 of 3 different portals in starting room (red goes to boss room, yellow to treasure room, blue to secret room)
+
+Name: Quints
+Description: Killed enemies drop a baby familiar that stays in place and shoot in the same direction as the player
+
+Name: Tooth and Nail
+Description: Transforms the player into a spiked stone statue for 1 sec every 5 sec, invincibility + contact dmg on statue form
+
+Name: Binge Eater
+Description: For each item you'll see, a food item is proposed. Food items give 2 stat ups and a temporary dmg up
+
+Name: Guppy's Eye
+Description: Shows the content of chests, fires and shopkeepers
+
+Name: Strawman
+Description: A Keeper familiar that acts as a second player and has its own HP and items
+
+Name: Dad's Note
+Description: Sends you on the backwards path, no gameplay effect
+
+Name: Sausage
+Description: Full heal
+
+Name: Options?
+Description: Can choose between two room reward pickups
+
+Name: Candy Heart
+Description: Minor random stat up for every red heart picked up
+
+Name: A Pound of Flesh
+Description: Devil deals cost money, shop items cost hearts, shop pickups require to take damage
+
+Name: Redemption
+Description: Dmg up + half soul heart at the start of next floor if you took nothing in the devil deal
+
+Name: Spirit Shackles
+Description: On death, turn into Forgotten's Soul chained to a dead Blue Baby, revives if still alive after 10 sec
+
+Name: Cracked Orb
+Description: On hit: reveal a random room, open adjacent locked/secret rooms, break tinted rocks or rocks that hides a ladder
+
+Name: Empty Heart
+Description: Grants an empty heart container if you enter a new floor with 1 red heart or less
+
+Name: Astral Projection
+Description: On hit: stop time and turn into the lost. Revert into original char on hit or room clear
+
+Name: C Section
+Description: Shoot fetus tears
+
+Name: Lil Abaddon
+Description: Familiar that fires a Maw of the Void ring
+
+Name: Montezuma's Revenge
+Description: Fires a short diarrhea Brimstone backwards
+
+Name: Lil Portal
+Description: A familiar that spawns a portal to a purple room with pickups if it absorbed enough pickups
+
+Name: Worm Friend
+Description: A tentacle that lurks underground and randomly grabs an enemy
+
+Name: Bone Spurs
+Description: Killed enemies spawn bone chunks
+
+Name: Hungry Soul
+Description: Killed enemies have a chance to spawn a homing soul that chases enemies and attack them
+
+Name: Jar of Wisps
+Description: Spawns a random wisp + another random wisp for every past uses (up to 12)
+
+Name: Soul Locket
+Description: Minor random stat up for every soul heart picked up
+
+Name: Friend Finder
+Description: Spawns a random controllable friendly enemy
+
+Name: Inner Child
+Description: +1 life. On revive, explode and turn into a tiny version of Isaac with higher speed
+
+Name: Glitched Crown
+Description: Pedestals rapidly cycle between 5 random items
+
+Name: Belly Jelly
+Description: Chance to reflect shots and negate contact damage, bouncing the enemies instead
+
+Name: Sacred Orb
+Description: Prevents quality 0 and 1 items from appearing. 33% chance for quality 2 items to be rerolled
+
+Name: Sanguine Bond
+Description: Spikes in front of devil statue, taking damage on them can yield various rewards
+
+Name: The Swarm
+Description: Grants a halo of fly orbitals, turn them into blue flies on hit, +1 orbital fly per room clear
+
+Name: Heartbreak
+Description: Add 3 broken hearts
+
+Name: Bloody Gust
+Description: Tears and speed up on hit (resets every floor)
+
+Name: Salvation
+Description: Grants an aura that makes enemies exploding in a cross of lightbeams after few seconds in it, gets bigger on hit, shrinks upon entering new floor
+
+Name: Vanishing Twin
+Description: Familiar that turns into a hostile copy of any boss encountered, boss rooms yield double rewards
+
+Name: Twisted Pair
+Description: Gives two small demons that copy the player's tears (37.5% of player's dmg for each demon)
+
+Name: Azazel's Rage
+Description: Builds rage every time a room is cleared, fires a large Brimstone at full rage upon entering next room
+
+Name: Echo Chamber
+Description: Every time a card/pill is used, it also trigger the 3 previous pill/cards used
+
+Name: Isaac's Tomb
+Description: Chest appears in the starting room of each floor, gives at random: 3 soul hearts, 3 trinkets, Old Chest item, Angel item
+
+Name: Vengeful Spirit
+Description: Spawns an invincible red wisp every time the player takes damage, wisps disappear on next floor
+
+Name: Esau Jr.
+Description: Toggle between current char and a mini Esau that starts with high damage and 3 black hearts and has its own items
+
+Name: Berserk!
+Description: Temporary +3 dmg and melee attack. This item charge by damaging enemies
+
+Name: Dark Arts
+Description: Turn into shadow form, phase through enemies to deal damage 2 sec after, more damage dodged = more dmg up
+
+Name: Abyss
+Description: Destroys any item in the room and turn it into permanent red locusts that attack by dashing at enemies
+
+Name: Supper
+Description: 
+
+Name: Stapler
+Description: Tears only come out from the player's right eye
+
+Name: Suplex!
+Description: Dash into an enemy, grab it and slam it on the ground. Dmg scales on player's size
+
+Name: Bag of Crafting
+Description: Take pickups to transform them into items
+
+Name: Flip
+Description: Each pedestal that is part of the room layout will have 2 items. Use Flip to have the second item
+
+Name: Lemegeton
+Description: Spawn an item wisp that grants the effect of a random passive item until it dies
+
+Name: Sumptorium
+Description: Spawn a lil clot for half a heart. On T. Eve : convert clots to health
+
+Name: Recall
+Description: Sends back tainted Forgotten's body to the owner
+
+Name: Hold
+Description: Allows you to stock a Tainted Blue Baby poop and throw it later
+
+Name: Keeper's Sack
+Description: +1 key and +3 coins, gives a dmg/range/speed bonus that scales with the amount of money spent in shops
+
+Name: Keeper's Kin
+Description: Rocks drop 1-3 spiders when destroyed, rocks can spawn blue spider in room with enemies in it
+
+Name: Keeper's Box
+Description: Spawns a random shop item
+
+Name: Everything Jar
+Description: Can be used anytime, various rewards depending on charge level
+
+Name: TMTRAINER
+Description: Causes all future items become glitched, giving fully randomized effects
+
+Name: Anima Sola
+Description: Summons chains around nearest enemy and temporarily prevent it from moving
+
+Name: Spindown Dice
+Description: Rerolls each item in the room into the item before it in numerical ID order
+
+Name: Hypercoagulation
+Description: On hit, spawns half a red heart that quickly disappears. Spawned heart's velocity increase the more you take damage
+
+Name: IBS
+Description: Causes you to throw a random type of poop at random intervals + chance to have Explosive Diarrhea when standing still
+
+Name: Hemoptysis
+Description: Double tap to sneeze on enemies, dealing x1.5 dmg
+
+Name: Ghost Bombs
+Description: +5 bombs, bombs spawn a friendly white soul which hunt down enemies
+
+Name: Gello
+Description: A baby that come from your belly and deals x3 dmg when it hit enemies, can also shoot tears
+
+Name: Decap Attack
+Description: Throw your head to deal 24 damage
+
+Name: Glass Eye
+Description: 
+
+Name: Stye
+Description: Damage up/range up/shot speed down on the right eye
+
+Name: Mom's Ring
+Description: Gives a random rune
+
+Name: Swallowed Penny
+Description: Spawn 1-2 pennies on hit
+
+Name: Petrified Poop
+Description: Higher chance for rewards from poops
+
+Name: AAA Battery
+Description: Quicker charge
+
+Name: Broken Remote
+Description: Teleport on active item use
+
+Name: Purple Heart
+Description: Higher chance for champions, double champion drops
+
+Name: Broken Magnet
+Description: Pulls coins toward you
+
+Name: Rosary Bead
+Description: Forces the next deal to be an Angel Room
+
+Name: Cartridge
+Description: Chance to get The Gamekid effect on hit
+
+Name: Pulse Worm
+Description: Pulsing tears (only cosmetic)
+
+Name: Wiggle Worm
+Description: Wave + spectral tears
+
+Name: Ring Worm
+Description: Ring + spectral tears
+
+Name: Flat Worm
+Description: Flat tears (only cosmetic)
+
+Name: Store Credit
+Description: First shop item you will take while holding the trinket will be free
+
+Name: Callus
+Description: Immunity from spike and creep damage
+
+Name: Lucky Rock
+Description: 33% for rocks to drop coins when broken
+
+Name: Mom's Toenail
+Description: Mom stomps every 20 seconds (300 dmg)
+
+Name: Black Lipstick
+Description: Higher chance for black hearts
+
+Name: Bible Tract
+Description: Higher chance for eternal hearts
+
+Name: Paper Clip
+Description: Can open Golden Chests without using a key
+
+Name: Monkey Paw
+Description: Spawns a black heart when half a heart is remaining (3 times max)
+
+Name: Mysterious Paper
+Description: Copies effect of either A Missing Page, The Polaroid, The Negative, or Missing Poster
+
+Name: Daemon's Tail
+Description: Heart drops are rerolled into a black heart, 80% to replace a heart drop with a key
+
+Name: Missing Poster
+Description: +1 life (will respawn as The Lost), 33% chance to reveal the super secret room on floor enter
+
+Name: Butt Penny
+Description: Farts upon picking up a coin, 20% to find a coin in a poop
+
+Name: Mysterious Candy
+Description: Chance to randomly poop
+
+Name: Hook Worm
+Description: Hook + spectral tears
+
+Name: Whip Worm
+Description: 
+
+Name: Broken Ankh
+Description: 20% chance to respawn as Blue Baby on death
+
+Name: Fish Head
+Description: Spawns 1-2 blue flies on hit
+
+Name: Pinky Eye
+Description: Chance to shoot poison tears
+
+Name: Push Pin
+Description: Chance to shoot spectral + piercing tears
+
+Name: Liberty Cap
+Description: Gives a random mushroom effect each room
+
+Name: Umbilical Cord
+Description: High chance to proc a Gemini for the room when hit
+
+Name: Child's Heart
+Description: Higher chance to find red hearts
+
+Name: Curved Horn
+Description: 
+
+Name: Rusted Key
+Description: Higher chance to find keys and chests
+
+Name: Goat Hoof
+Description: 
+
+Name: Mom's Pearl
+Description: Higher chance to find soul hearts
+
+Name: Cancer
+Description: 
+
+Name: Red Patch
+Description: Chance to temporarily gain 1.8 dmg on hit
+
+Name: Match Stick
+Description: Higher chance to find bombs
+
+Name: Lucky Toe
+Description: 
+
+Name: Cursed Skull
+Description: Teleported to a random room if damaged to 1/2 heart
+
+Name: Safety Cap
+Description: Higher chance to find pills
+
+Name: Ace of Spades
+Description: Higher chance to find cards
+
+Name: Isaac's Fork
+Description: Chance to heal for a 1/2 heart after clearing a room
+
+Name: A Missing Page
+Description: Chance to do Necronomicon effect (80 dmg) on hit
+
+Name: Bloody Penny
+Description: 25% chance to spawn a 1/2 red heart upon picking up a coin
+
+Name: Burnt Penny
+Description: 25% chance to spawn a bomb upon picking up a coin
+
+Name: Flat Penny
+Description: 25% chance to spawns a key upon picking up a coin
+
+Name: Counterfeit Penny
+Description: 50% chance to gain an extra cent upon picking up a coin
+
+Name: Tick
+Description: Automatically deals 15% damage to each boss, heals 1 red heart, cannot drop
+
+Name: Isaac's Head
+Description: Familiar (3.5 dmg / tear, piercing)
+
+Name: Maggy's Faith
+Description: Gives an eternal heart at the beginning of every floor
+
+Name: Judas' Tongue
+Description: Devil deal items that cost 2 hearts are reduced to 1 heart
+
+Name: ???'s Soul
+Description: Familiar that moves like DVD logo, shoots in the same direction as the player
+
+Name: Samson's Lock
+Description: Chance to temporarily gain 0.5 dmg when killing an enemy
+
+Name: Cain's Eye
+Description: 25% chance to gain The Compass effect at the beginning of every floor
+
+Name: Eve's Bird Foot
+Description: Chance to spawn a Dead Bird familiar when killing an enemy (2 dmg / tick)
+
+Name: The Left Hand
+Description: All chests become Red Chests
+
+Name: Shiny Rock
+Description: Tinted rocks and crawlspace rocks will flash white every 10 seconds
+
+Name: Safety Scissors
+Description: Turns all troll bombs into bomb pickups
+
+Name: Rainbow Worm
+Description: Rainbow worm tears (a random worm effect every 5 seconds)
+
+Name: Tape Worm
+Description: Halves tear height
+
+Name: Lazy Worm
+Description: 
+
+Name: Cracked Dice
+Description: Randomly D6, D10, D20, D8, or D12 on hit
+
+Name: Super Magnet
+Description: Pickups and enemies move towards you
+
+Name: Faded Polaroid
+Description: Chance to gain camouflage for a few seconds (confuses all enemies)
+
+Name: Louse
+Description: Spawns a blue spider when completing a combat room
+
+Name: Bob's Bladder
+Description: Bombs make green creep
+
+Name: Watch Battery
+Description: Increased chance to find batteries, chance to add an extra charge after clearing a room
+
+Name: Blasting Cap
+Description: Exploding bombs have a chance to drop another bomb pickup
+
+Name: Stud Finder
+Description: Increased chance to find crawlspaces when breaking rocks
+
+Name: Error
+Description: Gives a random trinket effect per room
+
+Name: Poker Chip
+Description: Chests now have a 50/50 chance to give extra pickups or have nothing
+
+Name: Blister
+Description: Tears have extra knockback
+
+Name: Second Hand
+Description: Increases the time that status effects stay on enemies
+
+Name: Endless Nameless
+Description: Chance to drop an extra copy of a card/pill upon use
+
+Name: Black Feather
+Description: +0.5 dmg per "evil" item
+
+Name: Blind Rage
+Description: Extra invulnerability frames on hit
+
+Name: Golden Horse Shoe
+Description: +15% chance to get a double Treasure Room
+
+Name: Store Key
+Description: Shops do not require keys
+
+Name: Rib of Greed
+Description: Greed and Super Greed can no longer appear
+
+Name: Karma
+Description: Reduce chances of Donation Machine jamming. Chance to heal, refund a coin or increase luck when donating to a machine or a beggar
+
+Name: Lil Larva
+Description: Gives a blue fly upon destroying a poop
+
+Name: Mom's Locket
+Description: Changes all 1/2 red hearts into full hearts, heals 1/2 heart when a key is used
+
+Name: NO!
+Description: Prevents active items from appearing
+
+Name: Child Leash
+Description: Familiars stay closer to you and they gain a small dmg multiplier
+
+Name: Brown Cap
+Description: Poop explodes when destroyed
+
+Name: Meconium
+Description: Increased chance for Black Poops
+
+Name: Cracked Crown
+Description: Stat bonuses are increased by 20%
+
+Name: Used Diaper
+Description: Gives Skatole effect in certain rooms, spawns a blue fly when entering a new combat room
+
+Name: Fish Tail
+Description: 2x blue fly/spider generation
+
+Name: Black Tooth
+Description: Chance to shoot black tooth tears (2x dmg + poison)
+
+Name: Ouroboros Worm
+Description: Spiral tears
+
+Name: Tonsil
+Description: Chance to spawn tonsil familiar on hit
+
+Name: Nose Goblin
+Description: Chance to shoot booger tears (dmg over time for 60 seconds)
+
+Name: Super Ball
+Description: Chance to shoot bouncy tears (tears bounce off rocks/walls)
+
+Name: Vibrant Bulb
+Description: +0.25 speed, +0.75 range, +0.1 shot speed, +0.2 tears, +0.5 damage, +1 luck when active item is fully charged
+
+Name: Dim Bulb
+Description: +0.5 speed, +1.5 range, +0.3 shot speed, +0.5 tears, +1.5 damage, +2 luck when active item is completely uncharged
+
+Name: Fragmented Card
+Description: Generates 2 Secret Rooms per floor
+
+Name: Equality!
+Description: +2 tear rate when same number of coins + bombs + keys
+
+Name: Wish Bone
+Description: Chance to spawn pedestal item on hit
+
+Name: Bag Lunch
+Description: Chance to spawn Lunch on hit
+
+Name: Lost Cork
+Description: Increases radius of friendly creep
+
+Name: Crow Heart
+Description: Red heart containers are depleted first
+
+Name: Walnut
+Description: Chance to break and drop random coin/heart/key/trinket on hit from explosion
+
+Name: Duct Tape
+Description: Orbitals and familiars stop moving
+
+Name: Silver Dollar
+Description: Shops will appear on the Womb
+
+Name: Bloody Crown
+Description: Treasure Rooms will appear on the Womb
+
+Name: Pay To Win
+Description: Restock Machines will always spawn in Treasure Rooms
+
+Name: Locust of Wrath
+Description: Spawns a Red (exploding) Locust upon entering a room
+
+Name: Locust of Pestilence
+Description: Spawns a Green (poison) Locust upon entering a room
+
+Name: Locust of Famine
+Description: Spawns a Yellow (slowing) Locust upon entering a room
+
+Name: Locust of Death
+Description: Spawns a Black (4x dmg) Locust upon entering a room
+
+Name: Locust of Conquest
+Description: Spawns 2-5 White Locusts upon entering a room
+
+Name: Bat Wing
+Description: Chance to gain flight when killing an enemy
+
+Name: Stem Cell
+Description: Heals for 1/2 heart when traveling to the next floor
+
+Name: Hairpin
+Description: Fully recharges active item at the start of each boss
+
+Name: Wooden Cross
+Description: Gives 1-hit shield at the start of each floor
+
+Name: Butter!
+Description: Using active items drops them on the ground, chance to drop passive items on hit
+
+Name: Filigree Feather
+Description: Angels will drop Angel Room items instead of key pieces
+
+Name: Door Stop
+Description: Doors that you go through stay open
+
+Name: Extension Cord
+Description: Yellow laser chain flows through familiars
+
+Name: Rotten Penny
+Description: +1 blue fly upon picking up a coin
+
+Name: Baby-Bender
+Description: Familiars have homing shots
+
+Name: Finger Bone
+Description: 5% chance to gain a bone heart on hit
+
+Name: Jawbreaker
+Description: Tears can become a tooth
+
+Name: Chewed Pen
+Description: Tears have a chance to slow enemies
+
+Name: Blessed Penny
+Description: Chance to spawn half a soul heart when picking up a coin
+
+Name: Broken Syringe
+Description: Gives you a random syringe effect every room
+
+Name: Short Fuse
+Description: All bombs have a shorter fuse time
+
+Name: Gigante Bean
+Description: Farts from isaac and familiars are larger
+
+Name: A Lighter
+Description: Chance for enemies to burn when entering a room
+
+Name: Broken Padlock
+Description: Explosions can open locked doors
+
+Name: Myosotis
+Description: Get max 4 pickups from the previous floor at the beginning of the new floor
+
+Name: 'M
+Description: Reroll your active item upon use
+
+Name: Teardrop Charm
+Description: Tear-based effects have an extra chance of occurring
+
+Name: Apple of Sodom
+Description: Red hearts have a chance to burst into blue spiders when touched
+
+Name: Forgotten Lullaby
+Description: Increase tear rate of familiars
+
+Name: Beth's Faith
+Description: Spawn four wisps at the start of each floor
+
+Name: Old Capacitor
+Description: Your active item don't charge but you have a chance to spawn an extra battery drop on room clear
+
+Name: Brain Worm
+Description: Missed tears will redirect themselves toward enemies
+
+Name: Perfection
+Description: +10 luck but break when hit
+
+Name: Devil's Crown
+Description: Treasure rooms are replaced with Devil Deals
+
+Name: Charged Penny
+Description: Chance to replenish 1 bar of charge when picking up pennies
+
+Name: Friendship Necklace
+Description: Turns follower familiars into orbitals
+
+Name: Panic Button
+Description: Automatically uses active item when the player is about to be hit by a projectile or an enemy
+
+Name: Blue Key
+Description: Locked doors can be opened for free but you have to go through a Blue Womb room with enemies
+
+Name: Flat File
+Description: Removes all spikes (spiked rocks, spiked chests, curse room included)
+
+Name: Telescope Lens
+Description: +9% chance of finding Planetarium + allows them to appear in chapter 4
+
+Name: Mom's Lock
+Description: Chance of triggering a Mom item effect every room
+
+Name: Dice Bag
+Description: Chance to obtain a single use dice item in your card slot that only lasts for the current room
+
+Name: Holy Crown
+Description: Treasure rooms and shops will appear in the Cathedral
+
+Name: Mother's Kiss
+Description: Gives one empty heart container
+
+Name: Torn Card
+Description: Chance to shoot Ipecac + My Reflection shots
+
+Name: Torn Pocket
+Description: Spawns 2 pickups you have on the ground when damaged
+
+Name: Gilded Key
+Description: All chests become locked chests containing mixed pickups (including cards/pills/runes/batteries)
+
+Name: Lucky Sack
+Description: A sack spawns in every starting room
+
+Name: Wicked Crown
+Description: Treasure rooms and shops will appear in Sheol
+
+Name: Azazel's Stump
+Description: Chance to become Azazel on room clear until the next room clear
+
+Name: Dingle Berry
+Description: Spawns a charmed Dip on room clear
+
+Name: Ring Cap
+Description: 2 bombs spawn each time you drop 1 bomb
+
+Name: Nuh uh!
+Description: Prevents coins and keys from spawning after the Depths
+
+Name: Modeling Clay
+Description: Chance of giving you a random passive item each room until room clear
+
+Name: Polished Bone
+Description: Chance of spawning a charmed bony on room clear
+
+Name: Hollow Heart
+Description: Gain an empty bone heart at the start of each floor
+
+Name: Kid's Drawing
+Description: Counts as a Guppy item, does nothing else
+
+Name: Crystal Key
+Description: 33% chance of Red Key effect on room clear
+
+Name: Keeper's Bargain
+Description: 50% chance each devil deal will cost coins
+
+Name: Cursed Penny
+Description: Teleports you every time you pick up a coin. Has a chance to teleport to a specific room depending of the coin
+
+Name: Your Soul
+Description: First devil deal item you will take while holding the trinket will be free
+
+Name: Number Magnet
+Description: Devil rooms always have at least a black heart and 2 enemies inside
+
+Name: Strange Key
+Description: Removes the time limit for Blue Womb. If Pandora's box is used, this trinket is consumed and spawns 6 random items
+
+Name: Lil Clot
+Description: Spawns one of Alt Eve's babies which respawns in the next room if killed
+
+Name: Temporary Tattoo
+Description: Challenge rooms drop 2 extra chests on clear, boss challenge rooms require 2 full hearts or less to enter
+
+Name: Swallowed M80
+Description: 50% chance to trigger Kamikaze effect on hit
+
+Name: RC Remote
+Description: Familiars are now controlled like Jacob&Esau
+
+Name: Found soul
+Description: Spawns a controllable baby Lost at the start of each floor that acts like a co-op baby
+
+Name: Expansion Pack
+Description: Using an active item will also trigger the effect of a random 1-2 charge item
+
+Name: Beth's Essence
+Description: Enter an angel room = 5 wisps, donate to a beggar = 1 wisp
+
+Name: The Twins
+Description: Chance of doubling one of your familiars each room, get Brother Bobby or Sister Maggy if no familiars
+
+Name: Adoption Papers
+Description: Familiars now replace items in shops and are on sale
+
+Name: Cricket Leg
+Description: 10% chance of spawning a random locust per enemy killed
+
+Name: Apollyon's Best Friend
+Description: Spawns one of Alt Apollyon's red locusts
+
+Name: Broken Glasses
+Description: 33% chance of extra blind item option on main path, reveals blind item on alt path
+
+Name: Ice Cube
+Description: Chance of enemies being frozen when you enter the room
+
+Name: Sigil of Baphomet
+Description: Grants a 2 seconds shield every time you kill an enemy
+
+Name: Mega Satan's Key
+Description: Opens Mega Satan's Door
+
+Name: Super Bum
+Description: Collects coins, red hearts and keys and drops twice as many rewards as the regular bums
+
+Name: Knife
+Description: Opens door to corpse
+
+Name: (G) Swallowed Penny
+Description: Spawn 2 pennies on hit
+
+Name: (G) Petrified Poop
+Description: Higher chance for rewards from poops
+
+Name: (G) AAA Battery
+Description: Quicker charge
+
+Name: (G) Broken Remote
+Description: Teleport 2.0 on active item use
+
+Name: (G) Purple Heart
+Description: Higher chance for champions
+
+Name: (G) Broken Magnet
+Description: Pulls all pickups toward you
+
+Name: (G) Rosary Bead
+Description: Increases Angel Room chance to 75%/25% (from 50%/50%) and adds Rosary to every pools
+
+Name: (G) Cartridge
+Description: Chance to get The Gamekid effect on hit
+
+Name: (G) Pulse Worm
+Description: Pulsing tears (only cosmetic)
+
+Name: (G) Wiggle Worm
+Description: Wave + spectral tears
+
+Name: (G) Ring Worm
+Description: Ring + spectral tears
+
+Name: (G) Flat Worm
+Description: Flat tears (only cosmetic)
+
+Name: (G) Store Credit
+Description: First two shop items you will take while holding the trinket will be free
+
+Name: (G) Callus
+Description: Immunity from spike and creep damage
+
+Name: (G) Lucky Rock
+Description: 33% for rocks to drop coins when broken
+
+Name: (G) Mom's Toenail
+Description: Mom stomps every 10 seconds (300 dmg)
+
+Name: (G) Black Lipstick
+Description: Higher chance for black hearts
+
+Name: (G) Bible Tract
+Description: Higher chance for eternal hearts
+
+Name: (G) Paper Clip
+Description: Can open Golden Chests without using a key
+
+Name: (G) Monkey Paw
+Description: Spawns 2 black hearts when half a heart is remaining (3 times max)
+
+Name: (G) Mysterious Paper
+Description: Copies effect of either A Missing Page, The Polaroid, The Negative, or Missing Poster
+
+Name: (G) Daemon's Tail
+Description: Heart drops are rerolled into a black heart, 80% to replace a heart drop with a key
+
+Name: (G) Missing Poster
+Description: +1 life (will respawn as The Lost)
+
+Name: (G) Butt Penny
+Description: Farts upon picking up a coin, 20% to find a coin in a poop
+
+Name: (G) Mysterious Candy
+Description: Chance to randomly poop
+
+Name: (G) Hook Worm
+Description: Hook + spectral tears
+
+Name: (G) Whip Worm
+Description: 
+
+Name: (G) Broken Ankh
+Description: 20% chance to respawn as Blue Baby on death
+
+Name: (G) Fish Head
+Description: Spawns 2-4 blue flies on hit
+
+Name: (G) Pinky Eye
+Description: Chance to shoot poison tears
+
+Name: (G) Push Pin
+Description: Chance to shoot spectral + piercing tears
+
+Name: (G) Liberty Cap
+Description: Gives a random mushroom effect each room
+
+Name: (G) Umbilical Cord
+Description: High chance to proc a Gemini for the room when hit
+
+Name: (G) Child's Heart
+Description: Higher chance to find red hearts
+
+Name: (G) Curved Horn
+Description: 
+
+Name: (G) Rusted Key
+Description: Higher chance to find keys and chests
+
+Name: (G) Goat Hoof
+Description: 
+
+Name: (G) Mom's Pearl
+Description: Higher chance to find soul hearts
+
+Name: (G) Cancer
+Description: 
+
+Name: (G) Red Patch
+Description: Chance to temporarily gain 2.72 dmg on hit
+
+Name: (G) Match Stick
+Description: Higher chance to find bombs
+
+Name: (G) Lucky Toe
+Description: 
+
+Name: (G) Cursed Skull
+Description: Teleported to a random room if damaged to 1/2 heart
+
+Name: (G) Safety Cap
+Description: Higher chance to find pills
+
+Name: (G) Ace of Spades
+Description: Higher chance to find cards
+
+Name: (G) Isaac's Fork
+Description: Chance to heal for a full heart after clearing a room
+
+Name: (G) A Missing Page
+Description: Chance to do Necronomicon effect (120 dmg) on hit
+
+Name: (G) Bloody Penny
+Description: 25% chance to spawn a 1/2 red heart upon picking up a coin
+
+Name: (G) Burnt Penny
+Description: 25% chance to spawn a bomb upon picking up a coin
+
+Name: (G) Flat Penny
+Description: 25% chance to spawns a key upon picking up a coin
+
+Name: (G) Counterfeit Penny
+Description: 50% chance to gain an extra cent upon picking up a coin
+
+Name: (G) Tick
+Description: Automatically deals 30% damage to each boss, heals 1 red heart, cannot drop
+
+Name: (G) Isaac's Head
+Description: Familiar (3.5 dmg / tear, piercing)
+
+Name: (G) Maggy's Faith
+Description: Gives two eternal hearts at the beginning of every floor
+
+Name: (G) Judas' Tongue
+Description: Devil deal items that cost 2 hearts are reduced to 1 heart
+
+Name: (G) ???'s Soul
+Description: Familiar that moves like DVD logo, shoots in the same direction as the player
+
+Name: (G) Samson's Lock
+Description: Chance to temporarily gain 0.5 dmg when killing an enemy
+
+Name: (G) Cain's Eye
+Description: 25% chance to gain The Compass effect at the beginning of every floor
+
+Name: (G) Eve's Bird Foot
+Description: Chance to spawn a Dead Bird familiar when killing an enemy (2 dmg / tick)
+
+Name: (G) The Left Hand
+Description: All chests become Red Chests
+
+Name: (G) Shiny Rock
+Description: Tinted rocks and crawlspace rocks will flash white every 10 seconds
+
+Name: Safety Scissors
+Description: (G) Turns all troll bombs into bomb pickups
+
+Name: (G) Rainbow Worm
+Description: Rainbow worm tears (a random worm effect every 2.5 seconds)
+
+Name: (G) Tape Worm
+Description: Halves tear height
+
+Name: (G) Lazy Worm
+Description: 
+
+Name: (G) Cracked Dice
+Description: Randomly D6, D10, D20, D8, or D12 on hit
+
+Name: (G) Super Magnet
+Description: Pickups and enemies move towards you
+
+Name: (G) Faded Polaroid
+Description: Chance to gain camouflage for a few seconds (confuses all enemies)
+
+Name: (G) Louse
+Description: Chance to spawn 2 blue spiders when in a room with enemies
+
+Name: (G) Bob's Bladder
+Description: Bombs make green creep
+
+Name: (G) Watch Battery
+Description: Increased chance to find batteries, chance to add an extra charge after clearing a room
+
+Name: (G) Blasting Cap
+Description: Exploding bombs have a chance to drop another bomb pickup
+
+Name: (G) Stud Finder
+Description: Increased chance to find crawlspaces when breaking rocks
+
+Name: (G) Error
+Description: Gives a random trinket effect per room
+
+Name: (G) Poker Chip
+Description: Chests now have a 50/50 chance to give extra pickups or have nothing
+
+Name: (G) Blister
+Description: Tears have extra knockback
+
+Name: (G) Second Hand
+Description: Increases the time that status effects stay on enemies
+
+Name: (G) Endless Nameless
+Description: Chance to drop an extra copy of a card/pill upon use
+
+Name: (G) Black Feather
+Description: +1 dmg per "evil" item
+
+Name: (G) Blind Rage
+Description: Extra invulnerability frames on hit
+
+Name: (G) Golden Horse Shoe
+Description: +30% chance to get a double Treasure Room
+
+Name: (G) Store Key
+Description: Shops do not require keys
+
+Name: (G) Rib of Greed
+Description: Greed and Super Greed can no longer appear
+
+Name: (G) Karma
+Description: Chance to heal a red heart or spawn a Beggar when using a Donation Machine
+
+Name: (G) Lil Larva
+Description: Gives 2 blue flies upon destroying a poop
+
+Name: (G) Mom's Locket
+Description: Changes all 1/2 red hearts into full hearts, heals 1/2 heart when a key is used
+
+Name: (G) NO!
+Description: Prevents active items and items with a quality 0 from appearing
+
+Name: (G) Child Leash
+Description: Familiars stay closer to you
+
+Name: (G) Brown Cap
+Description: Poop explodes when destroyed
+
+Name: (G) Meconium
+Description: Increased chance for Black Poops
+
+Name: (G) Cracked Crown
+Description: Stat bonuses are increased by 40%
+
+Name: (G) Used Diaper
+Description: Gives Skatole effect in certain rooms
+
+Name: (G) Fish Tail
+Description: 2x blue fly/spider generation
+
+Name: (G) Black Tooth
+Description: Chance to shoot black tooth tears (2x dmg + poison)
+
+Name: (G) Ouroboros Worm
+Description: Spiral tears
+
+Name: (G) Tonsil
+Description: Chance to spawn tonsil familiar on hit
+
+Name: (G) Nose Goblin
+Description: Chance to shoot booger tears (dmg over time for 60 seconds)
+
+Name: (G) Super Ball
+Description: Chance to shoot bouncy tears (tears bounce off rocks/walls)
+
+Name: (G) Vibrant Bulb
+Description: +0.25 speed, +0.75 range, +0.1 shot speed, +0.2 tears, +0.5 damage, +1 luck when active item is fully charged
+
+Name: (G) Dim Bulb
+Description: +0.5 speed, +1.5 range, +0.3 shot speed, +0.5 tears, +1.5 damage, +2 luck when active item is completely uncharged
+
+Name: (G) Fragmented Card
+Description: Generates 2 Secret Rooms per floor
+
+Name: (G) Equality!
+Description: Half pickups turn into doubled pickups when same number of coins + bombs + keys
+
+Name: (G) Wish Bone
+Description: Chance to spawn pedestal item on hit
+
+Name: (G) Bag Lunch
+Description: Chance to spawn Lunch on hit
+
+Name: (G) Lost Cork
+Description: Increases radius of friendly creep
+
+Name: (G) Crow Heart
+Description: Red heart containers are depleted first
+
+Name: (G) Walnut
+Description: Chance to break and drop random coin/heart/key/trinket on hit from explosion
+
+Name: (G) Duct Tape
+Description: Orbitals and familiars stop moving
+
+Name: (G) Silver Dollar
+Description: Shops will appear on the Womb
+
+Name: (G) Bloody Crown
+Description: Treasure Rooms will appear on the Womb
+
+Name: (G) Pay To Win
+Description: Restock Machines will always spawn in Treasure Rooms
+
+Name: (G) Locust of Wrath
+Description: Spawns a Red (exploding) Locust upon entering a room
+
+Name: (G) Locust of Pestilence
+Description: Spawns a Green (poison) Locust upon entering a room
+
+Name: (G) Locust of Famine
+Description: Spawns a Yellow (slowing) Locust upon entering a room
+
+Name: (G) Locust of Death
+Description: Spawns a Black (4x dmg) Locust upon entering a room
+
+Name: (G) Locust of Conquest
+Description: Spawns 1-4 White Locusts upon entering a room
+
+Name: (G) Bat Wing
+Description: Chance to gain flight when killing an enemy
+
+Name: (G) Stem Cell
+Description: Heals for 1/2 heart when traveling to the next floor
+
+Name: (G) Hairpin
+Description: Fully recharges active item at the start of each boss
+
+Name: (G) Wooden Cross
+Description: Gives 1-hit shield at the start of each floor
+
+Name: (G) Butter!
+Description: Using active items drops them on the ground, chance to drop passive items on hit
+
+Name: (G) Filigree Feather
+Description: Angels will drop Angel Room items instead of key pieces
+
+Name: (G) Door Stop
+Description: Doors that you go through stay open
+
+Name: (G) Extension Cord
+Description: Yellow laser chain flows through familiars
+
+Name: (G) Rotten Penny
+Description: +1 blue fly upon picking up a coin
+
+Name: (G) Baby-Bender
+Description: Familiars have homing shots
+
+Name: (G) Finger Bone
+Description: 5% chance to gain a bone heart on hit
+
+Name: (G) Jawbreaker
+Description: Tears can become a tooth
+
+Name: (G) Chewed Pen
+Description: Tears have a chance to slow enemies
+
+Name: (G) Blessed Penny
+Description: Chance to spawn half a soul heart when picking up a coin
+
+Name: (G) Broken Syringe
+Description: Gives you a random syringe effect every room
+
+Name: (G) Short Fuse
+Description: All bombs have a shorter fuse time
+
+Name: (G) Gigante Bean
+Description: Farts from isaac and familiars are larger
+
+Name: (G) A Lighter
+Description: Chance for enemies to burn when entering a room
+
+Name: (G) Broken Padlock
+Description: Explosions can open locked doors
+
+Name: (G) Myosotis
+Description: Get max 4 pickups from the previous floor at the beginning of the new floor
+
+Name: (G) 'M
+Description: Reroll your active item upon use
+
+Name: (G) Teardrop Charm
+Description: Tear-based effects have an extra chance of occurring
+
+Name: (G) Apple of Sodom
+Description: Red hearts have a chance to burst into blue spiders when touched
+
+Name: (G) Forgotten Lullaby
+Description: Increase tear rate of familiars
+
+Name: (G) Beth's Faith
+Description: Spawn 8 wisps at the start of each floor
+
+Name: (G) Old Capacitor
+Description: Your active item don't charge but you have a chance to spawn an extra battery drop on room clear
+
+Name: (G) Brain Worm
+Description: Missed tears will redirect themselves toward enemies
+
+Name: (G) Perfection
+Description: +20 luck but break when hit
+
+Name: (G) Devil's Crown
+Description: Treasure rooms are replaced with Devil Deals
+
+Name: (G) Charged Penny
+Description: Chance to replenish 1 bar of charge when picking up pennies
+
+Name: (G) Friendship Necklace
+Description: Turns follower familiars into orbitals
+
+Name: (G) Panic Button
+Description: Automatically uses active item when the player is about to be hit by a projectile or an enemy
+
+Name: (G) Blue Key
+Description: Locked doors can be opened for free but you have to go through a Blue Womb room with enemies
+
+Name: (G) Flat File
+Description: Removes all spikes (spiked rocks, spiked chests, curse room included)
+
+Name: (G) Telescope Lens
+Description: +9% chance of finding Planetarium + allows them to appear in chapter 4
+
+Name: (G) Mom's Lock
+Description: Chance of triggering a Mom item effect every room
+
+Name: (G) Dice Bag
+Description: Chance to obtain a single use dice item in your card slot that only lasts for the current room
+
+Name: (G) Holy Crown
+Description: Treasure rooms and shops will appear in the Cathedral
+
+Name: (G) Mother's Kiss
+Description: Gives two empty heart containers
+
+Name: (G) Torn Card
+Description: Chance to shoot Ipecac + My Reflection shots
+
+Name: (G) Torn Pocket
+Description: Spawns 2 pickups you have on the ground when damaged
+
+Name: (G) Gilded Key
+Description: All chests become locked chests containing mixed pickups (including cards/pills/runes/batteries)
+
+Name: (G) Lucky Sack
+Description: 2 sacks spawns in every starting room
+
+Name: (G) Wicked Crown
+Description: Treasure rooms and shops will appear in Sheol
+
+Name: (G) Azazel's Stump
+Description: Chance to become Azazel on room clear until the next room clear
+
+Name: (G) Dingle Berry
+Description: Spawns two charmed Dips on room clear
+
+Name: (G) Ring Cap
+Description: 2 bombs spawn each time you drop 1 bomb
+
+Name: (G) Nuh uh!
+Description: Prevents coins and keys from spawning after the Depths
+
+Name: (G) Modeling Clay
+Description: Chance of giving you a random passive item each room until room clear
+
+Name: (G) Polished Bone
+Description: Chance of spawning a charmed bony on room clear
+
+Name: (G) Hollow Heart
+Description: Gain 2 empty bone hearts at the start of each floor
+
+Name: (G) Kid's Drawing
+Description: Counts as two Guppy items, does nothing else
+
+Name: (G) Crystal Key
+Description: 33% chance of Red Key effect on room clear
+
+Name: (G) Keeper's Bargain
+Description: 50% chance each devil deal will cost coins
+
+Name: (G) Cursed Penny
+Description: Teleports you every time you pick up a coin
+
+Name: (G) Your Soul
+Description: First devil deal item you will take while holding the trinket will be free
+
+Name: (G) Number Magnet
+Description: Devil rooms always have at least a black heart and 2 enemies inside
+
+Name: (G) Strange Key
+Description: Removes the time limit for Blue Womb. If Pandora's box is used, this trinket is consumed and spawns 6 random items
+
+Name: (G) Lil Clot
+Description: Spawns two of Alt Eve's babies which respawns in the next room if killed
+
+Name: (G) Temporary Tattoo
+Description: Challenge rooms drop 2 extra chests on clear, boss challenge rooms require 2 full hearts or less to enter
+
+Name: (G) Swallowed M80
+Description: 50% chance to trigger Kamikaze effect on hit
+
+Name: (G) RC Remote
+Description: Familiars are now controlled like Jacob&Esau
+
+Name: (G) Found soul
+Description: Spawns a controllable baby Lost at the start of each floor that acts like a co-op baby
+
+Name: (G) Expansion Pack
+Description: Using an active item will also trigger the effect of a random 1-2 charge item
+
+Name: (G) Beth's Essence
+Description: Enter an angel room = 5 wisps, donate to a beggar = 1 wisp
+
+Name: (G) The Twins
+Description: Chance of tripling one of your familiars each room, get Brother Bobby and/or Sister Maggy if no familiars
+
+Name: (G) Adoption Papers
+Description: Familiars now replace items in shops and are on sale
+
+Name: (G) Cricket Leg
+Description: 10% chance of spawning a random locust per enemy killed
+
+Name: (G) Apollyon's Best Friend
+Description: Spawns two of Alt Apollyon's red locusts
+
+Name: (G) Broken Glasses
+Description: 33% chance of extra blind item option on main path, reveals blind item on alt path
+
+Name: (G) Ice Cube
+Description: Chance of enemies being frozen when you enter the room
+
+Name: (G) Sigil of Baphomet
+Description: Grants a 2 seconds shield every time you kill an enemy
+
+
+=== BOSSES ===
+Total: 206
+
+???
+??? (Boss)
+??? (Bosses)
+??? (Floor)
+Achievements
+All Bosses (Bosses)
+All Mini-Bosses (Bosses)
+Alternate Bosses (Bosses)
+Ashpit
+Attributes
+Baby Plum
+Basement
+Big Horn
+Blastocyst
+Blighted Ovum
+Boss (Item Pool)
+Boss Room
+Bosses
+Brownie
+Bumbino
+Burning Basement
+C.H.A.D.
+Carrion Queen
+Catacombs
+Cathedral
+Caves
+Cellar
+Challenges
+Champion
+Chapter
+Chapter 1
+Chapter 1 (Bosses)
+Chapter 1.5
+Chapter 1.5 (Bosses)
+Chapter 2
+Chapter 2 (Bosses)
+Chapter 2.5
+Chapter 2.5 (Bosses)
+Chapter 3
+Chapter 3 (Bosses)
+Chapter 3.5
+Chapter 3.5 (Bosses)
+Chapter 4
+Chapter 4 (Bosses)
+Chapter 5
+Chapter 5 (Bosses)
+Chapter 6
+Chapter 6 (Bosses)
+Chapters
+Characters
+Charger
+Chest
+Chimera
+Chub
+Clog
+Clutch
+Collection Page (Repentance)
+Colostomia
+Completion Marks
+Concept art for a few bosses.
+Conquest
+Corpse
+Corpse (Bosses)
+Curses
+Daddy Long Legs
+Dangle
+Dank Depths
+Dark One
+Dark Room
+Death (Boss)
+Delirium
+Depths
+Devil and Angel Room (Mini-Bosses)
+Dingle
+Dogma
+Downpour
+Dross
+Effects
+Endings
+Enemy
+Famine
+Fandom logo
+Fistula
+Flooded Caves
+Gehenna
+Gemini
+Gish
+Great Gideon
+Greed Chapter 1 (Bosses)
+Greed Chapter 2 (Bosses)
+Greed Chapter 3 (Bosses)
+Greed Chapter 4 (Bosses)
+Greed Chapter 5 (Bosses)
+Greed Mode
+Greed mode only
+Gurdy
+Gurdy Jr.
+Gurglings
+Harbingers (Bosses)
+Headless Horseman
+Hearts
+Home (Bosses)
+Hornfel
+Hush
+Isaac (Boss)
+It Lives
+Item Pool
+Items
+Juicy Sack
+Larry Jr.
+Lil Blub
+Little Horn
+Loki
+Lokii
+Mama Gurdy
+Mask of Infamy
+Mausoleum
+Mega Fatty
+Mega Maw
+Mega Satan
+Min-Min
+Mines
+Mini-boss
+Mini-boss concept art.
+Modding
+Mom
+Mom&#39;s Heart
+Monsters
+Monstro
+Monstro II
+Mother
+Mr. Fred
+Music
+Necropolis
+Night Light
+Objects
+Peep
+Pestilence
+Pickups
+Pin
+Polycephalus
+Rag Man
+Rag Mega
+Reap Creep
+Rooms
+Rotgut
+Satan
+Scarred Womb
+Scolex
+Seeds
+Seven Deadly Sins
+Sheol
+Singe
+Sisters Vis
+Status effect
+Steven
+Stop Watch
+Switch to Light Theme
+Teratoma
+The Adversary
+The Beast
+The Bloat
+The Cage
+The Duke of Flies
+The Fallen
+The Forsaken
+The Frail
+The Gate
+The Haunt
+The Heretic
+The Hollow
+The Horny Boys
+The Husk
+The Lamb
+The Matriarch
+The Pile
+The Rainmaker
+The Scourge
+The Shell
+The Shop (Bosses)
+The Siren
+The Stain
+The Visage
+The Void
+The Void (Bosses)
+The Wretched
+Transformations
+Triachnid
+Trinkets
+Tuff Twins
+Turdlet
+Turdlings
+Ultra Death
+Ultra Famine
+Ultra Greed
+Ultra Greed (Bosses)
+Ultra Greedier
+Ultra Pestilence
+Ultra War
+Universal (Bosses)
+Utero
+Version History
+War
+Widow
+Womb
+Wormwood
+
+=== ENEMIES ===
+Total: 447
+
+Achievements
+Adult Leech
+Afterbirth †
+Angelic Baby
+Angelic Baby (small)
+Aprils Fool
+Army Fly
+Ashpit
+Attack Fly
+Attributes
+Baby
+Baby Begotten
+Baby Long Legs
+Ball and Chain
+Begotten
+Bestiary
+Bestiary Repentance
+Big Bony
+Big Corn
+Big Spider
+Bishop
+Black Bony
+Black Creep
+Black Globin
+Black Globin&#39;s Body
+Black Globin&#39;s Head
+Black Goat
+Black Knight
+Black Maw
+Blaster
+Blind Creep
+Blister
+Blister (Enemy)
+Bloat Eye
+Bloaty
+Blood Cultist
+Blood Puppy
+Bloodfly
+Bloodshot Eye
+Bloodshot Eye (Enemy)
+Blubber
+Blue Boil
+Blue Conjoined Fatty
+Blue Gaper
+Blurb
+Boil
+Bomb Grimace
+Bombgagger
+Bombs
+Bone Fly
+Bone Knight
+Bony
+Boom Fly
+Booster Pack
+Bosses
+Bouncer
+Brain
+Brainless Knight
+Brimstone
+Brimstone Death&#39;s Head
+Brimstone Head
+Broken Gaping Maw
+Brownie Corn
+Bubbles
+Bulb
+Burning Basement
+Butt Slicker
+Buttlicker
+Camillo Jr.
+Candler
+Carrion Princess
+Challenges
+Champions
+Chapter 1
+Chapter 2
+Chapters
+Characters
+Charger
+Chubber
+Clickety Clack
+Cloggy
+Clot
+Clotty
+Coal Boy
+Coal Spider
+Cod Worm
+Cohort
+Coins
+Collection Page (Repentance)
+Completion Marks
+Conjoined Fatty
+Conjoined Spitty
+Constant Stone Shooter
+Corn
+Corn Mine
+Crackle
+Crazy Long Legs
+Creep
+Crispy
+Cross Stone Shooter
+Cross Stoney
+Cultist
+Cursed Death&#39;s Head
+Cursed Globin
+Curses
+Cyclopia
+Cyst
+Damage Scaling
+Dank Charger
+Dank Death&#39;s Head
+Dank Depths
+Dank Globin
+Dank Squirt
+Danny
+Dark Ball
+Dart Fly
+Dead Isaac
+Dead Meat
+Death Scythe
+Death&#39;s Head
+Debug Console
+Deep Gaper
+Dinga
+Dip
+Dople
+Double Vis
+Dragon Fly
+Dragon Fly X
+Drip
+Drowned Boom Fly
+Drowned Charger
+Drowned Hive
+Dukie
+Dummy
+Dump
+Dump Head
+Dust
+Dusty Death&#39;s Head
+Effects
+Eggy
+Elleech
+Embryo
+Endings
+Eternal Fly
+Eternal Fly Bomb
+Evil Twin
+Evis
+Exorcist
+Eye
+Faceless
+Fanatic
+Fandom logo
+Fat Bat
+Fat Fly
+Fat Sack
+Fatty
+Festering Guts
+Fetal Demon
+Fire Places
+Fire Worm
+Fissure
+Fistuloid
+Flagellant
+Flaming Fatty
+Flaming Gaper
+Flaming Hopper
+Flesh Death&#39;s Head
+Flesh Maiden
+Flesh Mobile Host
+Floast
+Floating Knight
+Flooded Caves
+Fly
+Fly Bomb
+Fly Trap
+Fred
+Frowning Gaper
+Full Fly
+Gaper
+Gaping Maw
+Gas Dwarf
+Gasbag
+Gazing Globin
+Gemini
+Globin
+Goat
+Greed Gaper
+Grilled Clotty
+Grilled Gyro
+Grub
+Grudge
+Gurgle
+Gurgling
+Gurgling (Enemy)
+Gush
+Gusher
+Gut
+Guts
+Gutted Fatty
+Gutted Fatty Eye
+Gyro
+Half Sack
+Hanger
+Hard Host
+Hardy
+Henry
+Hive
+Holy Bony
+Holy Eye
+Holy Leech
+Holy Mulligan
+Homunculus
+Hopper
+Horf
+Host
+Hush
+Hush Fly
+I.Blob
+Imp
+Ink
+Ipecac
+Item Pool
+Items
+Kamikaze Leech
+Keeper
+Keeper (Enemy)
+Kineti
+Knight
+Larry Jr.
+Leaper
+Leech
+Leech (Enemy)
+Leper
+Leper Flesh
+Level 2 Charger
+Level 2 Fly
+Level 2 Gaper
+Level 2 Gusher
+Level 2 Horf
+Level 2 Spider
+Level 2 Willo
+Lil Portal
+Lil&#39; Haunt
+Loose Knight
+Lump
+Maggot
+Mama Fly
+Mama Guts
+Mask + Heart
+Mask II + 1/2 Heart
+Maw
+Maze Roamer
+Meatball
+Mega Clotty
+MemBrain
+Migraine
+Mines
+Ministro
+Mobile Host
+Mockulus
+Modding
+Mole
+Mom&#39;s Dead Hand
+Mom&#39;s Hand
+Monsters
+Monstro
+Morningstar
+Moter
+Mother
+Mr. Maw
+Mr. Mine
+Mr. Red Maw
+Mulliboom
+Mulligan
+Mullighoul
+Mulligoon
+Mushroom
+Mushroom (Enemy)
+Music
+My Shadow
+Necro
+Needle
+Nerve Ending
+Nerve Ending 2
+Nest
+Night Crawler
+Nulls
+Objects
+One Tooth
+Oob
+Pacer
+Pale Fatty
+Para-Bite
+Pasty
+Peep
+Peep Eye
+Peeping Fatty
+Peeping Fatty Eye
+Pickup
+Pickups
+Pitfall
+Planetoid
+Poison Mind
+Poky
+Polty
+Pon
+Poofer
+Poops
+Poot Mine
+Pooter
+Portal
+Prey
+Psy Tumor
+Psychic Horf
+Psychic Maw
+Purple Ball
+Pustule
+Quad Revenant
+Quake Grimace
+Quakey
+Rag Man&#39;s Ragling
+Rage Creep
+Ragling
+Red Boom Fly
+Red Creep
+Red Ghost
+Red Host
+Red Maw
+Redskull
+Revenant
+Ring Fly
+Rock Spider
+Rocks
+Rooms
+Rotten Gaper
+Rotty
+Round Worm
+Roundy
+Sack
+Scarred Double Vis
+Scarred Guts
+Scarred Para-Bite
+Scarred Womb
+Seeds
+Selfless Knight
+Shady
+Sick Boom Fly
+Singe
+Singe&#39;s Ball
+Siren Helper
+Siren Minion
+Skinny
+Slide
+Slog
+Small Baby Long Legs
+Small Crazy Long Legs
+Small Leech
+Small Maggot
+Snapper
+Soul Heart
+Soul Sucker
+Soy Creep
+Soy Milk
+Spider
+Spikeball
+Spit
+Spitty
+Splasher
+Splurt
+Squirt
+Stage HP
+Status Effects
+Sticky Leaper
+Stone Eye
+Stone Grimace
+Stoney
+Strider
+Sub Horf
+Sucker
+Suction Pitfall
+Super Pooter
+Swarm
+Swarm Spider
+Swarmer
+Swinger
+Switch to Light Theme
+Tainted Boom Fly
+Tainted Faceless
+Tainted Hopper
+Tainted Mole
+Tainted Mulligan
+Tainted Pooter
+Tainted Round Worm
+Tainted Soy Creep
+Tainted Spitty
+Tainted Sub Horf
+Tainted Sucker
+Tainted Tube Worm
+Tar Boy
+Teleport Pitfall
+The Bloat
+The Heretic
+The Horny Boys
+The Siren
+The Thing
+The Visage
+Ticking Spider
+Tinted Rock Spider
+Transformations
+Trinkets
+Triple Grimace
+Trite
+Tube Worm
+Tumor
+Twitchy
+Ulcer
+Ultra Death
+Ultra Death Head
+Ultra Death Scythe
+Ultra Famine
+Ultra Famine Fly
+Ultra Greed Coin
+Ultra Greed Coin (Bomb)
+Ultra Greed Coin (Heart)
+Ultra Greed Coin (Key)
+Ultra Greed Coin (Spinner)
+Ultra Pestilence
+Ultra Pestilence Fly
+Ultra Pestilence Fly Ball
+Unborn
+Utero
+Version History
+Vis
+Vis Fatty
+Vis Versa
+Visage Plasma
+Vomit Grimace
+Walking Boil
+Walking Gut
+Walking Sack
+Wall Creep
+Wall Hugger
+Whipper
+Willo
+Wizoob
+Wraith
+Wrinkly Baby

@@ -18,13 +18,32 @@ def get_items():
     items = load_items()
     
     if query:
-        filtered_items = [
-            item for item in items 
-            if query in item['name'].lower() or query in item['description'].lower()
-        ]
+        filtered_items = []
+        for item in items:
+            name = item.get('name', 'Unknown')
+            description = item.get('description', item.get('text', ''))
+            rarity = item.get('rarity', 'common')
+            
+            if query in name.lower() or query in description.lower():
+                # Return a normalized structure
+                filtered_items.append({
+                    'name': name,
+                    'description': description,
+                    'rarity': rarity,
+                    'id': item.get('id'),
+                    'image_class': item.get('image_class', '') 
+                })
         return jsonify(filtered_items)
     
-    return jsonify(items)
+    # Return normalized items even without query
+    normalized_items = [{
+        'name': i.get('name', 'Unknown'),
+        'description': i.get('description', i.get('text', '')),
+        'rarity': i.get('rarity', 'common'),
+        'id': i.get('id'),
+        'image_class': i.get('image_class', '')
+    } for i in items]
+    return jsonify(normalized_items)
 
 if __name__ == '__main__':
     app.run(debug=True)
