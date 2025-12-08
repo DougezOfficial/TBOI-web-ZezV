@@ -1,20 +1,184 @@
 document.addEventListener('DOMContentLoaded', () => {
     console.log("Welcome to the Basement.");
 
-    // Smooth scrolling
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener('click', function (e) {
-            e.preventDefault();
-            const target = document.querySelector(this.getAttribute('href'));
-            if (target) {
-                target.scrollIntoView({
-                    behavior: 'smooth'
-                });
+    // Section configurations
+    const sections = {
+        items: {
+            grid: document.getElementById('items-grid'),
+            search: document.getElementById('search-items'),
+            api: '/api/items',
+            render: renderItemCard
+        },
+        bosses: {
+            grid: document.getElementById('bosses-grid'),
+            search: document.getElementById('search-bosses'),
+            api: '/api/bosses',
+            render: renderSimpleCard
+        },
+        enemies: {
+            grid: document.getElementById('enemies-grid'),
+            search: document.getElementById('search-enemies'),
+            api: '/api/enemies',
+            render: renderSimpleCard
+        }
+    };
+
+    // 1. Load Initial Content
+    loadRandomItems();
+    loadFeaturedContent();
+    loadMiniBosses(); // Fetched from featured endpoint
+
+    // 2. Setup Search Listeners
+    setupSearch('items');
+    setupSearch('bosses');
+    setupSearch('enemies');
+
+    // --- Data Loading Functions ---
+
+    async function loadRandomItems() {
+        try {
+            const res = await fetch('/api/items?random=true&limit=10');
+            const data = await res.json();
+            renderGrid(sections.items.grid, data, renderItemCard);
+        } catch (e) {
+            console.error("Failed to load items", e);
+        }
+    }
+
+    async function loadFeaturedContent() {
+        try {
+            const res = await fetch('/api/featured');
+            const data = await res.json();
+
+            // Render Featured Bosses
+            const bossContainer = document.getElementById('featured-bosses');
+            bossContainer.innerHTML = '';
+            data.bosses.forEach(boss => {
+                const card = document.createElement('div');
+                card.className = 'boss-card';
+                card.innerHTML = `
+                    <h3>${boss.name}</h3>
+                    <p>${boss.description}</p>
+                    <span class="difficulty-badge">${boss.difficulty}</span>
+                `;
+                bossContainer.appendChild(card);
+            });
+
+            // Render Featured Enemies
+            const enemyContainer = document.getElementById('featured-enemies');
+            enemyContainer.innerHTML = '';
+            data.enemies.forEach(enemy => {
+                const card = document.createElement('div');
+                card.className = 'enemy-card';
+                card.innerHTML = `
+                    <h3>${enemy.name}</h3>
+                    <p>Rank: ${enemy.rank}</p>
+                `;
+                enemyContainer.appendChild(card);
+            });
+
+            // Render Mini Bosses (from featured endpoint)
+            const miniBossGrid = document.getElementById('mini-bosses-grid');
+            renderGrid(miniBossGrid, data.mini_bosses, (mb) => `
+                <div class="mini-boss-card">
+                    <h3>${mb.name}</h3>
+                    <p>${mb.title}</p>
+                </div>
+            `);
+
+        } catch (e) {
+            console.error("Failed to load featured content", e);
+        }
+    }
+
+    async function loadMiniBosses() {
+        // handled in loadFeaturedContent for efficiency since it's one endpoint
+    }
+
+    // --- Search Logic ---
+
+    function setupSearch(type) {
+        const config = sections[type];
+        if (!config.search) return;
+
+        let debounceTimer;
+        config.search.addEventListener('input', (e) => {
+            clearTimeout(debounceTimer);
+            const query = e.target.value.trim();
+
+            debounceTimer = setTimeout(async () => {
+                if (!query && type !== 'items') {
+                    // Hide grid if query empty for bosses/enemies (show featured only)
+                    config.grid.classList.add('hidden-grid');
+                    return;
+                }
+
+                // For items, empty query might mean "load random" again or "load all"?
+                // User asked: "The other items should be still searchable".
+                // Let's assume empty search for items -> show random 10 again.
+                if (type === 'items' && !query) {
+                    loadRandomItems();
+                    return;
+                }
+
+                config.grid.classList.remove('hidden-grid');
+                try {
+                    const res = await fetch(`${config.api}?q=${encodeURIComponent(query)}`);
+                    const data = await res.json();
+                    renderGrid(config.grid, data, config.render);
+                } catch (e) {
+                    console.error(`Search failed for ${type}`, e);
+                }
+            }, 300);
+        });
+    }
+
+    // --- Rendering Helpers ---
+
+    function renderGrid(container, items, renderFn) {
+        container.innerHTML = '';
+        if (items.length === 0) {
+            container.innerHTML = '<p>Nothing found...</p>';
+            return;
+        }
+
+        // Handle string render function vs DOM element
+        items.forEach(item => {
+            const content = renderFn(item);
+            if (typeof content === 'string') {
+                container.insertAdjacentHTML('beforeend', content);
+            } else {
+                container.appendChild(content);
             }
         });
-    });
+    }
 
-    // Intersection Observer
+    function renderItemCard(item) {
+        const card = document.createElement('div');
+        card.className = `item-card ${item.rarity ? item.rarity.toLowerCase() : ''}`;
+
+        // Placeholder icon
+        const initial = item.name.charAt(0);
+
+        card.innerHTML = `
+            <div class="item-icon-placeholder">${initial}</div>
+            <h3>${item.name}</h3>
+            <p>${item.description}</p>
+        `;
+        return card;
+    }
+
+    function renderSimpleCard(item) {
+        // Generic card for search results
+        return `
+            <div class="card">
+                <h3>${item.name}</h3>
+                <p>${item.type || 'Entity'}</p>
+            </div>
+        `;
+    }
+
+    // Intersection Observer for Animation
     const observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
@@ -26,61 +190,5 @@ document.addEventListener('DOMContentLoaded', () => {
     document.querySelectorAll('.content-section').forEach(section => {
         section.classList.add('fade-in-section');
         observer.observe(section);
-    });
-
-    // Item Search & Rendering
-    const searchInput = document.getElementById('item-search');
-    const itemsGrid = document.getElementById('items-grid');
-    let debounceTimer;
-
-    function renderItems(items) {
-        itemsGrid.innerHTML = '';
-        if (items.length === 0) {
-            itemsGrid.innerHTML = '<p>No items found in the basement...</p>';
-            return;
-        }
-
-        items.forEach(item => {
-            const card = document.createElement('div');
-            card.className = `item-card ${item.rarity.toLowerCase()}`;
-
-            // Create placeholders for now, can be replaced with real images
-            const imgPlaceholder = document.createElement('div');
-            imgPlaceholder.className = 'item-icon-placeholder item-img';
-            imgPlaceholder.textContent = item.name[0]; // First letter as icon
-
-            const title = document.createElement('h3');
-            title.textContent = item.name;
-
-            const desc = document.createElement('p');
-            desc.textContent = item.description;
-
-            card.appendChild(imgPlaceholder);
-            card.appendChild(title);
-            card.appendChild(desc);
-            itemsGrid.appendChild(card);
-        });
-    }
-
-    async function fetchItems(query = '') {
-        try {
-            const response = await fetch(`/api/items?q=${encodeURIComponent(query)}`);
-            const data = await response.json();
-            renderItems(data);
-        } catch (error) {
-            console.error('Error fetching items:', error);
-            itemsGrid.innerHTML = '<p>Error contacting the devil deal (API failed).</p>';
-        }
-    }
-
-    // Initial fetch
-    fetchItems();
-
-    // Search event
-    searchInput.addEventListener('input', (e) => {
-        clearTimeout(debounceTimer);
-        debounceTimer = setTimeout(() => {
-            fetchItems(e.target.value);
-        }, 300); // 300ms debounce
     });
 });
