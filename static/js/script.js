@@ -197,8 +197,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // --- Rendering Helpers ---
-
     function renderGrid(container, items, renderFn) {
         if (!container) return;
         container.innerHTML = '';
