@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', () => {
         modalBody.innerHTML = `
             <div class="modal-info">
                 <div class="modal-img">
-                     <span style="font-size: 3rem; font-family: 'Creepster', display">${initial}</span>
+                     ${item.image ? `<img src="${item.image}" alt="${item.name}" style="max-width: 100%; max-height: 200px;">` : `<span style="font-size: 3rem; font-family: 'Creepster', display">${initial}</span>`}
                 </div>
                 <h2>${item.name}</h2>
                 <p><em>${description}</em></p>
@@ -226,7 +226,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const initial = item.name.charAt(0);
 
         card.innerHTML = `
-            <div class="item-icon-placeholder">${initial}</div>
+            <div class="item-icon-placeholder">
+                ${item.image ? `<img src="${item.image}" alt="${item.name}" loading="lazy" style="width: 100%; height: 100%; object-fit: contain;">` : initial}
+            </div>
             <h3>${item.name}</h3>
             <p>${item.description}</p>
         `;

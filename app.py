@@ -27,7 +27,8 @@ def get_items():
         'description': i.get('description', i.get('text', '')),
         'rarity': i.get('rarity', 'common'),
         'id': i.get('id'),
-        'image_class': i.get('image_class', '')
+        'image_class': i.get('image_class', ''),
+        'image': i.get('image')
     } for i in items]
 
     if query:
