@@ -169,7 +169,8 @@
         "shown": true,
         "text": "Full heal",
         "introduced_in": "Rebirth",
-        "id": "15"
+        "id": "15",
+        "image": "/static/collectibles/lessthan3.png"
     },
     {
         "name": "Raw Liver",
@@ -564,7 +565,8 @@
         "text": "The Book of Belial from Judas Birthright",
         "space": true,
         "introduced_in": "Repentance",
-        "id": "59"
+        "id": "59",
+        "image": "/static/collectibles/the_book_of_belial.png"
     },
     {
         "name": "The Ladder",
