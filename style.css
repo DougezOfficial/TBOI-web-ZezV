@@ -1,0 +1,52 @@
+:root {
+    --bg: #12100e;
+    --paper: #d8c3a5;
+    --ink: #3e2a1f;
+    --blood: #8b0000;
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--paper);
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+nav {
+    position: sticky; top: 0; background: #251d1a; padding: 10px;
+    border-bottom: 3px solid var(--blood); z-index: 100;
+}
+
+nav ul { display: flex; justify-content: center; gap: 15px; list-style: none; padding: 0; flex-wrap: wrap; }
+
+nav a { color: var(--paper); text-decoration: none; font-weight: bold; font-size: 0.8rem; }
+
+header { text-align: center; padding: 50px 0; }
+
+h1 { color: var(--blood); font-size: 3rem; text-shadow: 2px 2px #000; }
+
+.container { max-width: 1200px; margin: auto; padding: 20px; }
+
+section {
+    background: var(--paper); color: var(--ink);
+    padding: 30px; margin-bottom: 50px; border: 4px solid var(--ink);
+    min-height: 200px;
+}
+
+.grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px;
+}
+
+.card {
+    border: 2px solid var(--ink); padding: 10px; cursor: pointer; transition: 0.2s;
+}
+
+.card:hover { transform: translateY(-5px); background: #c5b092; }
+
+/* Modal */
+.modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); z-index: 1000; }
+.modal-content { background: var(--paper); margin: 15% auto; padding: 30px; width: 50%; color: var(--ink); border: 4px solid var(--blood); }
+.close { float: right; font-size: 2rem; cursor: pointer; }
+
+@media (max-width: 768px) { h1 { font-size: 2rem; } .modal-content { width: 80%; } }

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TBOI: Repentance+ Wiki</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#items">Items</a></li>
+            <li><a href="#bosses">Bosses</a></li>
+            <li><a href="#bestiary">Bestiary</a></li>
+            <li><a href="#mods">Mods</a></li>
+            <li><a href="#secret-rooms">Secret Rooms</a></li>
+            <li><a href="#challenges">Challenges</a></li>
+        </ul>
+    </nav>
+
+    <header>
+        <h1>Repentance+ Wiki</h1>
+    </header>
+
+    <main class="container">
+        <section id="items" class="lazy" data-api="items">
+            <h2>Items</h2>
+            <div class="grid"></div>
+        </section>
+        <section id="bosses" class="lazy" data-api="bosses">
+            <h2>Bosses</h2>
+            <div class="grid"></div>
+        </section>
+        <section id="bestiary" class="lazy" data-api="bestiary">
+            <h2>Bestiary</h2>
+            <div class="grid"></div>
+        </section>
+        <section id="mods" class="lazy" data-api="mods">
+            <h2>Mods</h2>
+            <div class="grid"></div>
+        </section>
+        <section id="secret-rooms" class="lazy" data-api="secret-rooms">
+            <h2>Secret Rooms</h2>
+            <div class="grid"></div>
+        </section>
+        <section id="challenges" class="lazy" data-api="challenges">
+            <h2>Challenges</h2>
+            <div class="grid"></div>
+        </section>
+    </main>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="modalTitle"></h2>
+            <p id="modalText"></p>
+        </div>
+    </div>
+
+    <footer><p>Binding of Isaac: Repentance+ Fan Wiki &copy; 2026</p></footer>
+    <script src="script.js"></script>
+</body>
+</html>
