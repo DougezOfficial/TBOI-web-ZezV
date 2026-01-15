@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TBOI: Repentance+ Wiki</title>
+    <link href="https://fonts.cdnfonts.com/css/upheaval-pro" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -22,32 +24,49 @@
         <h1>Repentance+ Wiki</h1>
     </header>
 
+    <div class="global-search-container">
+        <h1>Repentance+ Wiki</h1>
+        <input type="text" id="globalSearch" placeholder="SEARCH EVERYTHING..." autocomplete="off">
+        <div id="globalResults" class="search-results-box"></div>
+    </div>
+
     <main class="container">
         <section id="items" class="lazy" data-api="items">
-            <h2>Items</h2>
+            <div class="section-header">
+                <h2>Items</h2>
+                <input type="text" class="local-search" placeholder="Search Items..." data-filter="items">
+            </div>
             <div class="grid"></div>
         </section>
+
         <section id="bosses" class="lazy" data-api="bosses">
-            <h2>Bosses</h2>
+            <div class="section-header">
+                <h2>Bosses</h2>
+                <input type="text" class="local-search" placeholder="Search Bosses..." data-filter="bosses">
+            </div>
             <div class="grid"></div>
         </section>
+
         <section id="bestiary" class="lazy" data-api="bestiary">
-            <h2>Bestiary</h2>
+            <div class="section-header">
+                <h2>Bestiary</h2>
+                <input type="text" class="local-search" placeholder="Search Enemies..." data-filter="bestiary">
+            </div>
             <div class="grid"></div>
         </section>
+
         <section id="mods" class="lazy" data-api="mods">
-            <h2>Mods</h2>
+            <div class="section-header"><h2>Mods</h2></div>
             <div class="grid"></div>
         </section>
-        <section id="secret-rooms" class="lazy" data-api="secret-rooms">
-            <h2>Secret Rooms</h2>
-            <div class="grid"></div>
-        </section>
+
         <section id="challenges" class="lazy" data-api="challenges">
-            <h2>Challenges</h2>
+            <div class="section-header"><h2>Challenges</h2></div>
             <div class="grid"></div>
         </section>
     </main>
+
+    
 
     <div id="modal" class="modal">
         <div class="modal-content">
@@ -57,7 +76,7 @@
         </div>
     </div>
 
-    <footer><p>Binding of Isaac: Repentance+ Fan Wiki &copy; 2026</p></footer>
+    <footer><p> Václav Žežulka &copy; 2026 </p></footer>
     <script src="script.js"></script>
 </body>
 </html>
