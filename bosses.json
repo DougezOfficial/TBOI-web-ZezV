@@ -1,826 +1,521 @@
 [
     {
         "name": "???",
-        "type": "Boss"
-    },
-    {
-        "name": "??? (Boss)",
-        "type": "Boss"
-    },
-    {
-        "name": "??? (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "??? (Floor)",
-        "type": "Boss"
-    },
-    {
-        "name": "Achievements",
-        "type": "Boss"
-    },
-    {
-        "name": "All Bosses (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "All Mini-Bosses (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Alternate Bosses (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Ashpit",
-        "type": "Boss"
-    },
-    {
-        "name": "Attributes",
-        "type": "Boss"
+        "hp": "2 000",
+        "chapter": "6",
+        "image": "/static/bosses/Boss_____ingame.webp"
     },
     {
         "name": "Baby Plum",
-        "type": "Boss"
-    },
-    {
-        "name": "Basement",
-        "type": "Boss"
+        "hp": "234", "chapter": "1",
+        "image": "/static/bosses/Boss_Baby_Plum_ingame.webp"
     },
     {
         "name": "Big Horn",
-        "type": "Boss"
+        "hp": "480", "chapter": "2",
+        "image": "/static/bosses/Boss_Big_Horn_Afterbirth+_ingame.webp"
     },
     {
         "name": "Blastocyst",
-        "type": "Boss"
+        "hp": "300", "chapter": "4",
+        "image": "/static/bosses/Boss_Blastocyst_ingame.webp"
     },
     {
         "name": "Blighted Ovum",
-        "type": "Boss"
-    },
-    {
-        "name": "Boss (Item Pool)",
-        "type": "Boss"
-    },
-    {
-        "name": "Boss Room",
-        "type": "Boss"
-    },
-    {
-        "name": "Bosses",
-        "type": "Boss"
+        "hp": "140", "chapter": "1",
+        "image": "/static/bosses/Boss_Blighted_Ovum_ingame.webp"
     },
     {
         "name": "Brownie",
-        "type": "Boss"
+        "hp": "400", "chapter": "3",
+        "image": "/static/bosses/Boss_Brownie_ingame.webp"
     },
     {
         "name": "Bumbino",
-        "type": "Boss"
-    },
-    {
-        "name": "Burning Basement",
-        "type": "Boss"
+        "hp": "385", "chapter": "2",
+        "image": "/static/bosses/Boss_Bumbino_ingame.webp"
     },
     {
         "name": "C.H.A.D.",
-        "type": "Boss"
+        "hp": "350", "chapter": "2",
+        "image": "/static/bosses/Boss_C.H.A.D._ingame.webp"
     },
     {
         "name": "Carrion Queen",
-        "type": "Boss"
-    },
-    {
-        "name": "Catacombs",
-        "type": "Boss"
-    },
-    {
-        "name": "Cathedral",
-        "type": "Boss"
-    },
-    {
-        "name": "Caves",
-        "type": "Boss"
-    },
-    {
-        "name": "Cellar",
-        "type": "Boss"
-    },
-    {
-        "name": "Challenges",
-        "type": "Boss"
-    },
-    {
-        "name": "Champion",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 1",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 1 (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 1.5",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 1.5 (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 2",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 2 (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 2.5",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 2.5 (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 3",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 3 (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 3.5",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 3.5 (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 4",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 4 (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 5",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 5 (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 6",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapter 6 (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Chapters",
-        "type": "Boss"
-    },
-    {
-        "name": "Characters",
-        "type": "Boss"
-    },
-    {
-        "name": "Charger",
-        "type": "Boss"
-    },
-    {
-        "name": "Chest",
-        "type": "Boss"
+        "hp": "350", "chapter": "2",
+        "image": "/static/bosses/Boss_Carrion_Queen_ingame.webp"
     },
     {
         "name": "Chimera",
-        "type": "Boss"
+        "hp": "1 050", "chapter": "Corpse",
+        "image": "/static/bosses/Boss_Chimera_ingame.webp"
     },
     {
         "name": "Chub",
-        "type": "Boss"
+        "hp": "350", "chapter": "2",
+        "image": "/static/bosses/Boss_Chub_ingame.webp"
     },
     {
         "name": "Clog",
-        "type": "Boss"
+        "hp": "420", "chapter": "1.5",
+        "image": "/static/bosses/Boss_Clog_ingame.webp"
     },
     {
         "name": "Clutch",
-        "type": "Boss"
-    },
-    {
-        "name": "Collection Page (Repentance)",
-        "type": "Boss"
+        "hp": "500", "chapter": "2.5",
+        "image": "/static/bosses/Boss_Clutch_ingame.webp"
+
     },
     {
         "name": "Colostomia",
-        "type": "Boss"
-    },
-    {
-        "name": "Completion Marks",
-        "type": "Boss"
-    },
-    {
-        "name": "Concept art for a few bosses.",
-        "type": "Boss"
+        "hp": "380", "chapter": "1.5",
+        "image": "/static/bosses/Boss_Colostomia_ingame.webp"
+
     },
     {
         "name": "Conquest",
-        "type": "Boss"
-    },
-    {
-        "name": "Corpse",
-        "type": "Boss"
-    },
-    {
-        "name": "Corpse (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Curses",
-        "type": "Boss"
+        "hp": "500", "chapter": "4",
+        "image": "/static/bosses/Boss_Conquest_ingame.webp"
     },
     {
         "name": "Daddy Long Legs",
-        "type": "Boss"
+        "hp": "500", "chapter": "4",
+        "image": "/static/bosses/Boss_Daddy_Long_Legs_ingame.webp"
     },
     {
         "name": "Dangle",
-        "type": "Boss"
-    },
-    {
-        "name": "Dank Depths",
-        "type": "Boss"
+        "hp": "375", "chapter": "1",
+        "image": "/static/bosses/Boss_Dangle_ingame.webp"
     },
     {
         "name": "Dark One",
-        "type": "Boss"
+        "hp": "400", "chapter": "2",
+        "image": "/static/bosses/Boss_Dark_One_ingame.webp"
     },
     {
-        "name": "Dark Room",
-        "type": "Boss"
-    },
-    {
-        "name": "Death (Boss)",
-        "type": "Boss"
+        "name": "Death",
+        "hp": "450", "chapter": "4",
+        "image": "/static/bosses/Boss_Death_ingame.webp"
     },
     {
         "name": "Delirium",
-        "type": "Boss"
-    },
-    {
-        "name": "Depths",
-        "type": "Boss"
-    },
-    {
-        "name": "Devil and Angel Room (Mini-Bosses)",
-        "type": "Boss"
+        "hp": "10 000", "chapter": "The Void",
+        "image": "/static/bosses/Boss_Delirium_ingame.webp"
     },
     {
         "name": "Dingle",
-        "type": "Boss"
+        "hp": "300", "chapter": "1",
+        "image": "/static/bosses/Boss_Dingle_ingame.webp"
     },
     {
         "name": "Dogma",
-        "type": "Boss"
-    },
-    {
-        "name": "Downpour",
-        "type": "Boss"
-    },
-    {
-        "name": "Dross",
-        "type": "Boss"
-    },
-    {
-        "name": "Effects",
-        "type": "Boss"
-    },
-    {
-        "name": "Endings",
-        "type": "Boss"
-    },
-    {
-        "name": "Enemy",
-        "type": "Boss"
+        "hp": "2 400", "chapter": "Home",
+        "image": "/static/bosses/Boss_Dogma_ingame.webp"
     },
     {
         "name": "Famine",
-        "type": "Boss"
-    },
-    {
-        "name": "Fandom logo",
-        "type": "Boss"
+        "hp": "240", "chapter": "1",
+        "image": "/static/bosses/Boss_Famine_ingame.webp"
     },
     {
         "name": "Fistula",
-        "type": "Boss"
-    },
-    {
-        "name": "Flooded Caves",
-        "type": "Boss"
-    },
-    {
-        "name": "Gehenna",
-        "type": "Boss"
+        "hp": "60", "chapter": "2",
+        "image": "/static/bosses/Boss_Fistula_ingame.webp"
     },
     {
         "name": "Gemini",
-        "type": "Boss"
+        "hp": "280", "chapter": "1",
+        "image": "/static/bosses/Boss_Gemini_ingame.webp"
     },
     {
         "name": "Gish",
-        "type": "Boss"
+        "hp": "632.5", "chapter": "3",
+        "image": "/static/bosses/Boss_Gish_ingame.webp"
     },
     {
         "name": "Great Gideon",
-        "type": "Boss"
-    },
-    {
-        "name": "Greed Chapter 1 (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Greed Chapter 2 (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Greed Chapter 3 (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Greed Chapter 4 (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Greed Chapter 5 (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Greed Mode",
-        "type": "Boss"
-    },
-    {
-        "name": "Greed mode only",
-        "type": "Boss"
+        "hp": "N/A", "chapter": "2.5",
+        "image": "/static/bosses/Boss_Great_Gideon_ingame.webp"
     },
     {
         "name": "Gurdy",
-        "type": "Boss"
+        "hp": "595", "chapter": "2",
+        "image": "/static/bosses/Boss_Gurdy_ingame.webp"
     },
     {
         "name": "Gurdy Jr.",
-        "type": "Boss"
+        "hp": "250", "chapter": "2",
+        "image": "/static/bosses/Boss_Gurdy_Jr._ingame.webp"
     },
     {
         "name": "Gurglings",
-        "type": "Boss"
-    },
-    {
-        "name": "Harbingers (Bosses)",
-        "type": "Boss"
+        "hp": "60", "chapter": "1",
+        "image": "/static/bosses/Boss_Gurglings_Black_ingame.webp"
     },
     {
         "name": "Headless Horseman",
-        "type": "Boss"
-    },
-    {
-        "name": "Hearts",
-        "type": "Boss"
-    },
-    {
-        "name": "Home (Bosses)",
-        "type": "Boss"
+        "hp": "160", "chapter": "2 & 3",
+        "image": "/static/bosses/Boss_Headless_Horseman_ingame.webp"
     },
     {
         "name": "Hornfel",
-        "type": "Boss"
+        "hp": "240", "chapter": "2.5",
+        "image": "/static/bosses/Boss_Hornfel_ingame.webp"
     },
     {
         "name": "Hush",
-        "type": "Boss"
+        "hp": "6 666", "chapter": "???",
+        "image": "/static/bosses/Boss_Hush_ingame.webp"
     },
     {
-        "name": "Isaac (Boss)",
-        "type": "Boss"
+        "name": "Isaac",
+        "hp": "2 000", "chapter": "5",
+        "image": "/static/bosses/Boss_Isaac_ingame.webp"
     },
     {
         "name": "It Lives",
-        "type": "Boss"
-    },
-    {
-        "name": "Item Pool",
-        "type": "Boss"
-    },
-    {
-        "name": "Items",
-        "type": "Boss"
-    },
-    {
-        "name": "Juicy Sack",
-        "type": "Boss"
+        "hp": "950", "chapter": "4",
+        "image": "/static/bosses/Boss_It_Lives_ingame.webp"
     },
     {
         "name": "Larry Jr.",
-        "type": "Boss"
+        "hp": "22", "chapter": "1",
+        "image": "/static/bosses/Boss_Larry_Jr._ingame.webp"
     },
     {
         "name": "Lil Blub",
-        "type": "Boss"
+        "hp": "200", "chapter": "1.5",
+        "image": "/static/bosses/Boss_Lil_Blub_(Downpour)_ingame.webp"
     },
     {
         "name": "Little Horn",
-        "type": "Boss"
+        "hp": "200", "chapter": "1",
+        "image": "/static/bosses/Boss_Little_Horn_ingame.webp"
     },
     {
         "name": "Loki",
-        "type": "Boss"
+        "hp": "350", "chapter": "3",
+        "image": "/static/bosses/Boss_Loki_ingame.webp"
+
     },
     {
         "name": "Lokii",
-        "type": "Boss"
+        "hp": "700", "chapter": "4",
+        "image": "/static/bosses/Boss_Lokii_ingame.webp"
     },
     {
         "name": "Mama Gurdy",
-        "type": "Boss"
+        "hp": "750", "chapter": "4",
+        "image": "/static/bosses/Boss_Mama_Gurdy_ingame.webp"
     },
     {
         "name": "Mask of Infamy",
-        "type": "Boss"
-    },
-    {
-        "name": "Mausoleum",
-        "type": "Boss"
+        "hp": "350", "chapter": "3",
+        "image": "/static/bosses/Boss_Mask_of_Infamy_ingame.webp"
     },
     {
         "name": "Mega Fatty",
-        "type": "Boss"
+        "hp": "600", "chapter": "2",
+        "image": "/static/bosses/Boss_Mega_Fatty_ingame.webp"
     },
     {
         "name": "Mega Maw",
-        "type": "Boss"
+        "hp": "350", "chapter": "2",
+        "image": "/static/bosses/Boss_Mega_Maw_ingame.webp"
     },
     {
         "name": "Mega Satan",
-        "type": "Boss"
+        "hp": "5 000", "chapter": "6",
+        "image": "/static/bosses/Boss_Mega_Satan_ingame.webp"
     },
     {
         "name": "Min-Min",
-        "type": "Boss"
-    },
-    {
-        "name": "Mines",
-        "type": "Boss"
-    },
-    {
-        "name": "Mini-boss",
-        "type": "Boss"
-    },
-    {
-        "name": "Mini-boss concept art.",
-        "type": "Boss"
-    },
-    {
-        "name": "Modding",
-        "type": "Boss"
+        "hp": "280", "chapter": "1.5",
+        "image": "/static/bosses/Boss_Min-Min_ingame.webp"
     },
     {
         "name": "Mom",
-        "type": "Boss"
+        "hp": "645", "chapter": "3.5",
+        "image": "/static/bosses/Boss_Mom_Alternate_ingame.webp"
     },
     {
-        "name": "Mom&#39;s Heart",
-        "type": "Boss"
-    },
-    {
-        "name": "Monsters",
-        "type": "Boss"
+        "name": "Mom's Heart",
+        "hp": "950", "chapter": "3.5",
+        "image": "/static/bosses/Boss_Mom's_Heart_ingame.webp"
     },
     {
         "name": "Monstro",
-        "type": "Boss"
+        "hp": "250", "chapter": "1",
+        "image": "/static/bosses/Boss_Monstro_ingame.webp"
     },
     {
         "name": "Monstro II",
-        "type": "Boss"
+        "hp": "632.5", "chapter": "3",
+        "image": "/static/bosses/Boss_Monstro_ingame.webp"
     },
     {
         "name": "Mother",
-        "type": "Boss"
+        "hp": "4 222", "chapter": "Corpse",
+        "image": "/static/bosses/Boss_Mother_ingame.webp"
     },
     {
         "name": "Mr. Fred",
-        "type": "Boss"
-    },
-    {
-        "name": "Music",
-        "type": "Boss"
-    },
-    {
-        "name": "Necropolis",
-        "type": "Boss"
-    },
-    {
-        "name": "Night Light",
-        "type": "Boss"
-    },
-    {
-        "name": "Objects",
-        "type": "Boss"
+        "hp": "500", "chapter": "4",
+        "image": "/static/bosses/Boss_Mr._Fred_ingame.webp"
     },
     {
         "name": "Peep",
-        "type": "Boss"
+        "hp": "450", "chapter": "2",
+        "image": "/static/bosses/Boss_Peep_ingame.webp"
     },
     {
         "name": "Pestilence",
-        "type": "Boss"
-    },
-    {
-        "name": "Pickups",
-        "type": "Boss"
+        "hp": "280", "chapter": "2",
+        "image": "/static/bosses/Boss_Pestilence_ingame.webp"
     },
     {
         "name": "Pin",
-        "type": "Boss"
+        "hp": "100", "chapter": "1",
+        "image": "/static/bosses/Boss_Pin_ingame.webp"
     },
     {
         "name": "Polycephalus",
-        "type": "Boss"
+        "hp": "200", "chapter": "2",
+        "image": "/static/bosses/Boss_Polycephalus_ingame.webp"
     },
     {
         "name": "Rag Man",
-        "type": "Boss"
+        "hp": "200", "chapter": "1",
+        "image": "/static/bosses/Boss_Rag_Man_ingame.webp"
     },
     {
         "name": "Rag Mega",
-        "type": "Boss"
+        "hp": "120", "chapter": "2",
+        "image": "/static/bosses/Boss_Rag_Mega_ingame.webp"
     },
     {
         "name": "Reap Creep",
-        "type": "Boss"
-    },
-    {
-        "name": "Rooms",
-        "type": "Boss"
+        "hp": "690", "chapter": "2.5",
+        "image": "/static/bosses/Boss_Reap_Creep_ingame.webp"
     },
     {
         "name": "Rotgut",
-        "type": "Boss"
+        "hp": "1 800", "chapter": "Corpse",
+        "image": "/static/bosses/Boss_Rotgut_ingame.webp"
     },
     {
         "name": "Satan",
-        "type": "Boss"
-    },
-    {
-        "name": "Scarred Womb",
-        "type": "Boss"
+        "hp": "1 200", "chapter": "5",
+        "image": "/static/bosses/Boss_Satan_ingame.webp"
     },
     {
         "name": "Scolex",
-        "type": "Boss"
-    },
-    {
-        "name": "Seeds",
-        "type": "Boss"
-    },
-    {
-        "name": "Seven Deadly Sins",
-        "type": "Boss"
-    },
-    {
-        "name": "Sheol",
-        "type": "Boss"
+        "hp": "300", "chapter": "4",
+        "image": "/static/bosses/Boss_Scolex_ingame.webp"
     },
     {
         "name": "Singe",
-        "type": "Boss"
+        "hp": "444", "chapter": "2.5",
+        "image": "/static/bosses/Boss_Singe_ingame.webp"
     },
     {
         "name": "Sisters Vis",
-        "type": "Boss"
-    },
-    {
-        "name": "Status effect",
-        "type": "Boss"
+        "hp": "700", "chapter": "3",
+        "image": "/static/bosses/Boss_Sisters_Vis_ingame.webp"
     },
     {
         "name": "Steven",
-        "type": "Boss"
-    },
-    {
-        "name": "Stop Watch",
-        "type": "Boss"
-    },
-    {
-        "name": "Switch to Light Theme",
-        "type": "Boss"
+        "hp": "280", "chapter": "1",
+        "image": "/static/bosses/Boss_Steven_Big_ingame.webp"
     },
     {
         "name": "Teratoma",
-        "type": "Boss"
+        "hp": "60", "chapter": "4",
+        "image": "/static/bosses/Boss_Teratoma_ingame.webp"
     },
     {
         "name": "The Adversary",
-        "type": "Boss"
+        "hp": "520", "chapter": "3",
+        "image": "/static/bosses/Boss_The_Adversary_ingame.webp"
     },
     {
         "name": "The Beast",
-        "type": "Boss"
+        "hp": "10 000", "chapter": "Home",
+        "image": "/static/bosses/Boss_The_Beast_ingame.webp"
     },
     {
         "name": "The Bloat",
-        "type": "Boss"
+        "hp": "450", "chapter": "4",
+        "image": "/static/bosses/Boss_The_Bloat_ingame.webp"
     },
     {
         "name": "The Cage",
-        "type": "Boss"
+        "hp": "800", "chapter": "3",
+        "image": "/static/bosses/Boss_The_Cage_ingame.webp"
     },
     {
         "name": "The Duke of Flies",
-        "type": "Boss"
+        "hp": "110", "chapter": "1",
+        "image": "/static/bosses/Boss_The_Duke_of_Flies_ingame.webp"
     },
     {
         "name": "The Fallen",
-        "type": "Boss"
+        "hp": "60", "chapter": "1",
+        "image": "/static/bosses/Boss_The_Fallen_ingame.webp"
     },
     {
         "name": "The Forsaken",
-        "type": "Boss"
+        "hp": "220", "chapter": "2",
+        "image": "/static/bosses/Boss_TheForsaken_ingame.webp"
     },
     {
         "name": "The Frail",
-        "type": "Boss"
+        "hp": "300", "chapter": "2",
+        "image": "/static/bosses/Boss_The_Frail_ingame.webp"
     },
     {
         "name": "The Gate",
-        "type": "Boss"
+        "hp": "500", "chapter": "3",
+        "image": "/static/bosses/Boss_The_Gate_ingame.webp"
     },
     {
         "name": "The Haunt",
-        "type": "Boss"
+        "hp": "200", "chapter": "1",
+        "image": "/static/bosses/Boss_The_Haunt_ingame.webp"
     },
     {
         "name": "The Heretic",
-        "type": "Boss"
+        "hp": "789", "chapter": "3.5",
+        "image": "/static/bosses/Boss_The_Heretic_ingame.webp"
     },
     {
         "name": "The Hollow",
-        "type": "Boss"
+        "hp": "26", "chapter": "2",
+        "image": "/static/bosses/Boss_The_Hollow_ingame.webp"
     },
     {
         "name": "The Horny Boys",
-        "type": "Boss"
+        "hp": "707", "chapter": "3.5",
+        "image": "/static/bosses/Boss_The_Horny_Boys_ingame.webp"
     },
     {
         "name": "The Husk",
-        "type": "Boss"
+        "hp": "150", "chapter": "2",
+        "image": "/static/bosses/Boss_The_Husk_red_ingame.webp"
     },
     {
         "name": "The Lamb",
-        "type": "Boss"
+        "hp": "2 600", "chapter": "6",
+        "image": "/static/bosses/Boss_The_Lamb_ingame.webp"
     },
     {
         "name": "The Matriarch",
-        "type": "Boss"
+        "hp": "700", "chapter": "4",
+        "image": "/static/bosses/Boss_The_Matriarch_ingame.webp"
     },
     {
         "name": "The Pile",
-        "type": "Boss"
+        "hp": "580", "chapter": "3",
+        "image": "/static/bosses/Boss_The_Pile_ingame_old.webp"
     },
     {
         "name": "The Rainmaker",
-        "type": "Boss"
+        "hp": "240", "chapter": "1.5",
+        "image": "/static/bosses/Boss_The_Rainmaker_ingame.webp"
     },
     {
         "name": "The Scourge",
-        "type": "Boss"
+        "hp": "950", "chapter": "Corpse",
+        "image": "/static/bosses/Boss_The_Scourge_ingame.webp"
     },
     {
         "name": "The Shell",
-        "type": "Boss"
-    },
-    {
-        "name": "The Shop (Bosses)",
-        "type": "Boss"
+        "hp": "35", "chapter": "2.5",
+        "image": "/static/bosses/Boss_The_Shell_Ingame_ingame.webp"
     },
     {
         "name": "The Siren",
-        "type": "Boss"
+        "hp": "666", "chapter": "3.5",
+        "image": "/static/bosses/Boss_The_Siren_ingame.webp"
     },
     {
         "name": "The Stain",
-        "type": "Boss"
+        "hp": "400", "chapter": "2",
+        "image": "/static/bosses/Boss_The_Stain_ingame.webp"
     },
     {
         "name": "The Visage",
-        "type": "Boss"
-    },
-    {
-        "name": "The Void",
-        "type": "Boss"
-    },
-    {
-        "name": "The Void (Bosses)",
-        "type": "Boss"
+        "hp": "620", "chapter": "3.5",
+        "image": "/static/bosses/Boss_The_Visage_2Phase_ingame.webp"
     },
     {
         "name": "The Wretched",
-        "type": "Boss"
-    },
-    {
-        "name": "Transformations",
-        "type": "Boss"
+        "hp": "215", "chapter": "2",
+        "image": "/static/bosses/Boss_The_Wretched_ingame.webp"
     },
     {
         "name": "Triachnid",
-        "type": "Boss"
-    },
-    {
-        "name": "Trinkets",
-        "type": "Boss"
+        "hp": "500", "chapter": "4",
+        "image": "/static/bosses/Boss_Triachnid_ingame.webp"
     },
     {
         "name": "Tuff Twins",
-        "type": "Boss"
+        "hp": "35", "chapter": "2.5",
+        "image": "/static/bosses/Boss_Tuff_Twins_ingame.webp"
     },
     {
         "name": "Turdlet",
-        "type": "Boss"
+        "hp": "190", "chapter": "1.5",
+        "image": "/static/bosses/Boss_Turdles_ingame.webp"
     },
     {
         "name": "Turdlings",
-        "type": "Boss"
+        "hp": "50", "chapter": "1",
+        "image": "/static/bosses/Boss_Turdlings_ingame.webp"
     },
     {
         "name": "Ultra Death",
-        "type": "Boss"
+        "hp": "2 000", "chapter": "Home",
+        "image": "/static/bosses/Boss_Ultra_Death_ingame.webp"
     },
     {
         "name": "Ultra Famine",
-        "type": "Boss"
+        "hp": "2 000", "chapter": "Home",
+        "image": "/static/bosses/Boss_Ultra_Famine_ingame.webp"
     },
     {
         "name": "Ultra Greed",
-        "type": "Boss"
-    },
-    {
-        "name": "Ultra Greed (Bosses)",
-        "type": "Boss"
+        "hp": "3 500", "chapter": "Greed Mode",
+        "image": "/static/bosses/Boss_Ultra_Greed_ingame.webp"
     },
     {
         "name": "Ultra Greedier",
-        "type": "Boss"
+        "hp": "2 500", "chapter": "Greed Mode",
+        "image": "/static/bosses/Boss_Ultra_Greedier_ingame.webp"
     },
     {
         "name": "Ultra Pestilence",
-        "type": "Boss"
+        "hp": "1 800", "chapter": "Home",
+        "image": "/static/bosses/Boss_Ultra_Pestilence_ingame.webp"
     },
     {
         "name": "Ultra War",
-        "type": "Boss"
-    },
-    {
-        "name": "Universal (Bosses)",
-        "type": "Boss"
-    },
-    {
-        "name": "Utero",
-        "type": "Boss"
-    },
-    {
-        "name": "Version History",
-        "type": "Boss"
+        "hp": "2 000", "chapter": "Home",
+        "image": "/static/bosses/Boss_Ultra_War_ingame.webp"
     },
     {
         "name": "War",
-        "type": "Boss"
+        "hp": "500", "chapter": "3",
+        "image": "/static/bosses/Boss_War_ingame.webp"
     },
     {
         "name": "Widow",
-        "type": "Boss"
-    },
-    {
-        "name": "Womb",
-        "type": "Boss"
+        "hp": "130", "chapter": "1",
+        "image": "/static/bosses/Boss_Widow_ingame.webp"
     },
     {
         "name": "Wormwood",
-        "type": "Boss"
+        "hp": "200", "chapter": "1.5",
+        "image": "/static/bosses/Boss_Wormwood_(Dross)_ingame.webp"
     }
 ]

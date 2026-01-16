@@ -1,22 +1,10 @@
 [
     {
-        "name": "Achievements",
-        "type": "Enemy"
-    },
-    {
         "name": "Adult Leech",
         "type": "Enemy"
     },
     {
-        "name": "Afterbirth \u2020",
-        "type": "Enemy"
-    },
-    {
         "name": "Angelic Baby",
-        "type": "Enemy"
-    },
-    {
-        "name": "Angelic Baby (small)",
         "type": "Enemy"
     },
     {
@@ -33,10 +21,6 @@
     },
     {
         "name": "Attack Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Attributes",
         "type": "Enemy"
     },
     {
@@ -57,14 +41,6 @@
     },
     {
         "name": "Begotten",
-        "type": "Enemy"
-    },
-    {
-        "name": "Bestiary",
-        "type": "Enemy"
-    },
-    {
-        "name": "Bestiary Repentance",
         "type": "Enemy"
     },
     {
@@ -96,11 +72,11 @@
         "type": "Enemy"
     },
     {
-        "name": "Black Globin&#39;s Body",
+        "name": "Black Globin's Body",
         "type": "Enemy"
     },
     {
-        "name": "Black Globin&#39;s Head",
+        "name": "Black Globin's Head",
         "type": "Enemy"
     },
     {
@@ -128,10 +104,6 @@
         "type": "Enemy"
     },
     {
-        "name": "Blister (Enemy)",
-        "type": "Enemy"
-    },
-    {
         "name": "Bloat Eye",
         "type": "Enemy"
     },
@@ -153,10 +125,6 @@
     },
     {
         "name": "Bloodshot Eye",
-        "type": "Enemy"
-    },
-    {
-        "name": "Bloodshot Eye (Enemy)",
         "type": "Enemy"
     },
     {
@@ -216,10 +184,6 @@
         "type": "Enemy"
     },
     {
-        "name": "Bosses",
-        "type": "Enemy"
-    },
-    {
         "name": "Bouncer",
         "type": "Enemy"
     },
@@ -236,7 +200,7 @@
         "type": "Enemy"
     },
     {
-        "name": "Brimstone Death&#39;s Head",
+        "name": "Brimstone Death's Head",
         "type": "Enemy"
     },
     {
@@ -260,10 +224,6 @@
         "type": "Enemy"
     },
     {
-        "name": "Burning Basement",
-        "type": "Enemy"
-    },
-    {
         "name": "Butt Slicker",
         "type": "Enemy"
     },
@@ -281,30 +241,6 @@
     },
     {
         "name": "Carrion Princess",
-        "type": "Enemy"
-    },
-    {
-        "name": "Challenges",
-        "type": "Enemy"
-    },
-    {
-        "name": "Champions",
-        "type": "Enemy"
-    },
-    {
-        "name": "Chapter 1",
-        "type": "Enemy"
-    },
-    {
-        "name": "Chapter 2",
-        "type": "Enemy"
-    },
-    {
-        "name": "Chapters",
-        "type": "Enemy"
-    },
-    {
-        "name": "Characters",
         "type": "Enemy"
     },
     {
@@ -345,18 +281,6 @@
     },
     {
         "name": "Cohort",
-        "type": "Enemy"
-    },
-    {
-        "name": "Coins",
-        "type": "Enemy"
-    },
-    {
-        "name": "Collection Page (Repentance)",
-        "type": "Enemy"
-    },
-    {
-        "name": "Completion Marks",
         "type": "Enemy"
     },
     {
@@ -408,15 +332,11 @@
         "type": "Enemy"
     },
     {
-        "name": "Cursed Death&#39;s Head",
+        "name": "Cursed Death's Head",
         "type": "Enemy"
     },
     {
         "name": "Cursed Globin",
-        "type": "Enemy"
-    },
-    {
-        "name": "Curses",
         "type": "Enemy"
     },
     {
@@ -428,19 +348,11 @@
         "type": "Enemy"
     },
     {
-        "name": "Damage Scaling",
-        "type": "Enemy"
-    },
-    {
         "name": "Dank Charger",
         "type": "Enemy"
     },
     {
-        "name": "Dank Death&#39;s Head",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dank Depths",
+        "name": "Dank Death's Head",
         "type": "Enemy"
     },
     {
@@ -476,11 +388,7 @@
         "type": "Enemy"
     },
     {
-        "name": "Death&#39;s Head",
-        "type": "Enemy"
-    },
-    {
-        "name": "Debug Console",
+        "name": "Death's Head",
         "type": "Enemy"
     },
     {
@@ -548,11 +456,7 @@
         "type": "Enemy"
     },
     {
-        "name": "Dusty Death&#39;s Head",
-        "type": "Enemy"
-    },
-    {
-        "name": "Effects",
+        "name": "Dusty Death's Head",
         "type": "Enemy"
     },
     {
@@ -565,10 +469,6 @@
     },
     {
         "name": "Embryo",
-        "type": "Enemy"
-    },
-    {
-        "name": "Endings",
         "type": "Enemy"
     },
     {
@@ -601,10 +501,6 @@
     },
     {
         "name": "Fanatic",
-        "type": "Enemy"
-    },
-    {
-        "name": "Fandom logo",
         "type": "Enemy"
     },
     {
@@ -664,7 +560,7 @@
         "type": "Enemy"
     },
     {
-        "name": "Flesh Death&#39;s Head",
+        "name": "Flesh Death's Head",
         "type": "Enemy"
     },
     {
@@ -681,10 +577,6 @@
     },
     {
         "name": "Floating Knight",
-        "type": "Enemy"
-    },
-    {
-        "name": "Flooded Caves",
         "type": "Enemy"
     },
     {
@@ -769,10 +661,6 @@
     },
     {
         "name": "Gurgling",
-        "type": "Enemy"
-    },
-    {
-        "name": "Gurgling (Enemy)",
         "type": "Enemy"
     },
     {
@@ -876,31 +764,11 @@
         "type": "Enemy"
     },
     {
-        "name": "Ink",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ipecac",
-        "type": "Enemy"
-    },
-    {
-        "name": "Item Pool",
-        "type": "Enemy"
-    },
-    {
-        "name": "Items",
-        "type": "Enemy"
-    },
-    {
         "name": "Kamikaze Leech",
         "type": "Enemy"
     },
     {
         "name": "Keeper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Keeper (Enemy)",
         "type": "Enemy"
     },
     {
@@ -924,10 +792,6 @@
         "type": "Enemy"
     },
     {
-        "name": "Leech (Enemy)",
-        "type": "Enemy"
-    },
-    {
         "name": "Leper",
         "type": "Enemy"
     },
@@ -936,39 +800,11 @@
         "type": "Enemy"
     },
     {
-        "name": "Level 2 Charger",
-        "type": "Enemy"
-    },
-    {
-        "name": "Level 2 Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Level 2 Gaper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Level 2 Gusher",
-        "type": "Enemy"
-    },
-    {
-        "name": "Level 2 Horf",
-        "type": "Enemy"
-    },
-    {
-        "name": "Level 2 Spider",
-        "type": "Enemy"
-    },
-    {
-        "name": "Level 2 Willo",
-        "type": "Enemy"
-    },
-    {
         "name": "Lil Portal",
         "type": "Enemy"
     },
     {
-        "name": "Lil&#39; Haunt",
+        "name": "Lil Haunt",
         "type": "Enemy"
     },
     {
@@ -996,7 +832,7 @@
         "type": "Enemy"
     },
     {
-        "name": "Mask II + 1/2 Heart",
+        "name": "Mask II",
         "type": "Enemy"
     },
     {
@@ -1040,23 +876,15 @@
         "type": "Enemy"
     },
     {
-        "name": "Modding",
-        "type": "Enemy"
-    },
-    {
         "name": "Mole",
         "type": "Enemy"
     },
     {
-        "name": "Mom&#39;s Dead Hand",
+        "name": "Mom's Dead Hand",
         "type": "Enemy"
     },
     {
-        "name": "Mom&#39;s Hand",
-        "type": "Enemy"
-    },
-    {
-        "name": "Monsters",
+        "name": "Mom's Hand",
         "type": "Enemy"
     },
     {
@@ -1108,14 +936,6 @@
         "type": "Enemy"
     },
     {
-        "name": "Mushroom (Enemy)",
-        "type": "Enemy"
-    },
-    {
-        "name": "Music",
-        "type": "Enemy"
-    },
-    {
         "name": "My Shadow",
         "type": "Enemy"
     },
@@ -1145,10 +965,6 @@
     },
     {
         "name": "Nulls",
-        "type": "Enemy"
-    },
-    {
-        "name": "Objects",
         "type": "Enemy"
     },
     {
@@ -1189,14 +1005,6 @@
     },
     {
         "name": "Peeping Fatty Eye",
-        "type": "Enemy"
-    },
-    {
-        "name": "Pickup",
-        "type": "Enemy"
-    },
-    {
-        "name": "Pickups",
         "type": "Enemy"
     },
     {
@@ -1280,7 +1088,7 @@
         "type": "Enemy"
     },
     {
-        "name": "Rag Man&#39;s Ragling",
+        "name": "Rag Man's Ragling",
         "type": "Enemy"
     },
     {
@@ -1332,10 +1140,6 @@
         "type": "Enemy"
     },
     {
-        "name": "Rooms",
-        "type": "Enemy"
-    },
-    {
         "name": "Rotten Gaper",
         "type": "Enemy"
     },
@@ -1368,14 +1172,6 @@
         "type": "Enemy"
     },
     {
-        "name": "Scarred Womb",
-        "type": "Enemy"
-    },
-    {
-        "name": "Seeds",
-        "type": "Enemy"
-    },
-    {
         "name": "Selfless Knight",
         "type": "Enemy"
     },
@@ -1392,7 +1188,7 @@
         "type": "Enemy"
     },
     {
-        "name": "Singe&#39;s Ball",
+        "name": "Singe's Ball",
         "type": "Enemy"
     },
     {
@@ -1436,19 +1232,11 @@
         "type": "Enemy"
     },
     {
-        "name": "Soul Heart",
-        "type": "Enemy"
-    },
-    {
         "name": "Soul Sucker",
         "type": "Enemy"
     },
     {
         "name": "Soy Creep",
-        "type": "Enemy"
-    },
-    {
-        "name": "Soy Milk",
         "type": "Enemy"
     },
     {
@@ -1477,10 +1265,6 @@
     },
     {
         "name": "Squirt",
-        "type": "Enemy"
-    },
-    {
-        "name": "Stage HP",
         "type": "Enemy"
     },
     {
@@ -1537,10 +1321,6 @@
     },
     {
         "name": "Swinger",
-        "type": "Enemy"
-    },
-    {
-        "name": "Switch to Light Theme",
         "type": "Enemy"
     },
     {
@@ -1684,47 +1464,11 @@
         "type": "Enemy"
     },
     {
-        "name": "Ultra Greed Coin",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ultra Greed Coin (Bomb)",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ultra Greed Coin (Heart)",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ultra Greed Coin (Key)",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ultra Greed Coin (Spinner)",
-        "type": "Enemy"
-    },
-    {
         "name": "Ultra Pestilence",
         "type": "Enemy"
     },
     {
-        "name": "Ultra Pestilence Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ultra Pestilence Fly Ball",
-        "type": "Enemy"
-    },
-    {
         "name": "Unborn",
-        "type": "Enemy"
-    },
-    {
-        "name": "Utero",
-        "type": "Enemy"
-    },
-    {
-        "name": "Version History",
         "type": "Enemy"
     },
     {
