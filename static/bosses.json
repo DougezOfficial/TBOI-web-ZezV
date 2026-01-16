@@ -366,7 +366,7 @@
     {
         "name": "The Forsaken",
         "hp": "220", "chapter": "2",
-        "image": "/static/bosses/Boss_TheForsaken_ingame.webp"
+        "image": "/static/bosses/Boss_The_Forsaken_ingame.webp"
     },
     {
         "name": "The Frail",
@@ -431,7 +431,7 @@
     {
         "name": "The Shell",
         "hp": "35", "chapter": "2.5",
-        "image": "/static/bosses/Boss_The_Shell_Ingame_ingame.webp"
+        "image": "/static/bosses/Boss_The_Shell_ingame.webp"
     },
     {
         "name": "The Siren",
@@ -466,7 +466,7 @@
     {
         "name": "Turdlet",
         "hp": "190", "chapter": "1.5",
-        "image": "/static/bosses/Boss_Turdles_ingame.webp"
+        "image": "/static/bosses/Boss_Turdlet_ingame.webp"
     },
     {
         "name": "Turdlings",

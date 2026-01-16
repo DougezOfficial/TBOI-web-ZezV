@@ -4,7 +4,7 @@
         "type": "Enemy", 
         "hp": "2", 
         "chapter": "1", 
-        "image": "/static/enemies/black_fly.png", 
+        "image": "/static/enemies/Fly.webp", 
         "text": "Harmless. Does not deal contact damage." 
     },
     { 
@@ -12,7 +12,7 @@
         "type": "Enemy", 
         "hp": "10", 
         "chapter": "1", 
-        "image": "/static/enemies/pooter.png", 
+        "image": "/static/enemies/Pooter.webp", 
         "text": "Fires a single blood shot at Isaac." 
     },
     { 
@@ -20,7 +20,7 @@
         "type": "Enemy", 
         "hp": "10", 
         "chapter": "1", 
-        "image": "/static/enemies/fat_fly.png", 
+        "image": "/static/enemies/Super_Pooter.webp", 
         "text": "Fires two shots in a V-formation." 
     },
     { 
@@ -28,7 +28,7 @@
         "type": "Enemy", 
         "hp": "6", 
         "chapter": "1", 
-        "image": "/static/enemies/sucker.png", 
+        "image": "/static/enemies/Sucker.webp", 
         "text": "Flies toward Isaac and bursts into 4 shots on death." 
     },
     { 
@@ -36,7 +36,7 @@
         "type": "Enemy", 
         "hp": "20", 
         "chapter": "1", 
-        "image": "/static/enemies/boom_fly.png", 
+        "image": "/static/enemies/Fly_Bomb.webp", 
         "text": "Bounces off walls and explodes on death." 
     },
     { 
@@ -44,7 +44,7 @@
         "type": "Enemy", 
         "hp": "3", 
         "chapter": "1", 
-        "image": "/static/enemies/red_fly.png", 
+        "image": "/static/enemies/Attack_Fly.webp", 
         "text": "Aggressively chases Isaac." 
     },
     { 
@@ -52,7 +52,7 @@
         "type": "Enemy", 
         "hp": "6", 
         "chapter": "1", 
-        "image": "/static/enemies/spider.png", 
+        "image": "/static/enemies/Spider.webp", 
         "text": "Moves erratically in short bursts." 
     },
     { 
@@ -60,7 +60,7 @@
         "type": "Enemy", 
         "hp": "12", 
         "chapter": "1", 
-        "image": "/static/enemies/big_spider.png", 
+        "image": "/static/enemies/Big_Spider.webp", 
         "text": "Splits into two smaller spiders on death." 
     },
     { 
@@ -68,7 +68,7 @@
         "type": "Enemy", 
         "hp": "10", 
         "chapter": "1", 
-        "image": "/static/enemies/trite.png", 
+        "image": "/static/enemies/Trite.webp", 
         "text": "A spider that can leap across the room." 
     },
     { 
@@ -76,7 +76,7 @@
         "type": "Enemy", 
         "hp": "12", 
         "chapter": "1", 
-        "image": "/static/enemies/ticked_spider.png", 
+        "image": "/static/enemies/Swarm_Spider.webp", 
         "text": "Faster and more aggressive spider." 
     },
     { 
@@ -84,7 +84,7 @@
         "type": "Enemy", 
         "hp": "10", 
         "chapter": "1", 
-        "image": "/static/enemies/gaper.png", 
+        "image": "/static/enemies/Gaper.webp", 
         "text": "Mindlessly chases Isaac." 
     },
     { 
@@ -92,7 +92,7 @@
     "type": "Enemy", 
     "hp": "10", 
     "chapter": "1", 
-    "image": "/static/enemies/frowning_gaper.png", 
+    "image": "/static/enemies/Frowning_Gaper.webp", 
     "text": "A faster version of the Gaper." 
 },
     { 
@@ -100,7 +100,7 @@
     "type": "Enemy", 
     "hp": "10", 
     "chapter": "1", 
-    "image": "/static/enemies/gusher.png", 
+    "image": "/static/enemies/Gusher.webp", 
     "text": "Headless body that sprays blood shots." 
 },
     { 
@@ -108,7 +108,7 @@
     "type": "Enemy", 
     "hp": "6", 
     "chapter": "1", 
-    "image": "/static/enemies/horf.png", 
+    "image": "/static/enemies/Horf.webp", 
     "text": "Stationary head that spits blood shots." 
 },
     { 
@@ -116,7 +116,7 @@
     "type": "Enemy", 
     "hp": "15", 
     "chapter": "1", 
-    "image": "/static/enemies/mulligan.png", 
+    "image": "/static/enemies/Mulligan.webp", 
     "text": "Runs away and spawns flies on death." 
 },
     { 
@@ -124,14 +124,14 @@
     "type": "Enemy", 
     "hp": "15", 
     "chapter": "1", 
-    "image": "/static/enemies/mulliboom.png", 
+    "image": "/static/enemies/Mulliboom.webp", 
     "text": "Chases Isaac and explodes on contact." 
 },
     { "name": "Hive", 
     "type": "Enemy", 
     "hp": "20", 
     "chapter": "1", 
-    "image": "/static/enemies/hive.png", 
+    "image": "/static/enemies/Hive.webp", 
     "text": "Spawns Attack Flies periodically." 
 },
     { 
@@ -139,7 +139,7 @@
     "type": "Enemy", 
     "hp": "8", 
     "chapter": "1", 
-    "image": "/static/enemies/clotty.png", 
+    "image": "/static/enemies/Clotty.webp", 
     "text": "Fires 4 shots in cardinal directions." 
 },
     { 
@@ -147,7 +147,7 @@
     "type": "Enemy", 
     "hp": "15", 
     "chapter": "1", 
-    "image": "/static/enemies/charger.png", 
+    "image": "/static/enemies/Charger.webp", 
     "text": "Charges rapidly in a straight line." 
 },
     { 
@@ -155,7 +155,7 @@
     "type": "Enemy", 
     "hp": "24", 
     "chapter": "2", 
-    "image": "/static/enemies/globbin.png", 
+    "image": "/static/enemies/Globin.webp", 
     "text": "Turns into a puddle and regenerates if not killed." 
 },
     { 
@@ -163,7 +163,7 @@
     "type": "Enemy", 
     "hp": "20", 
     "chapter": "2", 
-    "image": "/static/enemies/knight.png", 
+    "image": "/static/enemies/Knight.webp", 
     "text": "Invincible from the front; hit its back." 
 },
     { 
@@ -171,7 +171,7 @@
     "type": "Enemy", 
     "hp": "8", 
     "chapter": "2", 
-    "image": "/static/enemies/bony.png", 
+    "image": "/static/enemies/Bony.webp", 
     "text": "Throws bones from a distance." 
 },
     { 
@@ -179,7 +179,7 @@
     "type": "Enemy", 
     "hp": "32", 
     "chapter": "2", 
-    "image": "/static/enemies/fatty.png", 
+    "image": "/static/enemies/Fatty.webp", 
     "text": "High health and deals contact damage." 
 },
     { 
@@ -187,7 +187,7 @@
     "type": "Enemy", 
     "hp": "32", 
     "chapter": "2", 
-    "image": "/static/enemies/pale_fatty.png", 
+    "image": "/static/enemies/Pale_fatty.webp", 
     "text": "Releases a ring of tears upon landing a jump." 
 },
     { 
@@ -195,7 +195,7 @@
     "type": "Enemy", 
     "hp": "20", 
     "chapter": "2", 
-    "image": "/static/enemies/conjoined_fat_fly.png", 
+    "image": "/static/enemies/Moter.webp", 
     "text": "Fires two large shots that curve." 
 },
     { 
@@ -203,23 +203,23 @@
     "type": "Enemy", 
     "hp": "16", 
     "chapter": "3", 
-    "image": "/static/enemies/leaper.png", 
+    "image": "/static/enemies/Leaper.webp", 
     "text": "Jumps toward Isaac and spits blood." 
 },
     { 
-    "name": "Monstro's Tooth", 
+    "name": "Sack", 
     "type": "Enemy", 
-    "hp": "12", 
-    "chapter": "3", 
-    "image": "/static/enemies/monstros_tooth.png", 
-    "text": "Jumps and creates a shockwave." 
+    "hp": "20", 
+    "chapter": "1", 
+    "image": "/static/enemies/Sack.webp", 
+    "text": "Spawns spiders periodically." 
 },
     { 
     "name": "Vis", 
     "type": "Enemy", 
     "hp": "25", 
     "chapter": "4", 
-    "image": "/static/enemies/vis.png", 
+    "image": "/static/enemies/Vis.webp", 
     "text": "Fires a Brimstone laser from its chest." 
 },
     { 
@@ -227,7 +227,7 @@
     "type": "Enemy", 
     "hp": "10", 
     "chapter": "4", 
-    "image": "/static/enemies/kamikaze_leech.png", 
+    "image": "/static/enemies/Kamikaze_Leech.webp", 
     "text": "Explodes on contact." 
 },
     { 
@@ -235,7 +235,7 @@
     "type": "Enemy", 
     "hp": "15", 
     "chapter": "4", 
-    "image": "/static/enemies/lump.png", 
+    "image": "/static/enemies/Lump.webp", 
     "text": "Teleports and fires three blood shots." 
 },
     { 
@@ -243,7 +243,7 @@
     "type": "Enemy", 
     "hp": "18", 
     "chapter": "4", 
-    "image": "/static/enemies/parabite.png", 
+    "image": "/static/enemies/Para-Bite.webp", 
     "text": "Burrows and jumps out to bite." 
 },
     { 
@@ -251,7 +251,7 @@
     "type": "Enemy", 
     "hp": "10", 
     "chapter": "4", 
-    "image": "/static/enemies/cod_worm.png", 
+    "image": "/static/enemies/Cod_Worm.webp", 
     "text": "Invincible while in its shell; fires shots when it peeks out." 
 },
     { 
@@ -259,7 +259,7 @@
     "type": "Enemy", 
     "hp": "5", 
     "chapter": "4", 
-    "image": "/static/enemies/nerve_cell.png", 
+    "image": "/static/enemies/Nerve_Ending.webp", 
     "text": "Stationary. Slows Isaac if he touches the creep." 
 },
     { 
@@ -267,7 +267,7 @@
     "type": "Enemy", 
     "hp": "10", 
     "chapter": "2", 
-    "image": "/static/enemies/host.png", 
+    "image": "/static/enemies/Host.webp", 
     "text": "Hides under a skull; only vulnerable when firing." 
 },
     {
@@ -275,7 +275,7 @@
     "type": "Enemy", 
     "hp": "15", 
     "chapter": "3", 
-    "image": "/static/enemies/red_host.png", 
+    "image": "/static/enemies/Red_Host.webp", 
     "text": "Fires 3 shots in a spread pattern." 
 },
     { 
@@ -283,7 +283,7 @@
     "type": "Enemy", 
     "hp": "12", 
     "chapter": "3", 
-    "image": "/static/enemies/walking_boil.png", 
+    "image": "/static/enemies/Walking_Boil.webp", 
     "text": "Walks slowly and fires shots when close." 
 },
     { 
@@ -291,15 +291,15 @@
     "type": "Enemy", 
     "hp": "32", 
     "chapter": "4", 
-    "image": "/static/enemies/gutted_fatty.png", 
+    "image": "/static/enemies/Gutted_Fatty.webp", 
     "text": "Leaves red creep and fires blood shots." 
 },
     { 
-        "name": "Dank Gaper", 
+        "name": "Deep Gaper", 
     "type": "Enemy", 
     "hp": "15", 
     "chapter": "3", 
-    "image": "/static/enemies/dank_gaper.png", 
+    "image": "/static/enemies/Deep_Gaper.webp", 
     "text": "Leaves black slowing creep." 
 },
     { 
@@ -307,7 +307,7 @@
     "type": "Enemy", 
     "hp": "10", 
     "chapter": "3", 
-    "image": "/static/enemies/skinny.png", 
+    "image": "/static/enemies/Skinny.webp", 
     "text": "Moves fast and erratic." 
 },
     { 
@@ -315,7 +315,7 @@
     "type": "Enemy", 
     "hp": "12", 
     "chapter": "1", 
-    "image": "/static/enemies/rotty.png", 
+    "image": "/static/enemies/Rotty.webp", 
     "text": "Throws a bone that turns into a fly." 
 }
   ]

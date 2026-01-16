@@ -14,18 +14,12 @@
             <li><a href="#items">Items</a></li>
             <li><a href="#bosses">Bosses</a></li>
             <li><a href="#bestiary">Bestiary</a></li>
-            <li><a href="#mods">Mods</a></li>
-            <li><a href="#secret-rooms">Secret Rooms</a></li>
             <li><a href="#challenges">Challenges</a></li>
         </ul>
     </nav>
 
-    <header>
-        <h1>Repentance+ Wiki</h1>
-    </header>
-
     <div class="global-search-container">
-        <h1>Repentance+ Wiki</h1>
+        <h1>The Binding of Isaac: Repentance+ Wiki</h1>
         <input type="text" id="globalSearch" placeholder="SEARCH EVERYTHING..." autocomplete="off">
         <div id="globalResults" class="search-results-box"></div>
     </div>
@@ -47,21 +41,19 @@
             <div class="grid"></div>
         </section>
 
-        <section id="bestiary" class="lazy" data-api="bestiary">
+        <section id="bestiary" class="lazy" data-api="enemies">
             <div class="section-header">
                 <h2>Bestiary</h2>
-                <input type="text" class="local-search" placeholder="Search Enemies..." data-filter="bestiary">
+                <input type="text" class="local-search" placeholder="Search Enemies..." data-filter="enemies">
             </div>
             <div class="grid"></div>
         </section>
 
-        <section id="mods" class="lazy" data-api="mods">
-            <div class="section-header"><h2>Mods</h2></div>
-            <div class="grid"></div>
-        </section>
-
         <section id="challenges" class="lazy" data-api="challenges">
-            <div class="section-header"><h2>Challenges</h2></div>
+            <div class="section-header">
+                <h2>Challenges</h2>
+                <input type="text" class="local-search" placeholder="Search Challenges..." data-filter="challenges">
+            </div>
             <div class="grid"></div>
         </section>
     </main>

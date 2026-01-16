@@ -1,0 +1,317 @@
+[
+    { 
+        "name": "Pitch Black", 
+        "goal": "Mom", 
+        "chapter": "3", 
+        "image": "/static/challenges/1.png", 
+        "text": "Reward: Rune of Hagalaz. Darkness everywhere." 
+    },
+    { 
+        "name": "High Brow", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/2.png", 
+        "text": "Reward: Rune of Jera. Poop-themed items." 
+    },
+    { 
+        "name": "Head Trauma", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/3.png", 
+        "text": "Reward: Rune of Ehwaz. Tiny Planet + Soy Milk." 
+    },
+    { 
+        "name": "Darkness Falls", 
+        "goal": "It Lives", 
+        "chapter": "4", 
+        "image": "/static/challenges/4.png", 
+        "text": "Reward: Rune of Dagaz. Start as Eve with many items." 
+    },
+    { 
+        "name": "The Tank", 
+        "goal": "Mom", 
+        "chapter": "3", 
+        "image": "/static/challenges/5.png", 
+        "text": "Reward: Rune of Ansuz. Start with Yum Heart and high HP." 
+    },
+    { 
+        "name": "Solar System", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/6.png", 
+        "text": "Reward: Rune of Perthro. Blindfolded, use orbitals." 
+    },
+    { 
+        "name": "Suicide King", 
+        "goal": "Isaac", 
+        "chapter": "5", 
+        "image": "/static/challenges/7.png", 
+        "text": "Reward: Suicide King Card. IPECAC + My Reflection." 
+    },
+    { 
+        "name": "Cat Got Your Tongue", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/8.png", 
+        "text": "Reward: Rune of Algiz. Start as a hairball Guppy." 
+    },
+    { 
+        "name": "Demo Man", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/9.png", 
+        "text": "Reward: Rune of Berkano. Dr. Fetus + Bobby-Bomb." 
+    },
+    { 
+        "name": "Cursed!", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/10.png", 
+        "text": "Reward: Rune of Blank. Start with many cursed items." 
+    },
+    { 
+        "name": "Glass Cannon", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/11.png", 
+        "text": "Reward: Rules Card. Epic Fetus + high speed, 0 HP." 
+    },
+    { 
+        "name": "When Life Gives You Lemons", 
+        "goal": "Mom", 
+        "chapter": "3", 
+        "image": "/static/challenges/12.png", 
+        "text": "Reward: Lemon Mishap. Start with lemon items." 
+    },
+    { 
+        "name": "Beans!", 
+        "goal": "Mom", 
+        "chapter": "3", 
+        "image": "/static/challenges/13.png", 
+        "text": "Reward: Burnt Bean. Blindfolded, use beans only." 
+    },
+    { 
+        "name": "It's in the Cards", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/14.png", 
+        "text": "Reward: SMB Super Fan. Start with card items." 
+    },
+    { 
+        "name": "Slow Roll", 
+        "goal": "Mom", 
+        "chapter": "3", 
+        "image": "/static/challenges/15.png", 
+        "text": "Reward: Swallowed Penny. High damage, slow tears." 
+    },
+    { 
+        "name": "Computer Savvy", 
+        "goal": "Mom", 
+        "chapter": "3", 
+        "image": "/static/challenges/16.png", 
+        "text": "Reward: Robo-Baby 2.0. Lasers + Homing." 
+    },
+    { 
+        "name": "Waka Waka", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/17.png", 
+        "text": "Reward: Death's Touch. Anti-Gravity + Strange Attractor." 
+    },
+    { 
+        "name": "The Host", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/18.png", 
+        "text": "Reward: Technology .5. Use Spider Baby and flies." 
+    },
+    { 
+        "name": "The Family Man", 
+        "goal": "Isaac", 
+        "chapter": "5", 
+        "image": "/static/challenges/19.png", 
+        "text": "Reward: Epic Fetus. Blindfolded with many familiars." 
+    },
+    { 
+        "name": "The Purist", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/20.png", 
+        "text": "Reward: Rune of Berkano. No item rooms." 
+    },
+    { 
+        "name": "XXXXXXXXL", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/21.png", 
+        "text": "Reward: Gold Hearts. Every floor is massive." 
+    },
+    { 
+        "name": "SPEED!", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/22.png", 
+        "text": "Reward: Get Out of Jail Free Card. 16 minute timer." 
+    },
+    { 
+        "name": "Blue Bomber", 
+        "goal": "It Lives", 
+        "chapter": "4", 
+        "image": "/static/challenges/23.png", 
+        "text": "Reward: Gold Bombs. Blue Baby with Kamikaze." 
+    },
+    { 
+        "name": "PAY TO PLAY", 
+        "goal": "Isaac", 
+        "chapter": "5", 
+        "image": "/static/challenges/24.png", 
+        "text": "Reward: Percs! Pill. Use coins as health/keys." 
+    },
+    { 
+        "name": "Have a Heart", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/25.png", 
+        "text": "Reward: Re-run. Health is constantly draining." 
+    },
+    { 
+        "name": "I-Drowzee", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/26.png", 
+        "text": "Reward: Poker Chip. Everything is slowed down." 
+    },
+    { 
+        "name": "Brains!", 
+        "goal": "Blue Baby", 
+        "chapter": "6", 
+        "image": "/static/challenges/27.png", 
+        "text": "Reward: Stud Finder. Use Bob's Brain only." 
+    },
+    { 
+        "name": "PRIDE DAY!", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/28.png", 
+        "text": "Reward: D1. Rainbow tears and items." 
+    },
+    { 
+        "name": "Onan's Streak", 
+        "goal": "Isaac", 
+        "chapter": "5", 
+        "image": "/static/challenges/29.png", 
+        "text": "Reward: Kidney Stone. Missing a shot deals damage." 
+    },
+    { 
+        "name": "The Guardian", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/30.png", 
+        "text": "Reward: Blank Rune. Protect the punching bag." 
+    },
+    { 
+        "name": "Backasswards", 
+        "goal": "The End", 
+        "chapter": "1", 
+        "image": "/static/challenges/31.png", 
+        "text": "Reward: Lazarus starts with more blood. Game in reverse." 
+    },
+    { 
+        "name": "April's Fool", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/32.png", 
+        "text": "Reward: Maggy starts with pill. Random items." 
+    },
+    { 
+        "name": "Pokey Venture", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/33.png", 
+        "text": "Reward: Poke Go. Friendly monsters." 
+    },
+    { 
+        "name": "Ultra Hard", 
+        "goal": "Mega Satan", 
+        "chapter": "6", 
+        "image": "/static/challenges/34.png", 
+        "text": "Reward: Samson healthy. Hardest challenge." 
+    },
+    { 
+        "name": "Pound of Flesh", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/35.png", 
+        "text": "Reward: Greed's Gullet. Spend HP for items." 
+    },
+    { 
+        "name": "Scat Man", 
+        "goal": "Blue Baby", 
+        "chapter": "6", 
+        "image": "/static/challenges/36.png", 
+        "text": "Reward: Dirty Mind. Poop everywhere." 
+    },
+    { 
+        "name": "Bloody Mary", 
+        "goal": "Satan", 
+        "chapter": "5", 
+        "image": "/static/challenges/37.png", 
+        "text": "Reward: Beth's Faith. Bleed on every floor." 
+    },
+    { 
+        "name": "Baptism by Fire", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/38.png", 
+        "text": "Reward: Urn of Souls. Use fire to attack." 
+    },
+    { 
+        "name": "Isaac's Awakening", 
+        "goal": "Mother", 
+        "chapter": "4", 
+        "image": "/static/challenges/39.png", 
+        "text": "Reward: Spirit Sword. Zelda-themed." 
+    },
+    { 
+    "name": "Seeing Double", 
+    "goal": "Mom's Heart", 
+    "chapter": "4", 
+    "image": "/static/challenges/40.png", 
+    "text": "Reward: Strawman. Two characters at once." 
+},
+    { 
+        "name": "Pica Run", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/41.png", 
+        "text": "Reward: Gulped Trinket. Eat trinkets for powers." 
+    },
+    { 
+        "name": "Hot Potato", 
+        "goal": "The Lamb", 
+        "chapter": "5", 
+        "image": "/static/challenges/42.png", 
+        "text": "Reward: Tainted Forgotten. Throw the bone." 
+    },
+    { 
+        "name": "Cantripped!", 
+        "goal": "Mom's Heart", 
+        "chapter": "4", 
+        "image": "/static/challenges/43.png", 
+        "text": "Reward: Reverse Cards. Use cards to fight." 
+    },
+    { 
+        "name": "Red Redemption", 
+        "goal": "Mother", 
+        "chapter": "4", 
+        "image": "/static/challenges/44.png", 
+        "text": "Reward: Red Key. Navigate the red rooms." 
+    },
+    { 
+        "name": "Delete This", 
+        "goal": "Blue Baby", 
+        "chapter": "6", 
+        "image": "/static/challenges/45.png", 
+        "text": "Reward: TMTRAINER. Glitched items everywhere." 
+    }
+  ]
