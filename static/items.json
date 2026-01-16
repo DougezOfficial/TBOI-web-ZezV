@@ -1,19 +1,5 @@
 [
     {
-        "name": "Unknown Item",
-        "shown": true,
-        "text": "Tracker doesn't know this item yet",
-        "introduced_in": "Unknown",
-        "id": "NEW"
-    },
-    {
-        "name": "Glitched item",
-        "shown": true,
-        "text": "Randomized effects",
-        "introduced_in": "Repentance",
-        "id": "-1"
-    },
-    {
         "name": "G FUEL!",
         "shown": true,
         "text": "Randomized effects",

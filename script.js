@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const globalSearch = document.getElementById("globalSearch");
     const globalResults = document.getElementById("globalResults");
 
+    /*zamíchávání karet na každém reloadu */
     const shuffleArray = (array) => {
         for (let i = array.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
@@ -17,6 +18,8 @@ document.addEventListener("DOMContentLoaded", () => {
         return array;
     };
 
+    /*vnitřek karty*/
+    /*když není obrázek, hoď otazník.png*/
     window.showItem = (item) => {
         if (!item) return;
         modalTitle.innerText = item.name || "Unknown";
@@ -45,6 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
         return card;
     }
 
+    /* kontrola kategorie, když kategorie challenges, nezamíchávej karty na reloadu, jinak ano*/ 
     async function loadSectionData(category, gridElement) {
         try {
             const response = await fetch(`/api/data/${category}`);
@@ -72,7 +76,7 @@ document.addEventListener("DOMContentLoaded", () => {
         itemsToDisplay.forEach(item => container.appendChild(createCard(item)));
     }
 
-    // Global Search Logic
+    /*funkce hledání celostránkově */
     if (globalSearch) {
         globalSearch.addEventListener("input", async (e) => {
             const query = e.target.value.trim();
@@ -102,7 +106,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    // Local Search Logic
+    /*funkce hledání v jednotlivých kartách */
     document.addEventListener('input', (e) => {
         if (e.target.classList.contains('local-search')) {
             const category = e.target.dataset.filter;

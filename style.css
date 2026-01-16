@@ -197,7 +197,6 @@ section h2 {
 }
 
 .modal {
-    /*fixed*/
     display: none; 
     position: fixed; 
     z-index: 2000; 
@@ -207,7 +206,6 @@ section h2 {
     height: 100%; 
     background-color: rgba(0,0,0,0.8);
 
-    /*center*/
     display: none;
     align-items: center;
     justify-content: center;
@@ -252,37 +250,37 @@ section h2 {
 
 .close { float: right; font-size: 2rem; cursor: pointer; }
 
-@media (max-width: 1200px) {
+@media (max-width: 1200px) { /*desktop zobrazení */
     .grid { 
         grid-template-columns: repeat(4, 1fr); 
     } 
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1024px) { /*tablet zobrazení */
     .grid {
         grid-template-columns: repeat(3, 1fr);
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 768px) { /*tablet zobrazení 2 */
     .grid {
         grid-template-columns: repeat(2, 1fr);
     }
     .section-header {
-        flex-direction: column; /* Stack Title and Search on small screens */
+        flex-direction: column;
         gap: 15px;
     }
     .local-search {
-        width: 100%; /* Full width search on mobile */
+        width: 100%; 
     }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 480px) { /*mobil zobrazení */
     .grid {
         grid-template-columns: 1fr;
     }
     nav ul {
-        flex-wrap: wrap; /* Wraps menu items so they don't overflow */
+        flex-wrap: wrap;
         gap: 10px;
     }
 }
