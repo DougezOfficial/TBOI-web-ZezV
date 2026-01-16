@@ -1,1534 +1,321 @@
 [
-    {
-        "name": "Adult Leech",
-        "type": "Enemy"
-    },
-    {
-        "name": "Angelic Baby",
-        "type": "Enemy"
-    },
-    {
-        "name": "Aprils Fool",
-        "type": "Enemy"
-    },
-    {
-        "name": "Army Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ashpit",
-        "type": "Enemy"
-    },
-    {
-        "name": "Attack Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Baby",
-        "type": "Enemy"
-    },
-    {
-        "name": "Baby Begotten",
-        "type": "Enemy"
-    },
-    {
-        "name": "Baby Long Legs",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ball and Chain",
-        "type": "Enemy"
-    },
-    {
-        "name": "Begotten",
-        "type": "Enemy"
-    },
-    {
-        "name": "Big Bony",
-        "type": "Enemy"
-    },
-    {
-        "name": "Big Corn",
-        "type": "Enemy"
-    },
-    {
-        "name": "Big Spider",
-        "type": "Enemy"
-    },
-    {
-        "name": "Bishop",
-        "type": "Enemy"
-    },
-    {
-        "name": "Black Bony",
-        "type": "Enemy"
-    },
-    {
-        "name": "Black Creep",
-        "type": "Enemy"
-    },
-    {
-        "name": "Black Globin",
-        "type": "Enemy"
-    },
-    {
-        "name": "Black Globin's Body",
-        "type": "Enemy"
-    },
-    {
-        "name": "Black Globin's Head",
-        "type": "Enemy"
-    },
-    {
-        "name": "Black Goat",
-        "type": "Enemy"
-    },
-    {
-        "name": "Black Knight",
-        "type": "Enemy"
-    },
-    {
-        "name": "Black Maw",
-        "type": "Enemy"
-    },
-    {
-        "name": "Blaster",
-        "type": "Enemy"
-    },
-    {
-        "name": "Blind Creep",
-        "type": "Enemy"
-    },
-    {
-        "name": "Blister",
-        "type": "Enemy"
-    },
-    {
-        "name": "Bloat Eye",
-        "type": "Enemy"
-    },
-    {
-        "name": "Bloaty",
-        "type": "Enemy"
-    },
-    {
-        "name": "Blood Cultist",
-        "type": "Enemy"
-    },
-    {
-        "name": "Blood Puppy",
-        "type": "Enemy"
-    },
-    {
-        "name": "Bloodfly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Bloodshot Eye",
-        "type": "Enemy"
-    },
-    {
-        "name": "Blubber",
-        "type": "Enemy"
-    },
-    {
-        "name": "Blue Boil",
-        "type": "Enemy"
-    },
-    {
-        "name": "Blue Conjoined Fatty",
-        "type": "Enemy"
-    },
-    {
-        "name": "Blue Gaper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Blurb",
-        "type": "Enemy"
-    },
-    {
-        "name": "Boil",
-        "type": "Enemy"
-    },
-    {
-        "name": "Bomb Grimace",
-        "type": "Enemy"
-    },
-    {
-        "name": "Bombgagger",
-        "type": "Enemy"
-    },
-    {
-        "name": "Bombs",
-        "type": "Enemy"
-    },
-    {
-        "name": "Bone Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Bone Knight",
-        "type": "Enemy"
-    },
-    {
-        "name": "Bony",
-        "type": "Enemy"
-    },
-    {
-        "name": "Boom Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Booster Pack",
-        "type": "Enemy"
-    },
-    {
-        "name": "Bouncer",
-        "type": "Enemy"
-    },
-    {
-        "name": "Brain",
-        "type": "Enemy"
-    },
-    {
-        "name": "Brainless Knight",
-        "type": "Enemy"
-    },
-    {
-        "name": "Brimstone",
-        "type": "Enemy"
-    },
-    {
-        "name": "Brimstone Death's Head",
-        "type": "Enemy"
-    },
-    {
-        "name": "Brimstone Head",
-        "type": "Enemy"
-    },
-    {
-        "name": "Broken Gaping Maw",
-        "type": "Enemy"
-    },
-    {
-        "name": "Brownie Corn",
-        "type": "Enemy"
-    },
-    {
-        "name": "Bubbles",
-        "type": "Enemy"
-    },
-    {
-        "name": "Bulb",
-        "type": "Enemy"
-    },
-    {
-        "name": "Butt Slicker",
-        "type": "Enemy"
-    },
-    {
-        "name": "Buttlicker",
-        "type": "Enemy"
-    },
-    {
-        "name": "Camillo Jr.",
-        "type": "Enemy"
-    },
-    {
-        "name": "Candler",
-        "type": "Enemy"
-    },
-    {
-        "name": "Carrion Princess",
-        "type": "Enemy"
-    },
-    {
-        "name": "Charger",
-        "type": "Enemy"
-    },
-    {
-        "name": "Chubber",
-        "type": "Enemy"
-    },
-    {
-        "name": "Clickety Clack",
-        "type": "Enemy"
-    },
-    {
-        "name": "Cloggy",
-        "type": "Enemy"
-    },
-    {
-        "name": "Clot",
-        "type": "Enemy"
-    },
-    {
-        "name": "Clotty",
-        "type": "Enemy"
-    },
-    {
-        "name": "Coal Boy",
-        "type": "Enemy"
-    },
-    {
-        "name": "Coal Spider",
-        "type": "Enemy"
-    },
-    {
-        "name": "Cod Worm",
-        "type": "Enemy"
-    },
-    {
-        "name": "Cohort",
-        "type": "Enemy"
-    },
-    {
-        "name": "Conjoined Fatty",
-        "type": "Enemy"
-    },
-    {
-        "name": "Conjoined Spitty",
-        "type": "Enemy"
-    },
-    {
-        "name": "Constant Stone Shooter",
-        "type": "Enemy"
-    },
-    {
-        "name": "Corn",
-        "type": "Enemy"
-    },
-    {
-        "name": "Corn Mine",
-        "type": "Enemy"
-    },
-    {
-        "name": "Crackle",
-        "type": "Enemy"
-    },
-    {
-        "name": "Crazy Long Legs",
-        "type": "Enemy"
-    },
-    {
-        "name": "Creep",
-        "type": "Enemy"
-    },
-    {
-        "name": "Crispy",
-        "type": "Enemy"
-    },
-    {
-        "name": "Cross Stone Shooter",
-        "type": "Enemy"
-    },
-    {
-        "name": "Cross Stoney",
-        "type": "Enemy"
-    },
-    {
-        "name": "Cultist",
-        "type": "Enemy"
-    },
-    {
-        "name": "Cursed Death's Head",
-        "type": "Enemy"
-    },
-    {
-        "name": "Cursed Globin",
-        "type": "Enemy"
-    },
-    {
-        "name": "Cyclopia",
-        "type": "Enemy"
-    },
-    {
-        "name": "Cyst",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dank Charger",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dank Death's Head",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dank Globin",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dank Squirt",
-        "type": "Enemy"
-    },
-    {
-        "name": "Danny",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dark Ball",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dart Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dead Isaac",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dead Meat",
-        "type": "Enemy"
-    },
-    {
-        "name": "Death Scythe",
-        "type": "Enemy"
-    },
-    {
-        "name": "Death's Head",
-        "type": "Enemy"
-    },
-    {
-        "name": "Deep Gaper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dinga",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dip",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dople",
-        "type": "Enemy"
-    },
-    {
-        "name": "Double Vis",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dragon Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dragon Fly X",
-        "type": "Enemy"
-    },
-    {
-        "name": "Drip",
-        "type": "Enemy"
-    },
-    {
-        "name": "Drowned Boom Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Drowned Charger",
-        "type": "Enemy"
-    },
-    {
-        "name": "Drowned Hive",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dukie",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dummy",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dump",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dump Head",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dust",
-        "type": "Enemy"
-    },
-    {
-        "name": "Dusty Death's Head",
-        "type": "Enemy"
-    },
-    {
-        "name": "Eggy",
-        "type": "Enemy"
-    },
-    {
-        "name": "Elleech",
-        "type": "Enemy"
-    },
-    {
-        "name": "Embryo",
-        "type": "Enemy"
-    },
-    {
-        "name": "Eternal Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Eternal Fly Bomb",
-        "type": "Enemy"
-    },
-    {
-        "name": "Evil Twin",
-        "type": "Enemy"
-    },
-    {
-        "name": "Evis",
-        "type": "Enemy"
-    },
-    {
-        "name": "Exorcist",
-        "type": "Enemy"
-    },
-    {
-        "name": "Eye",
-        "type": "Enemy"
-    },
-    {
-        "name": "Faceless",
-        "type": "Enemy"
-    },
-    {
-        "name": "Fanatic",
-        "type": "Enemy"
-    },
-    {
-        "name": "Fat Bat",
-        "type": "Enemy"
-    },
-    {
-        "name": "Fat Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Fat Sack",
-        "type": "Enemy"
-    },
-    {
-        "name": "Fatty",
-        "type": "Enemy"
-    },
-    {
-        "name": "Festering Guts",
-        "type": "Enemy"
-    },
-    {
-        "name": "Fetal Demon",
-        "type": "Enemy"
-    },
-    {
-        "name": "Fire Places",
-        "type": "Enemy"
-    },
-    {
-        "name": "Fire Worm",
-        "type": "Enemy"
-    },
-    {
-        "name": "Fissure",
-        "type": "Enemy"
-    },
-    {
-        "name": "Fistuloid",
-        "type": "Enemy"
-    },
-    {
-        "name": "Flagellant",
-        "type": "Enemy"
-    },
-    {
-        "name": "Flaming Fatty",
-        "type": "Enemy"
-    },
-    {
-        "name": "Flaming Gaper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Flaming Hopper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Flesh Death's Head",
-        "type": "Enemy"
-    },
-    {
-        "name": "Flesh Maiden",
-        "type": "Enemy"
-    },
-    {
-        "name": "Flesh Mobile Host",
-        "type": "Enemy"
-    },
-    {
-        "name": "Floast",
-        "type": "Enemy"
-    },
-    {
-        "name": "Floating Knight",
-        "type": "Enemy"
-    },
-    {
-        "name": "Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Fly Bomb",
-        "type": "Enemy"
-    },
-    {
-        "name": "Fly Trap",
-        "type": "Enemy"
-    },
-    {
-        "name": "Fred",
-        "type": "Enemy"
-    },
-    {
-        "name": "Frowning Gaper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Full Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Gaper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Gaping Maw",
-        "type": "Enemy"
-    },
-    {
-        "name": "Gas Dwarf",
-        "type": "Enemy"
-    },
-    {
-        "name": "Gasbag",
-        "type": "Enemy"
-    },
-    {
-        "name": "Gazing Globin",
-        "type": "Enemy"
-    },
-    {
-        "name": "Gemini",
-        "type": "Enemy"
-    },
-    {
-        "name": "Globin",
-        "type": "Enemy"
-    },
-    {
-        "name": "Goat",
-        "type": "Enemy"
-    },
-    {
-        "name": "Greed Gaper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Grilled Clotty",
-        "type": "Enemy"
-    },
-    {
-        "name": "Grilled Gyro",
-        "type": "Enemy"
-    },
-    {
-        "name": "Grub",
-        "type": "Enemy"
-    },
-    {
-        "name": "Grudge",
-        "type": "Enemy"
-    },
-    {
-        "name": "Gurgle",
-        "type": "Enemy"
-    },
-    {
-        "name": "Gurgling",
-        "type": "Enemy"
-    },
-    {
-        "name": "Gush",
-        "type": "Enemy"
-    },
-    {
-        "name": "Gusher",
-        "type": "Enemy"
-    },
-    {
-        "name": "Gut",
-        "type": "Enemy"
-    },
-    {
-        "name": "Guts",
-        "type": "Enemy"
-    },
-    {
-        "name": "Gutted Fatty",
-        "type": "Enemy"
-    },
-    {
-        "name": "Gutted Fatty Eye",
-        "type": "Enemy"
-    },
-    {
-        "name": "Gyro",
-        "type": "Enemy"
-    },
-    {
-        "name": "Half Sack",
-        "type": "Enemy"
-    },
-    {
-        "name": "Hanger",
-        "type": "Enemy"
-    },
-    {
-        "name": "Hard Host",
-        "type": "Enemy"
-    },
-    {
-        "name": "Hardy",
-        "type": "Enemy"
-    },
-    {
-        "name": "Henry",
-        "type": "Enemy"
-    },
-    {
-        "name": "Hive",
-        "type": "Enemy"
-    },
-    {
-        "name": "Holy Bony",
-        "type": "Enemy"
-    },
-    {
-        "name": "Holy Eye",
-        "type": "Enemy"
-    },
-    {
-        "name": "Holy Leech",
-        "type": "Enemy"
-    },
-    {
-        "name": "Holy Mulligan",
-        "type": "Enemy"
-    },
-    {
-        "name": "Homunculus",
-        "type": "Enemy"
-    },
-    {
-        "name": "Hopper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Horf",
-        "type": "Enemy"
-    },
-    {
-        "name": "Host",
-        "type": "Enemy"
-    },
-    {
-        "name": "Hush",
-        "type": "Enemy"
-    },
-    {
-        "name": "Hush Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "I.Blob",
-        "type": "Enemy"
-    },
-    {
-        "name": "Imp",
-        "type": "Enemy"
-    },
-    {
-        "name": "Kamikaze Leech",
-        "type": "Enemy"
-    },
-    {
-        "name": "Keeper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Kineti",
-        "type": "Enemy"
-    },
-    {
-        "name": "Knight",
-        "type": "Enemy"
-    },
-    {
-        "name": "Larry Jr.",
-        "type": "Enemy"
-    },
-    {
-        "name": "Leaper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Leech",
-        "type": "Enemy"
-    },
-    {
-        "name": "Leper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Leper Flesh",
-        "type": "Enemy"
-    },
-    {
-        "name": "Lil Portal",
-        "type": "Enemy"
-    },
-    {
-        "name": "Lil Haunt",
-        "type": "Enemy"
-    },
-    {
-        "name": "Loose Knight",
-        "type": "Enemy"
-    },
-    {
-        "name": "Lump",
-        "type": "Enemy"
-    },
-    {
-        "name": "Maggot",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mama Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mama Guts",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mask + Heart",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mask II",
-        "type": "Enemy"
-    },
-    {
-        "name": "Maw",
-        "type": "Enemy"
-    },
-    {
-        "name": "Maze Roamer",
-        "type": "Enemy"
-    },
-    {
-        "name": "Meatball",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mega Clotty",
-        "type": "Enemy"
-    },
-    {
-        "name": "MemBrain",
-        "type": "Enemy"
-    },
-    {
-        "name": "Migraine",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mines",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ministro",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mobile Host",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mockulus",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mole",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mom's Dead Hand",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mom's Hand",
-        "type": "Enemy"
-    },
-    {
-        "name": "Monstro",
-        "type": "Enemy"
-    },
-    {
-        "name": "Morningstar",
-        "type": "Enemy"
-    },
-    {
-        "name": "Moter",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mother",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mr. Maw",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mr. Mine",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mr. Red Maw",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mulliboom",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mulligan",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mullighoul",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mulligoon",
-        "type": "Enemy"
-    },
-    {
-        "name": "Mushroom",
-        "type": "Enemy"
-    },
-    {
-        "name": "My Shadow",
-        "type": "Enemy"
-    },
-    {
-        "name": "Necro",
-        "type": "Enemy"
-    },
-    {
-        "name": "Needle",
-        "type": "Enemy"
-    },
-    {
-        "name": "Nerve Ending",
-        "type": "Enemy"
-    },
-    {
-        "name": "Nerve Ending 2",
-        "type": "Enemy"
-    },
-    {
-        "name": "Nest",
-        "type": "Enemy"
-    },
-    {
-        "name": "Night Crawler",
-        "type": "Enemy"
-    },
-    {
-        "name": "Nulls",
-        "type": "Enemy"
-    },
-    {
-        "name": "One Tooth",
-        "type": "Enemy"
-    },
-    {
-        "name": "Oob",
-        "type": "Enemy"
-    },
-    {
-        "name": "Pacer",
-        "type": "Enemy"
-    },
-    {
-        "name": "Pale Fatty",
-        "type": "Enemy"
-    },
-    {
-        "name": "Para-Bite",
-        "type": "Enemy"
-    },
-    {
-        "name": "Pasty",
-        "type": "Enemy"
-    },
-    {
-        "name": "Peep",
-        "type": "Enemy"
-    },
-    {
-        "name": "Peep Eye",
-        "type": "Enemy"
-    },
-    {
-        "name": "Peeping Fatty",
-        "type": "Enemy"
-    },
-    {
-        "name": "Peeping Fatty Eye",
-        "type": "Enemy"
-    },
-    {
-        "name": "Pitfall",
-        "type": "Enemy"
-    },
-    {
-        "name": "Planetoid",
-        "type": "Enemy"
-    },
-    {
-        "name": "Poison Mind",
-        "type": "Enemy"
-    },
-    {
-        "name": "Poky",
-        "type": "Enemy"
-    },
-    {
-        "name": "Polty",
-        "type": "Enemy"
-    },
-    {
-        "name": "Pon",
-        "type": "Enemy"
-    },
-    {
-        "name": "Poofer",
-        "type": "Enemy"
-    },
-    {
-        "name": "Poops",
-        "type": "Enemy"
-    },
-    {
-        "name": "Poot Mine",
-        "type": "Enemy"
-    },
-    {
-        "name": "Pooter",
-        "type": "Enemy"
-    },
-    {
-        "name": "Portal",
-        "type": "Enemy"
-    },
-    {
-        "name": "Prey",
-        "type": "Enemy"
-    },
-    {
-        "name": "Psy Tumor",
-        "type": "Enemy"
-    },
-    {
-        "name": "Psychic Horf",
-        "type": "Enemy"
-    },
-    {
-        "name": "Psychic Maw",
-        "type": "Enemy"
-    },
-    {
-        "name": "Purple Ball",
-        "type": "Enemy"
-    },
-    {
-        "name": "Pustule",
-        "type": "Enemy"
-    },
-    {
-        "name": "Quad Revenant",
-        "type": "Enemy"
-    },
-    {
-        "name": "Quake Grimace",
-        "type": "Enemy"
-    },
-    {
-        "name": "Quakey",
-        "type": "Enemy"
-    },
-    {
-        "name": "Rag Man's Ragling",
-        "type": "Enemy"
-    },
-    {
-        "name": "Rage Creep",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ragling",
-        "type": "Enemy"
-    },
-    {
-        "name": "Red Boom Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Red Creep",
-        "type": "Enemy"
-    },
-    {
-        "name": "Red Ghost",
-        "type": "Enemy"
-    },
-    {
-        "name": "Red Host",
-        "type": "Enemy"
-    },
-    {
-        "name": "Red Maw",
-        "type": "Enemy"
-    },
-    {
-        "name": "Redskull",
-        "type": "Enemy"
-    },
-    {
-        "name": "Revenant",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ring Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Rock Spider",
-        "type": "Enemy"
-    },
-    {
-        "name": "Rocks",
-        "type": "Enemy"
-    },
-    {
-        "name": "Rotten Gaper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Rotty",
-        "type": "Enemy"
-    },
-    {
-        "name": "Round Worm",
-        "type": "Enemy"
-    },
-    {
-        "name": "Roundy",
-        "type": "Enemy"
-    },
-    {
-        "name": "Sack",
-        "type": "Enemy"
-    },
-    {
-        "name": "Scarred Double Vis",
-        "type": "Enemy"
-    },
-    {
-        "name": "Scarred Guts",
-        "type": "Enemy"
-    },
-    {
-        "name": "Scarred Para-Bite",
-        "type": "Enemy"
-    },
-    {
-        "name": "Selfless Knight",
-        "type": "Enemy"
-    },
-    {
-        "name": "Shady",
-        "type": "Enemy"
-    },
-    {
-        "name": "Sick Boom Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Singe",
-        "type": "Enemy"
-    },
-    {
-        "name": "Singe's Ball",
-        "type": "Enemy"
-    },
-    {
-        "name": "Siren Helper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Siren Minion",
-        "type": "Enemy"
-    },
-    {
-        "name": "Skinny",
-        "type": "Enemy"
-    },
-    {
-        "name": "Slide",
-        "type": "Enemy"
-    },
-    {
-        "name": "Slog",
-        "type": "Enemy"
-    },
-    {
-        "name": "Small Baby Long Legs",
-        "type": "Enemy"
-    },
-    {
-        "name": "Small Crazy Long Legs",
-        "type": "Enemy"
-    },
-    {
-        "name": "Small Leech",
-        "type": "Enemy"
-    },
-    {
-        "name": "Small Maggot",
-        "type": "Enemy"
-    },
-    {
-        "name": "Snapper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Soul Sucker",
-        "type": "Enemy"
-    },
-    {
-        "name": "Soy Creep",
-        "type": "Enemy"
-    },
-    {
-        "name": "Spider",
-        "type": "Enemy"
-    },
-    {
-        "name": "Spikeball",
-        "type": "Enemy"
-    },
-    {
-        "name": "Spit",
-        "type": "Enemy"
-    },
-    {
-        "name": "Spitty",
-        "type": "Enemy"
-    },
-    {
-        "name": "Splasher",
-        "type": "Enemy"
-    },
-    {
-        "name": "Splurt",
-        "type": "Enemy"
-    },
-    {
-        "name": "Squirt",
-        "type": "Enemy"
-    },
-    {
-        "name": "Status Effects",
-        "type": "Enemy"
-    },
-    {
-        "name": "Sticky Leaper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Stone Eye",
-        "type": "Enemy"
-    },
-    {
-        "name": "Stone Grimace",
-        "type": "Enemy"
-    },
-    {
-        "name": "Stoney",
-        "type": "Enemy"
-    },
-    {
-        "name": "Strider",
-        "type": "Enemy"
-    },
-    {
-        "name": "Sub Horf",
-        "type": "Enemy"
-    },
-    {
-        "name": "Sucker",
-        "type": "Enemy"
-    },
-    {
-        "name": "Suction Pitfall",
-        "type": "Enemy"
-    },
-    {
-        "name": "Super Pooter",
-        "type": "Enemy"
-    },
-    {
-        "name": "Swarm",
-        "type": "Enemy"
-    },
-    {
-        "name": "Swarm Spider",
-        "type": "Enemy"
-    },
-    {
-        "name": "Swarmer",
-        "type": "Enemy"
-    },
-    {
-        "name": "Swinger",
-        "type": "Enemy"
-    },
-    {
-        "name": "Tainted Boom Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Tainted Faceless",
-        "type": "Enemy"
-    },
-    {
-        "name": "Tainted Hopper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Tainted Mole",
-        "type": "Enemy"
-    },
-    {
-        "name": "Tainted Mulligan",
-        "type": "Enemy"
-    },
-    {
-        "name": "Tainted Pooter",
-        "type": "Enemy"
-    },
-    {
-        "name": "Tainted Round Worm",
-        "type": "Enemy"
-    },
-    {
-        "name": "Tainted Soy Creep",
-        "type": "Enemy"
-    },
-    {
-        "name": "Tainted Spitty",
-        "type": "Enemy"
-    },
-    {
-        "name": "Tainted Sub Horf",
-        "type": "Enemy"
-    },
-    {
-        "name": "Tainted Sucker",
-        "type": "Enemy"
-    },
-    {
-        "name": "Tainted Tube Worm",
-        "type": "Enemy"
-    },
-    {
-        "name": "Tar Boy",
-        "type": "Enemy"
-    },
-    {
-        "name": "Teleport Pitfall",
-        "type": "Enemy"
-    },
-    {
-        "name": "The Bloat",
-        "type": "Enemy"
-    },
-    {
-        "name": "The Heretic",
-        "type": "Enemy"
-    },
-    {
-        "name": "The Horny Boys",
-        "type": "Enemy"
-    },
-    {
-        "name": "The Siren",
-        "type": "Enemy"
-    },
-    {
-        "name": "The Thing",
-        "type": "Enemy"
-    },
-    {
-        "name": "The Visage",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ticking Spider",
-        "type": "Enemy"
-    },
-    {
-        "name": "Tinted Rock Spider",
-        "type": "Enemy"
-    },
-    {
-        "name": "Transformations",
-        "type": "Enemy"
-    },
-    {
-        "name": "Trinkets",
-        "type": "Enemy"
-    },
-    {
-        "name": "Triple Grimace",
-        "type": "Enemy"
-    },
-    {
-        "name": "Trite",
-        "type": "Enemy"
-    },
-    {
-        "name": "Tube Worm",
-        "type": "Enemy"
-    },
-    {
-        "name": "Tumor",
-        "type": "Enemy"
-    },
-    {
-        "name": "Twitchy",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ulcer",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ultra Death",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ultra Death Head",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ultra Death Scythe",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ultra Famine",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ultra Famine Fly",
-        "type": "Enemy"
-    },
-    {
-        "name": "Ultra Pestilence",
-        "type": "Enemy"
-    },
-    {
-        "name": "Unborn",
-        "type": "Enemy"
-    },
-    {
-        "name": "Vis",
-        "type": "Enemy"
-    },
-    {
-        "name": "Vis Fatty",
-        "type": "Enemy"
-    },
-    {
-        "name": "Vis Versa",
-        "type": "Enemy"
-    },
-    {
-        "name": "Visage Plasma",
-        "type": "Enemy"
-    },
-    {
-        "name": "Vomit Grimace",
-        "type": "Enemy"
-    },
-    {
-        "name": "Walking Boil",
-        "type": "Enemy"
-    },
-    {
-        "name": "Walking Gut",
-        "type": "Enemy"
-    },
-    {
-        "name": "Walking Sack",
-        "type": "Enemy"
-    },
-    {
-        "name": "Wall Creep",
-        "type": "Enemy"
-    },
-    {
-        "name": "Wall Hugger",
-        "type": "Enemy"
-    },
-    {
-        "name": "Whipper",
-        "type": "Enemy"
-    },
-    {
-        "name": "Willo",
-        "type": "Enemy"
-    },
-    {
-        "name": "Wizoob",
-        "type": "Enemy"
-    },
-    {
-        "name": "Wraith",
-        "type": "Enemy"
-    },
-    {
-        "name": "Wrinkly Baby",
-        "type": "Enemy"
-    }
-]
+    { 
+        "name": "Black Fly", 
+        "type": "Enemy", 
+        "hp": "2", 
+        "chapter": "1", 
+        "image": "/static/enemies/black_fly.png", 
+        "text": "Harmless. Does not deal contact damage." 
+    },
+    { 
+        "name": "Pooter", 
+        "type": "Enemy", 
+        "hp": "10", 
+        "chapter": "1", 
+        "image": "/static/enemies/pooter.png", 
+        "text": "Fires a single blood shot at Isaac." 
+    },
+    { 
+        "name": "Fat Fly", 
+        "type": "Enemy", 
+        "hp": "10", 
+        "chapter": "1", 
+        "image": "/static/enemies/fat_fly.png", 
+        "text": "Fires two shots in a V-formation." 
+    },
+    { 
+        "name": "Sucker", 
+        "type": "Enemy", 
+        "hp": "6", 
+        "chapter": "1", 
+        "image": "/static/enemies/sucker.png", 
+        "text": "Flies toward Isaac and bursts into 4 shots on death." 
+    },
+    { 
+        "name": "Boom Fly", 
+        "type": "Enemy", 
+        "hp": "20", 
+        "chapter": "1", 
+        "image": "/static/enemies/boom_fly.png", 
+        "text": "Bounces off walls and explodes on death." 
+    },
+    { 
+        "name": "Red Fly", 
+        "type": "Enemy", 
+        "hp": "3", 
+        "chapter": "1", 
+        "image": "/static/enemies/red_fly.png", 
+        "text": "Aggressively chases Isaac." 
+    },
+    { 
+        "name": "Spider", 
+        "type": "Enemy", 
+        "hp": "6", 
+        "chapter": "1", 
+        "image": "/static/enemies/spider.png", 
+        "text": "Moves erratically in short bursts." 
+    },
+    { 
+        "name": "Big Spider", 
+        "type": "Enemy", 
+        "hp": "12", 
+        "chapter": "1", 
+        "image": "/static/enemies/big_spider.png", 
+        "text": "Splits into two smaller spiders on death." 
+    },
+    { 
+        "name": "Trite", 
+        "type": "Enemy", 
+        "hp": "10", 
+        "chapter": "1", 
+        "image": "/static/enemies/trite.png", 
+        "text": "A spider that can leap across the room." 
+    },
+    { 
+        "name": "Ticked Spider", 
+        "type": "Enemy", 
+        "hp": "12", 
+        "chapter": "1", 
+        "image": "/static/enemies/ticked_spider.png", 
+        "text": "Faster and more aggressive spider." 
+    },
+    { 
+        "name": "Gaper", 
+        "type": "Enemy", 
+        "hp": "10", 
+        "chapter": "1", 
+        "image": "/static/enemies/gaper.png", 
+        "text": "Mindlessly chases Isaac." 
+    },
+    { 
+    "name": "Frowning Gaper", 
+    "type": "Enemy", 
+    "hp": "10", 
+    "chapter": "1", 
+    "image": "/static/enemies/frowning_gaper.png", 
+    "text": "A faster version of the Gaper." 
+},
+    { 
+    "name": "Gusher", 
+    "type": "Enemy", 
+    "hp": "10", 
+    "chapter": "1", 
+    "image": "/static/enemies/gusher.png", 
+    "text": "Headless body that sprays blood shots." 
+},
+    { 
+    "name": "Horf", 
+    "type": "Enemy", 
+    "hp": "6", 
+    "chapter": "1", 
+    "image": "/static/enemies/horf.png", 
+    "text": "Stationary head that spits blood shots." 
+},
+    { 
+    "name": "Mulligan", 
+    "type": "Enemy", 
+    "hp": "15", 
+    "chapter": "1", 
+    "image": "/static/enemies/mulligan.png", 
+    "text": "Runs away and spawns flies on death." 
+},
+    { 
+    "name": "Mulliboom", 
+    "type": "Enemy", 
+    "hp": "15", 
+    "chapter": "1", 
+    "image": "/static/enemies/mulliboom.png", 
+    "text": "Chases Isaac and explodes on contact." 
+},
+    { "name": "Hive", 
+    "type": "Enemy", 
+    "hp": "20", 
+    "chapter": "1", 
+    "image": "/static/enemies/hive.png", 
+    "text": "Spawns Attack Flies periodically." 
+},
+    { 
+        "name": "Clotty", 
+    "type": "Enemy", 
+    "hp": "8", 
+    "chapter": "1", 
+    "image": "/static/enemies/clotty.png", 
+    "text": "Fires 4 shots in cardinal directions." 
+},
+    { 
+    "name": "Charger", 
+    "type": "Enemy", 
+    "hp": "15", 
+    "chapter": "1", 
+    "image": "/static/enemies/charger.png", 
+    "text": "Charges rapidly in a straight line." 
+},
+    { 
+    "name": "Globbin", 
+    "type": "Enemy", 
+    "hp": "24", 
+    "chapter": "2", 
+    "image": "/static/enemies/globbin.png", 
+    "text": "Turns into a puddle and regenerates if not killed." 
+},
+    { 
+    "name": "Knight", 
+    "type": "Enemy", 
+    "hp": "20", 
+    "chapter": "2", 
+    "image": "/static/enemies/knight.png", 
+    "text": "Invincible from the front; hit its back." 
+},
+    { 
+    "name": "Bony", 
+    "type": "Enemy", 
+    "hp": "8", 
+    "chapter": "2", 
+    "image": "/static/enemies/bony.png", 
+    "text": "Throws bones from a distance." 
+},
+    { 
+    "name": "Fatty", 
+    "type": "Enemy", 
+    "hp": "32", 
+    "chapter": "2", 
+    "image": "/static/enemies/fatty.png", 
+    "text": "High health and deals contact damage." 
+},
+    { 
+    "name": "Pale Fatty", 
+    "type": "Enemy", 
+    "hp": "32", 
+    "chapter": "2", 
+    "image": "/static/enemies/pale_fatty.png", 
+    "text": "Releases a ring of tears upon landing a jump." 
+},
+    { 
+    "name": "Conjoined Fat Fly", 
+    "type": "Enemy", 
+    "hp": "20", 
+    "chapter": "2", 
+    "image": "/static/enemies/conjoined_fat_fly.png", 
+    "text": "Fires two large shots that curve." 
+},
+    { 
+    "name": "Leaper", 
+    "type": "Enemy", 
+    "hp": "16", 
+    "chapter": "3", 
+    "image": "/static/enemies/leaper.png", 
+    "text": "Jumps toward Isaac and spits blood." 
+},
+    { 
+    "name": "Monstro's Tooth", 
+    "type": "Enemy", 
+    "hp": "12", 
+    "chapter": "3", 
+    "image": "/static/enemies/monstros_tooth.png", 
+    "text": "Jumps and creates a shockwave." 
+},
+    { 
+    "name": "Vis", 
+    "type": "Enemy", 
+    "hp": "25", 
+    "chapter": "4", 
+    "image": "/static/enemies/vis.png", 
+    "text": "Fires a Brimstone laser from its chest." 
+},
+    { 
+    "name": "Kamikaze Leech", 
+    "type": "Enemy", 
+    "hp": "10", 
+    "chapter": "4", 
+    "image": "/static/enemies/kamikaze_leech.png", 
+    "text": "Explodes on contact." 
+},
+    { 
+    "name": "Lump", 
+    "type": "Enemy", 
+    "hp": "15", 
+    "chapter": "4", 
+    "image": "/static/enemies/lump.png", 
+    "text": "Teleports and fires three blood shots." 
+},
+    { 
+    "name": "Para-Bite", 
+    "type": "Enemy", 
+    "hp": "18", 
+    "chapter": "4", 
+    "image": "/static/enemies/parabite.png", 
+    "text": "Burrows and jumps out to bite." 
+},
+    { 
+    "name": "Cod Worm", 
+    "type": "Enemy", 
+    "hp": "10", 
+    "chapter": "4", 
+    "image": "/static/enemies/cod_worm.png", 
+    "text": "Invincible while in its shell; fires shots when it peeks out." 
+},
+    { 
+    "name": "Nerve Cell", 
+    "type": "Enemy", 
+    "hp": "5", 
+    "chapter": "4", 
+    "image": "/static/enemies/nerve_cell.png", 
+    "text": "Stationary. Slows Isaac if he touches the creep." 
+},
+    { 
+    "name": "Host", 
+    "type": "Enemy", 
+    "hp": "10", 
+    "chapter": "2", 
+    "image": "/static/enemies/host.png", 
+    "text": "Hides under a skull; only vulnerable when firing." 
+},
+    {
+    "name": "Red Host", 
+    "type": "Enemy", 
+    "hp": "15", 
+    "chapter": "3", 
+    "image": "/static/enemies/red_host.png", 
+    "text": "Fires 3 shots in a spread pattern." 
+},
+    { 
+    "name": "Walking Boil", 
+    "type": "Enemy", 
+    "hp": "12", 
+    "chapter": "3", 
+    "image": "/static/enemies/walking_boil.png", 
+    "text": "Walks slowly and fires shots when close." 
+},
+    { 
+    "name": "Gutted Fatty", 
+    "type": "Enemy", 
+    "hp": "32", 
+    "chapter": "4", 
+    "image": "/static/enemies/gutted_fatty.png", 
+    "text": "Leaves red creep and fires blood shots." 
+},
+    { 
+        "name": "Dank Gaper", 
+    "type": "Enemy", 
+    "hp": "15", 
+    "chapter": "3", 
+    "image": "/static/enemies/dank_gaper.png", 
+    "text": "Leaves black slowing creep." 
+},
+    { 
+        "name": "Skinny", 
+    "type": "Enemy", 
+    "hp": "10", 
+    "chapter": "3", 
+    "image": "/static/enemies/skinny.png", 
+    "text": "Moves fast and erratic." 
+},
+    { 
+        "name": "Rotty", 
+    "type": "Enemy", 
+    "hp": "12", 
+    "chapter": "1", 
+    "image": "/static/enemies/rotty.png", 
+    "text": "Throws a bone that turns into a fly." 
+}
+  ]

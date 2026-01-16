@@ -106,6 +106,15 @@ section {
     cursor: pointer;
 }
 
+.card-stats {
+    font-family: var(--diary-font);
+    font-size: 0.9rem;
+    color: var(--blood);
+    font-weight: bold;
+    margin-top: 5px;
+    text-transform: uppercase;
+}
+
 .card:hover { 
     transform: translateY(-10px) rotate(2deg); 
     background: #fffcf2; 
@@ -116,7 +125,7 @@ section {
     height: 120px;
     image-rendering: pixelated; 
     object-fit: contain; 
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 .search-container {
